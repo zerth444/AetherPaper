@@ -1,0 +1,6 @@
+PASS station inventory survives real server restart
+PASS fuel stack survives real server restart
+PASS egg/input owner survives real server restart
+PASS fuel duration survives real server restart
+PASS saved legacy-compatible station opens functional furnace menu
+PASS actual player block break closes station and removes state

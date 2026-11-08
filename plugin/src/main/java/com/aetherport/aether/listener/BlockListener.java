@@ -164,6 +164,7 @@ public final class BlockListener implements Listener {
         } catch (Throwable ignored) {
         }
         event.setCancelled(true);
+        if(plugin.stations()!=null)plugin.stations().breakStation(block);
         block.setType(Material.AIR, false);
         if (player.getGameMode().name().equals("CREATIVE")) {
             return; // creative never drops
@@ -229,6 +230,7 @@ public final class BlockListener implements Listener {
             iterator.remove();
             if(def.hardness()<0 || plugin.dungeons()!=null && com.aetherport.aether.dungeon.DungeonManager.isLockedBlock(def.id()) && plugin.dungeons().isLocked(block.getLocation()))continue;
             dropCustom(block,def,new ItemStack(Material.AIR),Math.max(0,Math.min(1,yield)),false);
+            if(plugin.stations()!=null)plugin.stations().breakStation(block);
             block.setType(Material.AIR,false);
         }
     }

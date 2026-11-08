@@ -3,8 +3,8 @@ from pathlib import Path
 import json, os, shutil, subprocess, time, zipfile, argparse
 
 ROOT=Path(__file__).resolve().parents[2]
-parser=argparse.ArgumentParser();parser.add_argument('--revision',type=int,choices=(14,15,16,17,18),default=14)
-parser.add_argument('--plugin-revision',type=int,choices=(14,15,16,17,18))
+parser=argparse.ArgumentParser();parser.add_argument('--revision',type=int,choices=(14,15,16,17,18,19),default=14)
+parser.add_argument('--plugin-revision',type=int,choices=(14,15,16,17,18,19))
 parser.add_argument('--paper-build',type=int,choices=(82,129),default=129)
 args=parser.parse_args();REVISION=args.revision;PLUGIN_REVISION=args.plugin_revision or REVISION
 BASE=ROOT/(f'build/qa-r{REVISION}-server' if args.paper_build==129 else f'build/qa-r{REVISION}-paper82-server')

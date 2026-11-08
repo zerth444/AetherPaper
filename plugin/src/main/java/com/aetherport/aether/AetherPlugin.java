@@ -43,7 +43,7 @@ import java.util.List;
  * Entry point of the private Aether port for Paper 26.2.
  */
 public final class AetherPlugin extends JavaPlugin {
-    public static final String BUILD_ID = "2026.11.08-r18";
+    public static final String BUILD_ID = "2026.11.08-r19";
     private RecipeRegistrar recipeRegistrar;
     public void refreshServerRegistries(){
         if(recipeRegistrar!=null)recipeRegistrar.registerAll(this,getLogger());
@@ -161,9 +161,8 @@ public final class AetherPlugin extends JavaPlugin {
         Recipes recipes = new Recipes(content, aetherItems);
         recipes.load(getLogger());
         stationManager = new StationManager(this, aetherItems, recipes);
-        stationManager.loadStations();
         getServer().getPluginManager().registerEvents(stationManager, this);
-        getServer().getScheduler().runTaskTimer(this, stationManager::tick, 2L, 2L);
+        getServer().getScheduler().runTaskTimer(this, stationManager::tick, 1L, 1L);
         if (getConfig().getBoolean("debug.station-test", false)) {
             getServer().getScheduler().runTaskLater(this, stationManager::stationSelfTest, 260L);
         }
@@ -522,6 +521,7 @@ public final class AetherPlugin extends JavaPlugin {
 
     @Override
     public void onDisable() {
+        if(stationManager!=null)stationManager.close();
         if(loreMenu!=null)loreMenu.close();
         if(visuals!=null)visuals.close();
         if(miningListener!=null)miningListener.close();

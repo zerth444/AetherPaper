@@ -1,0 +1,20 @@
+{
+  "build": "2026.11.08-r19",
+  "paper": "26.2-82-main@05277d4 (API26.2.build.82-beta)",
+  "checks": {
+    "full_cycles": 37,
+    "recipes_and_legacy": 129,
+    "restart": 6
+  },
+  "reports": {
+    "full_cycles": "docs/verification/stations-full-cycles-r19-paper82.txt",
+    "recipes_and_legacy": "docs/verification/stations-recipes-r19-paper82.txt",
+    "restart": "docs/verification/stations-restart-r19-paper82.txt"
+  },
+  "resourcepack_changed": false,
+  "real_server_restart_tested": true,
+  "visible_client_started": false,
+  "remote_server_accessed": false,
+  "visual_confirmation": "pending user",
+  "jar_sha256": "f0a338b76f8fdbfb1dfeb6850fea026ce005b11757131b17f2fb6e54fb93f9aa"
+}

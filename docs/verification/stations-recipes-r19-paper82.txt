@@ -1,0 +1,129 @@
+PASS recipe matrix altar minecraft:music_disc_11 -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_13 -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_blocks -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_chirp -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_far -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_mall -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_mellohi -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_stal -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_wait -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_ward -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_otherside -> aether:music_disc_aether_tune
+PASS recipe matrix altar minecraft:music_disc_strad -> aether:music_disc_chinchilla
+PASS recipe matrix altar aether:blue_berry -> aether:enchanted_berry
+PASS recipe matrix altar aether:golden_dart -> aether:enchanted_dart
+PASS recipe matrix altar aether:golden_dart_shooter -> aether:enchanted_dart_shooter
+PASS recipe matrix altar aether:gravitite_ore -> aether:enchanted_gravitite
+PASS recipe matrix altar aether:cold_aercloud -> aether:golden_aercloud
+PASS recipe matrix altar aether:holystone -> aether:healing_stone
+PASS recipe matrix altar aether:quicksoil -> aether:quicksoil_glass
+PASS recipe matrix altar aether:skyroot_poison_bucket -> aether:skyroot_remedy_bucket
+PASS recipe matrix freezer aether:cold_aercloud -> aether:blue_aercloud
+PASS recipe matrix freezer minecraft:packed_ice -> minecraft:blue_ice
+PASS recipe matrix freezer aether:skyroot_leaves -> aether:crystal_leaves
+PASS recipe matrix freezer aether:music_disc_chinchilla -> aether:music_disc_high
+PASS recipe matrix freezer minecraft:water_bucket -> minecraft:ice
+PASS recipe matrix freezer aether:iron_pendant -> aether:ice_pendant
+PASS recipe matrix freezer aether:golden_pendant -> aether:ice_pendant
+PASS recipe matrix freezer aether:iron_ring -> aether:ice_ring
+PASS recipe matrix freezer aether:golden_ring -> aether:ice_ring
+PASS recipe matrix freezer minecraft:lava_bucket -> minecraft:obsidian
+PASS recipe matrix freezer minecraft:ice -> minecraft:packed_ice
+PASS repair matrix minecraft:bow
+PASS repair matrix minecraft:chainmail_boots
+PASS repair matrix minecraft:chainmail_chestplate
+PASS repair matrix aether:chainmail_gloves
+PASS repair matrix minecraft:chainmail_helmet
+PASS repair matrix minecraft:chainmail_leggings
+PASS repair matrix minecraft:crossbow
+PASS repair matrix minecraft:diamond_axe
+PASS repair matrix minecraft:diamond_boots
+PASS repair matrix minecraft:diamond_chestplate
+PASS repair matrix aether:diamond_gloves
+PASS repair matrix minecraft:diamond_helmet
+PASS repair matrix minecraft:diamond_hoe
+PASS repair matrix minecraft:diamond_leggings
+PASS repair matrix minecraft:diamond_pickaxe
+PASS repair matrix minecraft:diamond_shovel
+PASS repair matrix minecraft:diamond_sword
+PASS repair matrix minecraft:fishing_rod
+PASS repair matrix minecraft:flint_and_steel
+PASS repair matrix minecraft:golden_axe
+PASS repair matrix minecraft:golden_boots
+PASS repair matrix minecraft:golden_chestplate
+PASS repair matrix aether:golden_gloves
+PASS repair matrix minecraft:golden_helmet
+PASS repair matrix minecraft:golden_hoe
+PASS repair matrix minecraft:golden_leggings
+PASS repair matrix minecraft:golden_pickaxe
+PASS repair matrix minecraft:golden_shovel
+PASS repair matrix minecraft:golden_sword
+PASS repair matrix aether:gravitite_axe
+PASS repair matrix aether:gravitite_boots
+PASS repair matrix aether:gravitite_chestplate
+PASS repair matrix aether:gravitite_gloves
+PASS repair matrix aether:gravitite_helmet
+PASS repair matrix aether:gravitite_hoe
+PASS repair matrix aether:gravitite_leggings
+PASS repair matrix aether:gravitite_pickaxe
+PASS repair matrix aether:gravitite_shovel
+PASS repair matrix aether:gravitite_sword
+PASS repair matrix aether:holystone_axe
+PASS repair matrix aether:holystone_hoe
+PASS repair matrix aether:holystone_pickaxe
+PASS repair matrix aether:holystone_shovel
+PASS repair matrix aether:holystone_sword
+PASS repair matrix minecraft:iron_axe
+PASS repair matrix minecraft:iron_boots
+PASS repair matrix minecraft:iron_chestplate
+PASS repair matrix aether:iron_gloves
+PASS repair matrix minecraft:iron_helmet
+PASS repair matrix minecraft:iron_hoe
+PASS repair matrix minecraft:iron_leggings
+PASS repair matrix minecraft:iron_pickaxe
+PASS repair matrix minecraft:iron_shovel
+PASS repair matrix minecraft:iron_sword
+PASS repair matrix minecraft:leather_boots
+PASS repair matrix minecraft:leather_chestplate
+PASS repair matrix aether:leather_gloves
+PASS repair matrix minecraft:leather_helmet
+PASS repair matrix minecraft:leather_leggings
+PASS repair matrix minecraft:netherite_axe
+PASS repair matrix minecraft:netherite_boots
+PASS repair matrix minecraft:netherite_chestplate
+PASS repair matrix aether:netherite_gloves
+PASS repair matrix minecraft:netherite_helmet
+PASS repair matrix minecraft:netherite_hoe
+PASS repair matrix minecraft:netherite_leggings
+PASS repair matrix minecraft:netherite_pickaxe
+PASS repair matrix minecraft:netherite_shovel
+PASS repair matrix minecraft:netherite_sword
+PASS repair matrix minecraft:shield
+PASS repair matrix aether:skyroot_axe
+PASS repair matrix aether:skyroot_hoe
+PASS repair matrix aether:skyroot_pickaxe
+PASS repair matrix aether:skyroot_shovel
+PASS repair matrix aether:skyroot_sword
+PASS repair matrix minecraft:stone_axe
+PASS repair matrix minecraft:stone_hoe
+PASS repair matrix minecraft:stone_pickaxe
+PASS repair matrix minecraft:stone_shovel
+PASS repair matrix minecraft:stone_sword
+PASS repair matrix minecraft:wooden_axe
+PASS repair matrix minecraft:wooden_hoe
+PASS repair matrix minecraft:wooden_pickaxe
+PASS repair matrix minecraft:wooden_shovel
+PASS repair matrix minecraft:wooden_sword
+PASS repair matrix aether:zanite_axe
+PASS repair matrix aether:zanite_boots
+PASS repair matrix aether:zanite_chestplate
+PASS repair matrix aether:zanite_gloves
+PASS repair matrix aether:zanite_helmet
+PASS repair matrix aether:zanite_hoe
+PASS repair matrix aether:zanite_leggings
+PASS repair matrix aether:zanite_pendant
+PASS repair matrix aether:zanite_pickaxe
+PASS repair matrix aether:zanite_ring
+PASS repair matrix aether:zanite_shovel
+PASS repair matrix aether:zanite_sword
+PASS legacy egg without saved owner still hatches a baby

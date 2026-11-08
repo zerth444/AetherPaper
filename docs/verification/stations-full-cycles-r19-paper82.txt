@@ -1,0 +1,37 @@
+PASS real right-click opens furnace layout instead of dummy chest row
+PASS native menu supports fuel/progress properties
+PASS inserted GUI items start processing while menu stays open
+PASS one fuel consumed from GUI immediately
+PASS cook progress sent in real clientbound container data packets
+PASS altar completes full 250-tick recipe with GUI open
+PASS station recipe ticks are server ticks, not doubled
+PASS output rejects insertion without changing result
+PASS result extracted exactly once
+PASS close/reopen cannot restore an already taken result
+PASS altar rejects vanilla furnace fuel
+PASS shift-click routes inventory ingredient to input
+PASS right-click splits station stack
+PASS shift-click removes input to player inventory
+PASS drag updates authoritative station input
+PASS drag cannot inject output
+PASS changing recipe resets progress and swaps items without duplication
+PASS freezer completes full 400-tick recipe while open
+PASS freezer shift-extraction clears result
+PASS water bucket freezes into ice
+PASS freezing returns empty bucket instead of deleting container
+PASS altar repairs vanilla damageable items
+PASS repair preserves enchantments
+PASS incompatible/full output blocks repair
+PASS blocked repair does not consume new fuel
+PASS blue moa egg accepted through GUI
+PASS white moa egg accepted through GUI
+PASS black moa egg accepted through GUI
+PASS blue moa actually hatches after full 1000-tick cycle
+PASS blue hatch is a baby owned by egg inserter
+PASS blue hatching consumes one egg and two torches
+PASS white moa actually hatches after full 1000-tick cycle
+PASS white hatch is a baby owned by egg inserter
+PASS white hatching consumes one egg and two torches
+PASS black moa actually hatches after full 1000-tick cycle
+PASS black hatch is a baby owned by egg inserter
+PASS black hatching consumes one egg and two torches
