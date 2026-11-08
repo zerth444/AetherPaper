@@ -33,6 +33,13 @@ public final class BlockListener implements Listener {
     private final Content content;
     private final AetherItems items;
     private VanillaBlockPlacement vanillaPlacement;
+    private final java.util.Map<java.util.UUID,Integer> lastPlacement=new java.util.HashMap<>();
+    @EventHandler public void onPlacementQuit(org.bukkit.event.player.PlayerQuitEvent e){lastPlacement.remove(e.getPlayer().getUniqueId());}
+    private boolean placementReady(Player player){return Bukkit.getCurrentTick()-lastPlacement.getOrDefault(player.getUniqueId(),Integer.MIN_VALUE/2)>=Math.max(1,plugin.getConfig().getInt("blocks.placement-interval-ticks",4));}
+    private void consumePlacement(Player player,EquipmentSlot hand){
+        if(player.getGameMode()!=GameMode.CREATIVE){ItemStack stack=player.getInventory().getItem(hand);stack.setAmount(stack.getAmount()-1);player.getInventory().setItem(hand,stack.getAmount()>0?stack:null);}
+        lastPlacement.put(player.getUniqueId(),Bukkit.getCurrentTick());
+    }
 
     public BlockListener(AetherPlugin plugin, Content content, AetherItems items) {
         this.plugin = plugin;
@@ -44,7 +51,8 @@ public final class BlockListener implements Listener {
         String sapling=plugin.saplings().idAt(block);if(sapling!=null)return content.block(sapling);
         if(block.getType()==Material.FROSTED_ICE && !customQuicksoil(block)) return null;
         String state = block.getBlockData().getAsString();
-        String id = content.blockIdForCarrier(state);
+        String id = content.blockId(block);
+        if(plugin.slabs()!=null&&plugin.slabs().isSlab(id))plugin.slabs().migrate(block,id);
         return id == null ? null : content.block(id);
     }
 
@@ -156,6 +164,8 @@ public final class BlockListener implements Listener {
         Player player = event.getPlayer();
         playBreakSound(event.getBlock(), def);
         Block block = event.getBlock();
+        boolean wetSlab=block.getBlockData() instanceof org.bukkit.block.data.type.Slab slab&&slab.isWaterlogged();
+        int slabCount=block.getBlockData() instanceof org.bukkit.block.data.type.Slab slab&&slab.getType()==org.bukkit.block.data.type.Slab.Type.DOUBLE?2:1;
         if(block.getType()==Material.FROSTED_ICE) block.getChunk().getPersistentDataContainer().remove(quicksoilKey(block));
         try {
             block.getWorld().spawnParticle(org.bukkit.Particle.BLOCK,
@@ -165,12 +175,13 @@ public final class BlockListener implements Listener {
         }
         event.setCancelled(true);
         if(plugin.stations()!=null)plugin.stations().breakStation(block);
-        block.setType(Material.AIR, false);
+        plugin.slabs().forget(block);
+        block.setType(wetSlab?Material.WATER:Material.AIR, false);
         if (player.getGameMode().name().equals("CREATIVE")) {
             return; // creative never drops
         }
         ItemStack held = player.getInventory().getItemInMainHand();
-        dropCustom(block,def,held,1,true);
+        dropCustom(block,def,held,1,true,slabCount);
         if(def.id().equals("berry_bush") && !isShears(held) && !hasSilkTouch(held)){
             block.setBlockData(Bukkit.createBlockData(content.block("berry_bush_stem").carrier()),false);
             Bukkit.getScheduler().runTaskLater(plugin,()->{
@@ -181,8 +192,16 @@ public final class BlockListener implements Listener {
     }
 
     private void dropCustom(Block block,BlockDef def,ItemStack held,double yield,boolean mining) {
+        int count=block.getBlockData() instanceof org.bukkit.block.data.type.Slab slab&&slab.getType()==org.bukkit.block.data.type.Slab.Type.DOUBLE?2:1;
+        dropCustom(block,def,held,yield,mining,count);
+    }
+    private void dropCustom(Block block,BlockDef def,ItemStack held,double yield,boolean mining,int slabCount) {
         boolean correctTool=correctTool(def,held);
         if (mining && def.requiresTool() && (!correctTool || toolTier(held)<def.requiredTier())) {
+            return;
+        }
+        if(def.id().endsWith("_slab")){
+            if(java.util.concurrent.ThreadLocalRandom.current().nextDouble()<yield)block.getWorld().dropItemNaturally(block.getLocation().add(.5,.5,.5),items.create(def.id(),slabCount));
             return;
         }
         for (BlockDef.Drop drop : def.drops()) {
@@ -231,6 +250,7 @@ public final class BlockListener implements Listener {
             if(def.hardness()<0 || plugin.dungeons()!=null && com.aetherport.aether.dungeon.DungeonManager.isLockedBlock(def.id()) && plugin.dungeons().isLocked(block.getLocation()))continue;
             dropCustom(block,def,new ItemStack(Material.AIR),Math.max(0,Math.min(1,yield)),false);
             if(plugin.stations()!=null)plugin.stations().breakStation(block);
+            plugin.slabs().forget(block);
             block.setType(Material.AIR,false);
         }
     }
@@ -268,10 +288,19 @@ public final class BlockListener implements Listener {
             }
             // our block item: place the carrier
             BlockDef def = content.block(id);
+            if(plugin.slabs().isSlab(id)){
+                event.setCancelled(true);
+                if(placementReady(event.getPlayer())&&plugin.slabs().place(event,id)){consumePlacement(event.getPlayer(),event.getHand());playPlaceSound(clicked,def);}
+                return;
+            }
             if (def == null || !(def.carrier().startsWith("minecraft:note_block")
                     || def.carrier().startsWith("minecraft:tripwire[") || def.carrier().startsWith("minecraft:frosted_ice[") || def.carrier().startsWith("minecraft:snow[") || def.carrier().endsWith("_stained_glass"))) {
                 return;
             }
+            // Claim this action before any early return: old native BlockItems
+            // must not fall through into a second vanilla placement.
+            event.setCancelled(true);
+            if(!placementReady(event.getPlayer()))return;
             Block target = clicked.getRelative(event.getBlockFace());
             if (target.getY() < target.getWorld().getMinHeight()
                     || target.getY() >= target.getWorld().getMaxHeight()
@@ -304,9 +333,7 @@ public final class BlockListener implements Listener {
                 event.setCancelled(true);
                 return;
             }
-            if (!player.getGameMode().name().equals("CREATIVE")) {
-                held.setAmount(held.getAmount() - 1);
-            }
+            consumePlacement(player,event.getHand());
             if(target.getType()==Material.FROSTED_ICE) target.getChunk().getPersistentDataContainer().set(quicksoilKey(target),org.bukkit.persistence.PersistentDataType.BYTE,(byte)1);
             playPlaceSound(target, def);
             event.setCancelled(true);
@@ -343,6 +370,12 @@ public final class BlockListener implements Listener {
                     && (player.getGameMode() == GameMode.CREATIVE
                             || player.getGameMode() == GameMode.SURVIVAL)) {
                 try {
+                    if(plugin.slabs().isSlab(defAt(event.getClickedBlock()).id())&&held.getType().createBlockData() instanceof org.bukkit.block.data.type.Slab){
+                        if(plugin.slabs().placeNative(event)){
+                            if(player.getGameMode()!=GameMode.CREATIVE){ItemStack stack=player.getInventory().getItem(event.getHand());stack.setAmount(stack.getAmount()-1);player.getInventory().setItem(event.getHand(),stack.getAmount()>0?stack:null);}
+                        }
+                        event.setUseItemInHand(Event.Result.DENY);event.setUseInteractedBlock(Event.Result.DENY);return;
+                    }
                     if (vanillaPlacement == null) {
                         vanillaPlacement = new VanillaBlockPlacement(player);
                     }

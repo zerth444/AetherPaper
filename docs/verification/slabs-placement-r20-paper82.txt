@@ -1,0 +1,119 @@
+PASS received both real use packets, case 0
+PASS one placement and one item consumed per ordinary interval, case 0: 1 / 7
+PASS received both real use packets, case 1
+PASS one placement and one item consumed per ordinary interval, case 1: 1 / 7
+PASS received both real use packets, case 2
+PASS one placement and one item consumed per ordinary interval, case 2: 1 / 7
+PASS skyroot_slab places bottom
+PASS skyroot_slab has native half-height bottom collision
+PASS skyroot_slab per-position identity resolves
+PASS skyroot_slab places top
+PASS skyroot_slab has native top collision
+PASS skyroot_slab joins matching top into double
+PASS skyroot_slab double has full native collision
+PASS skyroot_slab display uses original double model
+PASS skyroot_slab double drops two and removes identity
+PASS skyroot_slab replaces after break
+PASS skyroot_slab single drops one
+PASS carved_slab places bottom
+PASS carved_slab has native half-height bottom collision
+PASS carved_slab per-position identity resolves
+PASS carved_slab places top
+PASS carved_slab has native top collision
+PASS carved_slab joins matching top into double
+PASS carved_slab double has full native collision
+PASS carved_slab display uses original double model
+PASS carved_slab double drops two and removes identity
+PASS carved_slab replaces after break
+PASS carved_slab single drops one
+PASS angelic_slab places bottom
+PASS angelic_slab has native half-height bottom collision
+PASS angelic_slab per-position identity resolves
+PASS angelic_slab places top
+PASS angelic_slab has native top collision
+PASS angelic_slab joins matching top into double
+PASS angelic_slab double has full native collision
+PASS angelic_slab display uses original double model
+PASS angelic_slab double drops two and removes identity
+PASS angelic_slab replaces after break
+PASS angelic_slab single drops one
+PASS hellfire_slab places bottom
+PASS hellfire_slab has native half-height bottom collision
+PASS hellfire_slab per-position identity resolves
+PASS hellfire_slab places top
+PASS hellfire_slab has native top collision
+PASS hellfire_slab joins matching top into double
+PASS hellfire_slab double has full native collision
+PASS hellfire_slab display uses original double model
+PASS hellfire_slab double drops two and removes identity
+PASS hellfire_slab replaces after break
+PASS hellfire_slab single drops one
+PASS holystone_slab places bottom
+PASS holystone_slab has native half-height bottom collision
+PASS holystone_slab per-position identity resolves
+PASS holystone_slab places top
+PASS holystone_slab has native top collision
+PASS holystone_slab joins matching top into double
+PASS holystone_slab double has full native collision
+PASS holystone_slab display uses original double model
+PASS holystone_slab double drops two and removes identity
+PASS holystone_slab replaces after break
+PASS holystone_slab single drops one
+PASS mossy_holystone_slab places bottom
+PASS mossy_holystone_slab has native half-height bottom collision
+PASS mossy_holystone_slab per-position identity resolves
+PASS mossy_holystone_slab places top
+PASS mossy_holystone_slab has native top collision
+PASS mossy_holystone_slab joins matching top into double
+PASS mossy_holystone_slab double has full native collision
+PASS mossy_holystone_slab display uses original double model
+PASS mossy_holystone_slab double drops two and removes identity
+PASS mossy_holystone_slab replaces after break
+PASS mossy_holystone_slab single drops one
+PASS icestone_slab places bottom
+PASS icestone_slab has native half-height bottom collision
+PASS icestone_slab per-position identity resolves
+PASS icestone_slab places top
+PASS icestone_slab has native top collision
+PASS icestone_slab joins matching top into double
+PASS icestone_slab double has full native collision
+PASS icestone_slab display uses original double model
+PASS icestone_slab double drops two and removes identity
+PASS icestone_slab replaces after break
+PASS icestone_slab single drops one
+PASS holystone_brick_slab places bottom
+PASS holystone_brick_slab has native half-height bottom collision
+PASS holystone_brick_slab per-position identity resolves
+PASS holystone_brick_slab places top
+PASS holystone_brick_slab has native top collision
+PASS holystone_brick_slab joins matching top into double
+PASS holystone_brick_slab double has full native collision
+PASS holystone_brick_slab display uses original double model
+PASS holystone_brick_slab double drops two and removes identity
+PASS holystone_brick_slab replaces after break
+PASS holystone_brick_slab single drops one
+PASS aerogel_slab places bottom
+PASS aerogel_slab has native half-height bottom collision
+PASS aerogel_slab per-position identity resolves
+PASS aerogel_slab places top
+PASS aerogel_slab has native top collision
+PASS aerogel_slab joins matching top into double
+PASS aerogel_slab double has full native collision
+PASS aerogel_slab display uses original double model
+PASS aerogel_slab double drops two and removes identity
+PASS aerogel_slab replaces after break
+PASS aerogel_slab single drops one
+PASS slab placed in water is waterlogged
+PASS breaking waterlogged slab preserves water
+PASS ordinary vanilla slab retains identity and collision
+PASS old note-block slab migrates to real half-height slab
+PASS mining test slab placed
+PASS actual mining progress updates custom slab visual damage model
+PASS abort restores original slab visual
+PASS two miners show highest crack stage
+PASS one miner abort does not erase another miner's cracks
+PASS last miner abort clears overlay
+PASS piston test slab placed
+PASS real piston extension moves slab identity and visual
+PASS sticky piston retraction preserves custom slab
+PASS persistent slab fixture placed

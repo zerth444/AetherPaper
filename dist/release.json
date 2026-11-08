@@ -1,12 +1,12 @@
 {
-  "build": "2026.11.08-r19",
+  "build": "2026.11.08-r20",
   "java": 25,
   "minecraft": "26.2",
   "tested_paper_build": 82,
   "book_entries": 144,
   "sha256": {
-    "Aether-1.0.0.jar": "f0a338b76f8fdbfb1dfeb6850fea026ce005b11757131b17f2fb6e54fb93f9aa",
-    "aether-resourcepack.zip": "069ae4cc26bb022edd950aab0400e2a364b33ef53c1e4a22659b4b729af958d1",
+    "Aether-1.0.0.jar": "dcd253efb48fcd7dcca0d46f989d901e6378407fce4c5e7a52f631c3fb0031a7",
+    "aether-resourcepack.zip": "4676cbbd477dfbfd289210f8084956cfbd2cd9e90c2e3fd7021cbf053e413975",
     "aether-datapack.zip": "987d4efb9fb3b8e6397561d617d238e3b7d0ff7ff59c2f3e7986b623f07c5a5a"
   },
   "validation_reports": "docs/verification/ (reports identify tested builds; rebuilding alone is not gameplay validation)"

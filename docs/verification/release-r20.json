@@ -1,0 +1,27 @@
+{
+  "build": "2026.11.08-r20",
+  "paper": "26.2-82-main@05277d4 (API26.2.build.82-beta)",
+  "checks": {
+    "placement_geometry_mining_pistons": 119,
+    "restart": 3
+  },
+  "reports": {
+    "placement_geometry_mining_pistons": "docs/verification/slabs-placement-r20-paper82.txt",
+    "restart": "docs/verification/slabs-restart-r20-paper82.txt"
+  },
+  "baseline": "docs/verification/placement-baseline-r19.txt",
+  "slab_types": 9,
+  "base_shape_definitions": 27,
+  "crack_model_definitions": 270,
+  "vanilla_slab_overrides": 0,
+  "default_custom_placement_interval_ticks": 4,
+  "resourcepack_changed": true,
+  "real_server_restart_tested": true,
+  "visible_client_started": false,
+  "remote_server_accessed": false,
+  "visual_confirmation": "pending user",
+  "sha256": {
+    "Aether-1.0.0.jar": "dcd253efb48fcd7dcca0d46f989d901e6378407fce4c5e7a52f631c3fb0031a7",
+    "aether-resourcepack.zip": "4676cbbd477dfbfd289210f8084956cfbd2cd9e90c2e3fd7021cbf053e413975"
+  }
+}

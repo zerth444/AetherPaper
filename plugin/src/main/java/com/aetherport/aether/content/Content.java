@@ -143,6 +143,10 @@ public final class Content {
         }
         return carrierToBlock.get(carrierState);
     }
+    public String blockId(org.bukkit.block.Block block){
+        String slab=com.aetherport.aether.listener.CustomSlabs.storedId(block);
+        return slab!=null&&blocks.containsKey(slab)?slab:blockIdForCarrier(block.getBlockData().getAsString());
+    }
 
     public boolean isKnown(String id) {
         return blocks.containsKey(id) || items.containsKey(id);

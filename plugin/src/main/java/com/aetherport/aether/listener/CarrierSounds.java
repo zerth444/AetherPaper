@@ -39,7 +39,7 @@ public final class CarrierSounds implements Listener {
 
     private String custom(Block block) {
         if(block.getType()==org.bukkit.Material.FROSTED_ICE && !BlockListener.customQuicksoil(block)) return null;
-        return plugin.content().blockIdForCarrier(block.getBlockData().getAsString());
+        return plugin.content().blockId(block);
     }
 
     private void play(Block block, String key, float volume, float pitch) {

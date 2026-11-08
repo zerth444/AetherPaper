@@ -1,4 +1,7 @@
 # Aether port configuration.
+blocks:
+  # Ordinary held-use cadence; prevents repeated placement commands in one click.
+  placement-interval-ticks: 4
 resource-pack:
   # If true, the plugin hosts the bundled resource pack over its own HTTP server.
   self-host: true

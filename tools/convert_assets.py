@@ -562,6 +562,8 @@ def main():
     })
     import gen_lore_gui
     gen_lore_gui.build()
+    import gen_slab_visuals
+    gen_slab_visuals.build()
 
     os.makedirs(DIST, exist_ok=True)
     zpath = os.path.join(DIST, "aether-resourcepack.zip")

@@ -44,6 +44,7 @@ public final class MiningListener implements Listener {
     }
     public static int crackSource(Player player){return -player.getEntityId()-1;}
     private void cracks(Player player,Block block,int stage){
+        plugin.slabs().cracks(block,crackSource(player),stage);
         float value=stage<0?0:stage==0?.001f:stage/9f;
         for(Player viewer:block.getWorld().getPlayers())if(viewer.getLocation().distanceSquared(block.getLocation())<=4096)viewer.sendBlockDamage(block.getLocation(),value,crackSource(player));
     }
@@ -57,7 +58,7 @@ public final class MiningListener implements Listener {
                 if(aborted!=null){if(Bukkit.getCurrentTick()>aborted+1)clear(player);continue;}
                 if(!player.getInventory().getItemInMainHand().isSimilar(tools.get(id))){clear(player);continue;}
                 if(!player.getWorld().equals(block.getWorld()) || player.getLocation().distanceSquared(block.getLocation())>49
-                        || plugin.content().blockIdForCarrier(block.getBlockData().getAsString())==null
+                        || plugin.content().blockId(block)==null
                         || !block.equals(player.getTargetBlockExact(6))) {clear(player);continue;}
                 double done=progress.getOrDefault(id,0d)+rate(player,block);
                 progress.put(id,done);
@@ -74,7 +75,7 @@ public final class MiningListener implements Listener {
     }
     public void clear(Player player) {
         Block old=active.remove(player.getUniqueId());
-        if(old!=null && player.getWorld().equals(old.getWorld()))cracks(player,old,-1);
+        if(old!=null)cracks(player,old,-1);
         progress.remove(player.getUniqueId());
         stages.remove(player.getUniqueId());lastCrackTick.remove(player.getUniqueId());tools.remove(player.getUniqueId());
         pendingAborts.remove(player.getUniqueId());rates.remove(player.getUniqueId());
@@ -87,7 +88,7 @@ public final class MiningListener implements Listener {
         // A repeated START packet for the same tool/target is not an abort.
         if(event.getBlock().equals(active.get(player.getUniqueId())) && player.getInventory().getItemInMainHand().isSimilar(tools.get(player.getUniqueId()))){pendingAborts.remove(player.getUniqueId());event.setInstaBreak(false);return;}
         clear(player);
-        String id=plugin.content().blockIdForCarrier(event.getBlock().getBlockData().getAsString());
+        String id=plugin.content().blockId(event.getBlock());
         BlockDef def=id==null?null:plugin.content().block(id);
         if(def==null || player.getGameMode()==GameMode.CREATIVE)return;
         if(def.hardness()<0) {event.setCancelled(true);return;}
@@ -107,7 +108,7 @@ public final class MiningListener implements Listener {
         event.setInstaBreak(false);
     }
     public double rate(Player player,Block block){
-        String id=plugin.content().blockIdForCarrier(block.getBlockData().getAsString());
+        String id=plugin.content().blockId(block);
         if(id==null)return 0;
         Environment environment=environment(player,block);
         Rate cached=rates.get(player.getUniqueId());

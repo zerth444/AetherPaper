@@ -153,7 +153,7 @@ def main():
                 send(41,vi(command.get('action',0))+position(command['pos'])+bytes([command.get('face',1)])+vi(sequence))
             elif op == 'use':
                 send(66, vi(command.get('hand', 0)) + position(command['pos'])
-                     + vi(command.get('face', 1)) + struct.pack('>fff', .5, 1., .5)
+                     + vi(command.get('face', 1)) + struct.pack('>fff', *command.get('cursor', [.5, 1., .5]))
                      + b'\x00\x00' + vi(sequence))
             elif op == 'move':
                 send(30, struct.pack('>dddB', *command['pos'], 1))

@@ -27,6 +27,7 @@ STEPS = [
     "tools/check_pack_models.py",
     "tools/check_regression_assets.py",
     "tools/check_lore_gui.py",
+    "tools/check_slabs.py",
 ]
 
 

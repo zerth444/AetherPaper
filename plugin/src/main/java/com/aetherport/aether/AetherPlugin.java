@@ -43,7 +43,7 @@ import java.util.List;
  * Entry point of the private Aether port for Paper 26.2.
  */
 public final class AetherPlugin extends JavaPlugin {
-    public static final String BUILD_ID = "2026.11.08-r19";
+    public static final String BUILD_ID = "2026.11.08-r20";
     private RecipeRegistrar recipeRegistrar;
     public void refreshServerRegistries(){
         if(recipeRegistrar!=null)recipeRegistrar.registerAll(this,getLogger());
@@ -53,6 +53,8 @@ public final class AetherPlugin extends JavaPlugin {
     public com.aetherport.aether.item.LoreMenu loreMenu(){return loreMenu;}
     private com.aetherport.aether.worldgen.SaplingGrowth saplings;
     public com.aetherport.aether.worldgen.SaplingGrowth saplings(){return saplings;}
+    private com.aetherport.aether.listener.CustomSlabs slabs;
+    public com.aetherport.aether.listener.CustomSlabs slabs(){return slabs;}
     private AetherVisuals visuals;
     private com.aetherport.aether.listener.MiningListener miningListener;
 
@@ -97,6 +99,7 @@ public final class AetherPlugin extends JavaPlugin {
         saplings=new com.aetherport.aether.worldgen.SaplingGrowth(this);
         portalManager.load(this);
         aetherItems = new AetherItems(this, content);
+        slabs=new com.aetherport.aether.listener.CustomSlabs(this);
         loreMenu=new com.aetherport.aether.item.LoreMenu(this);
         new com.aetherport.aether.listener.SurvivalFixes(this);
         new com.aetherport.aether.listener.VanillaNotes(this);
@@ -521,6 +524,7 @@ public final class AetherPlugin extends JavaPlugin {
 
     @Override
     public void onDisable() {
+        if(slabs!=null)slabs.close();
         if(stationManager!=null)stationManager.close();
         if(loreMenu!=null)loreMenu.close();
         if(visuals!=null)visuals.close();

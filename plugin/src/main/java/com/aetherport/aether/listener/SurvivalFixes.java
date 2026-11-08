@@ -32,7 +32,7 @@ public final class SurvivalFixes implements Listener {
             }
         },20,20);
     }
-    private String id(Block b){return plugin.content().blockIdForCarrier(b.getBlockData().getAsString());}
+    private String id(Block b){return plugin.content().blockId(b);}
     @EventHandler(priority=EventPriority.HIGHEST)
     public void harvest(PlayerInteractEvent e) {
         if(e.getHand()!=EquipmentSlot.HAND || e.getAction()!=org.bukkit.event.block.Action.RIGHT_CLICK_BLOCK || e.getClickedBlock()==null)return;

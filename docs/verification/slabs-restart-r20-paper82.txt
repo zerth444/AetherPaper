@@ -1,0 +1,3 @@
+PASS real half-height slab survives server restart
+PASS custom identity survives real chunk save/restart
+PASS exactly one slab visual restored after restart
