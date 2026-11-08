@@ -1,0 +1,84 @@
+{
+ "textures": {
+  "0": "aether:entity/mobs/sheepuff/sheepuff",
+  "particle": "aether:entity/mobs/sheepuff/sheepuff",
+  "wool": "aether:entity/mobs/sheepuff/sheepuff_wool"
+ },
+ "elements": [
+  {
+   "from": [
+    5.5,
+    -6.5,
+    5.5
+   ],
+   "to": [
+    10.5,
+    0.5,
+    10.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      1.0,
+      10.0,
+      2.0,
+      13.0
+     ],
+     "texture": "#wool",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      2.0,
+      10.0,
+      3.0,
+      13.0
+     ],
+     "texture": "#wool",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      3.0,
+      10.0,
+      4.0,
+      13.0
+     ],
+     "texture": "#wool",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      10.0,
+      1.0,
+      13.0
+     ],
+     "texture": "#wool",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      1.0,
+      8.0,
+      2.0,
+      10.0
+     ],
+     "texture": "#wool",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      2.0,
+      8.0,
+      3.0,
+      10.0
+     ],
+     "texture": "#wool",
+     "rotation": 0
+    }
+   }
+  }
+ ],
+ "aether_display_scale": 1
+}

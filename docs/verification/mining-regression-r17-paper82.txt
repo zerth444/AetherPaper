@@ -1,0 +1,274 @@
+PASS skyroot_sapling has no standing collision
+PASS skyroot_sapling non-occluding carrier roundtrip
+PASS skyroot_sapling grows tree
+PASS skyroot_sapling grows matching trunk
+PASS tree preserves soil
+PASS golden_oak_sapling has no standing collision
+PASS golden_oak_sapling non-occluding carrier roundtrip
+PASS golden_oak_sapling grows tree
+PASS golden_oak_sapling grows matching trunk
+PASS tree preserves soil
+PASS blocked growth preserves obstruction and sapling
+PASS ordinary WHITE_STAINED_GLASS is not cloud
+PASS ordinary LIGHT_BLUE_STAINED_GLASS is not cloud
+PASS ordinary YELLOW_STAINED_GLASS is not cloud
+PASS blue_berry cannot always eat
+PASS enchanted_berry cannot always eat
+PASS Pos hides Swet client landing
+PASS Pos movement preserved
+PASS Pos ordinary entity packet unchanged
+PASS Pos nested bundle filtered
+PASS PosRot hides Swet client landing
+PASS PosRot movement preserved
+PASS PosRot ordinary entity packet unchanged
+PASS PosRot nested bundle filtered
+PASS Rot hides Swet client landing
+PASS Rot movement preserved
+PASS Rot ordinary entity packet unchanged
+PASS Rot nested bundle filtered
+PASS ClientboundTeleportEntityPacket landing filtered
+PASS ClientboundEntityPositionSyncPacket landing filtered
+PASS one stone with skyroot_pickaxe: 1
+PASS one stone with holystone_pickaxe: 1
+PASS one stone with zanite_pickaxe: 1
+PASS one stone with gravitite_pickaxe: 1
+PASS one stone with vanilla: 1
+PASS old berries migrated
+PASS old gravitite tool tier migrated, enchantment preserved
+PASS holystone hand custom=0.006666666828095913 expected=0.006666666828095913
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone skyroot_pickaxe custom=0.04444444552063942 expected=0.04444444552063942
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone zanite_pickaxe custom=0.13333334028720856 expected=0.13333334028720856
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone gravitite_pickaxe custom=0.17777778208255768 expected=0.17777778208255768
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone IRON_PICKAXE custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone IRON_SHOVEL custom=0.0033333334140479565 expected=0.0033333334140479565
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone IRON_AXE custom=0.0033333334140479565 expected=0.0033333334140479565
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone SHEARS custom=0.0033333334140479565 expected=0.0033333334140479565
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt hand custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt skyroot_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt zanite_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt gravitite_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt IRON_PICKAXE custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt IRON_SHOVEL custom=0.20000000298023224 expected=0.20000000298023224
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt IRON_AXE custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_dirt SHEARS custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block hand custom=0.0555555559694767 expected=0.0555555559694767
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block skyroot_pickaxe custom=0.0555555559694767 expected=0.0555555559694767
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block zanite_pickaxe custom=0.0555555559694767 expected=0.0555555559694767
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block gravitite_pickaxe custom=0.0555555559694767 expected=0.0555555559694767
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block IRON_PICKAXE custom=0.02777777798473835 expected=0.02777777798473835
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block IRON_SHOVEL custom=0.1666666716337204 expected=0.1666666716337204
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block IRON_AXE custom=0.02777777798473835 expected=0.02777777798473835
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS aether_grass_block SHEARS custom=0.02777777798473835 expected=0.02777777798473835
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log hand custom=0.01666666753590107 expected=0.01666666753590107
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log skyroot_pickaxe custom=0.01666666753590107 expected=0.01666666753590107
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log zanite_pickaxe custom=0.01666666753590107 expected=0.01666666753590107
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log gravitite_pickaxe custom=0.01666666753590107 expected=0.01666666753590107
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log IRON_PICKAXE custom=0.008333333767950535 expected=0.008333333767950535
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log IRON_SHOVEL custom=0.008333333767950535 expected=0.008333333767950535
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log IRON_AXE custom=0.05000000074505806 expected=0.05000000074505806
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_log SHEARS custom=0.008333333767950535 expected=0.008333333767950535
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil hand custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil skyroot_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil zanite_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil gravitite_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil IRON_PICKAXE custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil IRON_SHOVEL custom=0.20000000298023224 expected=0.20000000298023224
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil IRON_AXE custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS quicksoil SHEARS custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore hand custom=0.0033333334140479565 expected=0.0033333334140479565
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore skyroot_pickaxe custom=0.006666666828095913 expected=0.006666666828095913
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore zanite_pickaxe custom=0.06666667014360428 expected=0.06666667014360428
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore gravitite_pickaxe custom=0.08888889104127884 expected=0.08888889104127884
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore IRON_PICKAXE custom=0.03333333507180214 expected=0.03333333507180214
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore IRON_SHOVEL custom=0.0016666667070239782 expected=0.0016666667070239782
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore IRON_AXE custom=0.0016666667070239782 expected=0.0016666667070239782
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS zanite_ore SHEARS custom=0.0016666667070239782 expected=0.0016666667070239782
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves hand custom=0.1666666716337204 expected=0.1666666716337204
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves skyroot_pickaxe custom=0.1666666716337204 expected=0.1666666716337204
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves zanite_pickaxe custom=0.1666666716337204 expected=0.1666666716337204
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves gravitite_pickaxe custom=0.1666666716337204 expected=0.1666666716337204
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves IRON_PICKAXE custom=0.0833333358168602 expected=0.0833333358168602
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves IRON_SHOVEL custom=0.0833333358168602 expected=0.0833333358168602
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves IRON_AXE custom=0.0833333358168602 expected=0.0833333358168602
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS skyroot_leaves SHEARS custom=1.25 expected=1.25
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone zanite_pickaxe EffIV custom=0.5111110806465149 expected=0.5111110806465149
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS holystone IRON_PICKAXE EffIV custom=0.25555554032325745 expected=0.25555554032325745
+PASS client prediction suppressed
+PASS rate ignores own prediction limiter
+PASS mining cleanup restores attribute
+PASS sapling identity survives adjacent block physics
+PASS bonemeal interaction grows tree and consumes bonemeal
+PASS protocol client targets mining test block
+PASS server completes mining without client finish packet
+PASS completion clears prediction limiter

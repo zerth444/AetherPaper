@@ -1,0 +1,47 @@
+# Local server state, Minecraft binaries and downloaded dependencies.
+/server/
+/play-server/
+/build/
+**/.gradle/
+/plugin/build/
+**/__pycache__/
+*.pyc
+*.log
+*.log.*
+*.err
+.venv/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+# The source snapshot is versioned in vendor/the-aether-source.zip.
+/aether-mod/
+# Private conversation exports and old release backups.
+/history/
+/RECOVERY.md
+/SESSION.md
+/TASK.md
+/PLAN.md
+/PROGRESS.md
+/INVENTORY.md
+/DECISIONS.md
+/tools/dbg*.py
+/tools/patch_break.py
+/tools/recover_opencode.cjs
+/tools/launch_qa_client.py
+/tools/run_server.ps1
+/tools/start_server.ps1
+/tools/serve*.ps1
+/tools/jarstrings.py
+/tools/scan_items.py
+/tools/food_scan.py
+/tools/adv_scan.py
+/tools/feat*.py
+/tools/find*.py
+/tools/*_report.json
+/tools/renders/
+/tools/inventory.json
+/tools/mobs_report.json
+/tools/ore_populator.json

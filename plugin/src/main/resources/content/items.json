@@ -1,0 +1,1487 @@
+{
+ "skyroot_pickaxe": {
+  "kind": "pickaxe",
+  "class": "SkyrootPickaxeItem",
+  "model": "aether:item/skyroot_pickaxe",
+  "durability": 59,
+  "max_stack": 1,
+  "lang_en": "Skyroot Pickaxe",
+  "lang_ru": "Небесная кирка"
+ },
+ "skyroot_axe": {
+  "kind": "axe",
+  "class": "SkyrootAxeItem",
+  "model": "aether:item/skyroot_axe",
+  "durability": 59,
+  "max_stack": 1,
+  "lang_en": "Skyroot Axe",
+  "lang_ru": "Небесный топор"
+ },
+ "skyroot_shovel": {
+  "kind": "shovel",
+  "class": "SkyrootShovelItem",
+  "model": "aether:item/skyroot_shovel",
+  "durability": 59,
+  "max_stack": 1,
+  "lang_en": "Skyroot Shovel",
+  "lang_ru": "Небесная лопата"
+ },
+ "skyroot_hoe": {
+  "kind": "hoe",
+  "class": "SkyrootHoeItem",
+  "model": "aether:item/skyroot_hoe",
+  "durability": 59,
+  "max_stack": 1,
+  "lang_en": "Skyroot Hoe",
+  "lang_ru": "Небесная мотыга"
+ },
+ "holystone_pickaxe": {
+  "kind": "pickaxe",
+  "class": "HolystonePickaxeItem",
+  "model": "aether:item/holystone_pickaxe",
+  "durability": 131,
+  "max_stack": 1,
+  "lang_en": "Holystone Pickaxe",
+  "lang_ru": "Священнокаменная кирка"
+ },
+ "holystone_axe": {
+  "kind": "axe",
+  "class": "HolystoneAxeItem",
+  "model": "aether:item/holystone_axe",
+  "durability": 131,
+  "max_stack": 1,
+  "lang_en": "Holystone Axe",
+  "lang_ru": "Священнокаменный топор"
+ },
+ "holystone_shovel": {
+  "kind": "shovel",
+  "class": "HolystoneShovelItem",
+  "model": "aether:item/holystone_shovel",
+  "durability": 131,
+  "max_stack": 1,
+  "lang_en": "Holystone Shovel",
+  "lang_ru": "Священнокаменная лопата"
+ },
+ "holystone_hoe": {
+  "kind": "hoe",
+  "class": "HolystoneHoeItem",
+  "model": "aether:item/holystone_hoe",
+  "durability": 131,
+  "max_stack": 1,
+  "lang_en": "Holystone Hoe",
+  "lang_ru": "Священнокаменная мотыга"
+ },
+ "zanite_pickaxe": {
+  "kind": "pickaxe",
+  "class": "ZanitePickaxeItem",
+  "model": "aether:item/zanite_pickaxe",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Zanite Pickaxe",
+  "lang_ru": "Занитная кирка"
+ },
+ "zanite_axe": {
+  "kind": "axe",
+  "class": "ZaniteAxeItem",
+  "model": "aether:item/zanite_axe",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Zanite Axe",
+  "lang_ru": "Занитный топор"
+ },
+ "zanite_shovel": {
+  "kind": "shovel",
+  "class": "ZaniteShovelItem",
+  "model": "aether:item/zanite_shovel",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Zanite Shovel",
+  "lang_ru": "Занитная лопата"
+ },
+ "zanite_hoe": {
+  "kind": "hoe",
+  "class": "ZaniteHoeItem",
+  "model": "aether:item/zanite_hoe",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Zanite Hoe",
+  "lang_ru": "Занитная мотыга"
+ },
+ "gravitite_pickaxe": {
+  "kind": "pickaxe",
+  "class": "GravititePickaxeItem",
+  "model": "aether:item/gravitite_pickaxe",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Gravitite Pickaxe",
+  "lang_ru": "Гравититовая Кирка"
+ },
+ "gravitite_axe": {
+  "kind": "axe",
+  "class": "GravititeAxeItem",
+  "model": "aether:item/gravitite_axe",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Gravitite Axe",
+  "lang_ru": "Гравититовый Топор"
+ },
+ "gravitite_shovel": {
+  "kind": "shovel",
+  "class": "GravititeShovelItem",
+  "model": "aether:item/gravitite_shovel",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Gravitite Shovel",
+  "lang_ru": "Гравититовая Лопата"
+ },
+ "gravitite_hoe": {
+  "kind": "hoe",
+  "class": "GravititeHoeItem",
+  "model": "aether:item/gravitite_hoe",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Gravitite Hoe",
+  "lang_ru": "Гравититовая мотыга"
+ },
+ "valkyrie_pickaxe": {
+  "kind": "pickaxe",
+  "class": "ValkyriePickaxeItem",
+  "model": "aether:item/valkyrie_pickaxe",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Pickaxe",
+  "lang_ru": "Кирка Валькирии"
+ },
+ "valkyrie_axe": {
+  "kind": "axe",
+  "class": "ValkyrieAxeItem",
+  "model": "aether:item/valkyrie_axe",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Axe",
+  "lang_ru": "Топор Валькирии"
+ },
+ "valkyrie_shovel": {
+  "kind": "shovel",
+  "class": "ValkyrieShovelItem",
+  "model": "aether:item/valkyrie_shovel",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Shovel",
+  "lang_ru": "Лопата Валькирии"
+ },
+ "valkyrie_hoe": {
+  "kind": "hoe",
+  "class": "ValkyrieHoeItem",
+  "model": "aether:item/valkyrie_hoe",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Hoe",
+  "lang_ru": "Мотыга Валькирии"
+ },
+ "skyroot_sword": {
+  "kind": "sword",
+  "class": "SkyrootSwordItem",
+  "model": "aether:item/skyroot_sword",
+  "durability": 59,
+  "max_stack": 1,
+  "lang_en": "Skyroot Sword",
+  "lang_ru": "Небесный меч"
+ },
+ "holystone_sword": {
+  "kind": "sword",
+  "class": "HolystoneSwordItem",
+  "model": "aether:item/holystone_sword",
+  "durability": 131,
+  "max_stack": 1,
+  "lang_en": "Holystone Sword",
+  "lang_ru": "Священнокаменный меч"
+ },
+ "zanite_sword": {
+  "kind": "sword",
+  "class": "ZaniteSwordItem",
+  "model": "aether:item/zanite_sword",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Zanite Sword",
+  "lang_ru": "Занитный меч"
+ },
+ "gravitite_sword": {
+  "kind": "sword",
+  "class": "GravititeSwordItem",
+  "model": "aether:item/gravitite_sword",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Gravitite Sword",
+  "lang_ru": "Гравититовый Меч"
+ },
+ "valkyrie_lance": {
+  "kind": "item",
+  "class": "ValkyrieLanceItem",
+  "model": "aether:item/valkyrie_lance",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Valkyrie Lance",
+  "lang_ru": "Копье Валькирии"
+ },
+ "flaming_sword": {
+  "kind": "sword",
+  "class": "FlamingSwordItem",
+  "model": "aether:item/flaming_sword",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Flaming Sword",
+  "lang_ru": "Пылающий Меч"
+ },
+ "lightning_sword": {
+  "kind": "sword",
+  "class": "LightningSwordItem",
+  "model": "aether:item/lightning_sword",
+  "durability": 502,
+  "max_stack": 1,
+  "lang_en": "Lightning Sword",
+  "lang_ru": "Меч Молнии"
+ },
+ "holy_sword": {
+  "kind": "sword",
+  "class": "HolySwordItem",
+  "model": "aether:item/holy_sword",
+  "durability": 502,
+  "max_stack": 1,
+  "lang_en": "Holy Sword",
+  "lang_ru": "Святой Меч"
+ },
+ "vampire_blade": {
+  "kind": "sword",
+  "class": "VampireBladeItem",
+  "model": "aether:item/vampire_blade",
+  "durability": 2031,
+  "max_stack": 1,
+  "lang_en": "Vampire Blade",
+  "lang_ru": "Меч Вампира"
+ },
+ "pig_slayer": {
+  "kind": "sword",
+  "class": "PigSlayerItem",
+  "model": "aether:item/pig_slayer",
+  "durability": 200,
+  "max_stack": 1,
+  "lang_en": "Pig Slayer",
+  "lang_ru": "Свинной Нож"
+ },
+ "candy_cane_sword": {
+  "kind": "sword",
+  "class": "CandyCaneSwordItem",
+  "model": "aether:item/candy_cane_sword",
+  "durability": 32,
+  "max_stack": 1,
+  "lang_en": "Candy Cane Sword",
+  "lang_ru": "Конфетный Меч"
+ },
+ "hammer_of_kingbdogz": {
+  "kind": "sword",
+  "class": "HammerOfKingbdogzItem",
+  "model": "aether:item/hammer_of_kingbdogz",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Hammer of Kingbdogz",
+  "lang_ru": "Молот Кингбдогза"
+ },
+ "lightning_knife": {
+  "kind": "item",
+  "class": "LightningKnifeItem",
+  "model": "aether:item/lightning_knife",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Lightning Knife",
+  "lang_ru": "Нож Молнии"
+ },
+ "golden_dart": {
+  "kind": "item",
+  "class": "GoldenDartItem",
+  "model": "aether:item/golden_dart",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Golden Dart",
+  "lang_ru": "Золотой Дротик"
+ },
+ "poison_dart": {
+  "kind": "item",
+  "class": "PoisonDartItem",
+  "model": "aether:item/poison_dart",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Poison Dart",
+  "lang_ru": "Отравленный Дротик"
+ },
+ "enchanted_dart": {
+  "kind": "item",
+  "class": "EnchantedDartItem",
+  "model": "aether:item/enchanted_dart",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Enchanted Dart",
+  "lang_ru": "Зачарованный Дротик"
+ },
+ "golden_dart_shooter": {
+  "kind": "shooter",
+  "class": "DartShooterItem",
+  "model": "aether:item/golden_dart_shooter",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Golden Dart Shooter",
+  "lang_ru": "Золотая Духовая Трубка"
+ },
+ "poison_dart_shooter": {
+  "kind": "shooter",
+  "class": "DartShooterItem",
+  "model": "aether:item/poison_dart_shooter",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Poison Dart Shooter",
+  "lang_ru": "Ядовитая Духовая Трубка"
+ },
+ "enchanted_dart_shooter": {
+  "kind": "shooter",
+  "class": "DartShooterItem",
+  "model": "aether:item/enchanted_dart_shooter",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Enchanted Dart Shooter",
+  "lang_ru": "Зачарованная Духовая Трубка"
+ },
+ "phoenix_bow": {
+  "kind": "hoe",
+  "class": "PhoenixBowItem",
+  "model": "aether:item/phoenix_bow",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Phoenix Bow",
+  "lang_ru": "Лук Феникса"
+ },
+ "zanite_helmet": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/zanite_helmet",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Zanite Helmet",
+  "lang_ru": "Занитный шлем"
+ },
+ "zanite_chestplate": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/zanite_chestplate",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Zanite Chestplate",
+  "lang_ru": "Занитный нагрудник"
+ },
+ "zanite_leggings": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/zanite_leggings",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Zanite Leggings",
+  "lang_ru": "Занитные поножи"
+ },
+ "zanite_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/zanite_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Zanite Boots",
+  "lang_ru": "Занитные ботинки"
+ },
+ "gravitite_helmet": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/gravitite_helmet",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Gravitite Helmet",
+  "lang_ru": "Гравититовый Шлем"
+ },
+ "gravitite_chestplate": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/gravitite_chestplate",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Gravitite Chestplate",
+  "lang_ru": "Граветитовый Нагрудник"
+ },
+ "gravitite_leggings": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/gravitite_leggings",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Gravitite Leggings",
+  "lang_ru": "Гравититовые Штаны"
+ },
+ "gravitite_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/gravitite_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Gravitite Boots",
+  "lang_ru": "Гравититовые Ботинки"
+ },
+ "valkyrie_helmet": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/valkyrie_helmet",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Helmet",
+  "lang_ru": "Шлем Валькирии"
+ },
+ "valkyrie_chestplate": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/valkyrie_chestplate",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Chestplate",
+  "lang_ru": "Нагрудник Валькирии"
+ },
+ "valkyrie_leggings": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/valkyrie_leggings",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Leggings",
+  "lang_ru": "Поножи Валькирии"
+ },
+ "valkyrie_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/valkyrie_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Boots",
+  "lang_ru": "Ботинки Валькирии"
+ },
+ "neptune_helmet": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/neptune_helmet",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Neptune Helmet",
+  "lang_ru": "Шлем Нептуна"
+ },
+ "neptune_chestplate": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/neptune_chestplate",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Neptune Chestplate",
+  "lang_ru": "Нагрудник Нептуна"
+ },
+ "neptune_leggings": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/neptune_leggings",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Neptune Leggings",
+  "lang_ru": "Поножи Нептуна"
+ },
+ "neptune_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/neptune_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Neptune Boots",
+  "lang_ru": "Ботинки Нептуна"
+ },
+ "phoenix_helmet": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/phoenix_helmet",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Phoenix Helmet",
+  "lang_ru": "Шлем Феникса"
+ },
+ "phoenix_chestplate": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/phoenix_chestplate",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Phoenix Chestplate",
+  "lang_ru": "Нагрудник Феникса"
+ },
+ "phoenix_leggings": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/phoenix_leggings",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Phoenix Leggings",
+  "lang_ru": "Поножи Феникса"
+ },
+ "phoenix_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/phoenix_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Phoenix Boots",
+  "lang_ru": "Ботинки Феникса"
+ },
+ "obsidian_helmet": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/obsidian_helmet",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Obsidian Helmet",
+  "lang_ru": "Обсидиановый Шлем"
+ },
+ "obsidian_chestplate": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/obsidian_chestplate",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Obsidian Chestplate",
+  "lang_ru": "Обсидиановый Нагрудник"
+ },
+ "obsidian_leggings": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/obsidian_leggings",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Obsidian Leggings",
+  "lang_ru": "Обсидиановые Штаны"
+ },
+ "obsidian_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/obsidian_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Obsidian Boots",
+  "lang_ru": "Обсидиановые Ботинки"
+ },
+ "sentry_boots": {
+  "kind": "armor",
+  "class": "ArmorItem",
+  "model": "aether:item/sentry_boots",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Sentry Boots",
+  "lang_ru": "Ботинки Стража"
+ },
+ "blue_berry": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/blue_berry",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Blue Berry",
+  "lang_ru": "Синяя Ягода"
+ },
+ "enchanted_berry": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/enchanted_berry",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Enchanted Berry",
+  "lang_ru": "Зачарованная Ягода"
+ },
+ "white_apple": {
+  "kind": "item",
+  "class": "WhiteAppleItem",
+  "model": "aether:item/white_apple",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "White Apple",
+  "lang_ru": "Белое Яблоко"
+ },
+ "blue_gummy_swet": {
+  "kind": "item",
+  "class": "GummySwetItem",
+  "model": "aether:item/blue_gummy_swet",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Blue Gummy Swet",
+  "lang_ru": "Синяя Мармеладная конфета"
+ },
+ "golden_gummy_swet": {
+  "kind": "item",
+  "class": "GummySwetItem",
+  "model": "aether:item/golden_gummy_swet",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Golden Gummy Swet",
+  "lang_ru": "Золотая Мармеладная конфета"
+ },
+ "healing_stone": {
+  "kind": "item",
+  "class": "HealingStoneItem",
+  "model": "aether:item/healing_stone",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Healing Stone",
+  "lang_ru": "Камень исцеления"
+ },
+ "candy_cane": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/candy_cane",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Candy Cane",
+  "lang_ru": "Леденец"
+ },
+ "gingerbread_man": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/gingerbread_man",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Ginger Bread Man",
+  "lang_ru": "Пряничный Человечек"
+ },
+ "iron_ring": {
+  "kind": "accessory",
+  "class": "RingItem",
+  "model": "aether:item/iron_ring",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Iron Ring",
+  "lang_ru": "Железное Кольцо"
+ },
+ "golden_ring": {
+  "kind": "accessory",
+  "class": "RingItem",
+  "model": "aether:item/golden_ring",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Golden Ring",
+  "lang_ru": "Золотое Кольцо"
+ },
+ "zanite_ring": {
+  "kind": "accessory",
+  "class": "ZaniteRingItem",
+  "model": "aether:item/zanite_ring",
+  "durability": 49,
+  "max_stack": 1,
+  "lang_en": "Zanite Ring",
+  "lang_ru": "Занитное кольцо"
+ },
+ "ice_ring": {
+  "kind": "accessory",
+  "class": "IceRingItem",
+  "model": "aether:item/ice_ring",
+  "durability": 125,
+  "max_stack": 1,
+  "lang_en": "Ice Ring",
+  "lang_ru": "Ледяное Кольцо"
+ },
+ "iron_pendant": {
+  "kind": "accessory",
+  "class": "PendantItem",
+  "model": "aether:item/iron_pendant",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Iron Pendant",
+  "lang_ru": "Железный Кулон"
+ },
+ "golden_pendant": {
+  "kind": "accessory",
+  "class": "PendantItem",
+  "model": "aether:item/golden_pendant",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Golden Pendant",
+  "lang_ru": "Золотой Кулон"
+ },
+ "zanite_pendant": {
+  "kind": "accessory",
+  "class": "ZanitePendantItem",
+  "model": "aether:item/zanite_pendant",
+  "durability": 98,
+  "max_stack": 1,
+  "lang_en": "Zanite Pendant",
+  "lang_ru": "Занитный кулон"
+ },
+ "ice_pendant": {
+  "kind": "accessory",
+  "class": "IcePendantItem",
+  "model": "aether:item/ice_pendant",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Ice Pendant",
+  "lang_ru": "Ледяной Кулон"
+ },
+ "leather_gloves": {
+  "kind": "accessory",
+  "class": "LeatherGlovesItem",
+  "model": "aether:item/leather_gloves",
+  "durability": 59,
+  "max_stack": 1,
+  "lang_en": "Leather Gloves",
+  "lang_ru": "Кожаные Перчатки"
+ },
+ "chainmail_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/chainmail_gloves",
+  "durability": 131,
+  "max_stack": 1,
+  "lang_en": "Chainmail Gloves",
+  "lang_ru": "Кольчужные Перчатки"
+ },
+ "iron_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/iron_gloves",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Iron Gloves",
+  "lang_ru": "Железные Перчатки"
+ },
+ "golden_gloves": {
+  "kind": "accessory",
+  "class": "GoldGlovesItem",
+  "model": "aether:item/golden_gloves",
+  "durability": 32,
+  "max_stack": 1,
+  "lang_en": "Golden Gloves",
+  "lang_ru": "Золотые Перчатки"
+ },
+ "diamond_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/diamond_gloves",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Diamond Gloves",
+  "lang_ru": "Алмазные Перчатки"
+ },
+ "netherite_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/netherite_gloves",
+  "durability": 2031,
+  "max_stack": 1,
+  "lang_en": "Netherite Gloves",
+  "lang_ru": "Незеритовые Перчатки"
+ },
+ "zanite_gloves": {
+  "kind": "accessory",
+  "class": "ZaniteGlovesItem",
+  "model": "aether:item/zanite_gloves",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Zanite Gloves",
+  "lang_ru": "Занитные перчатки"
+ },
+ "gravitite_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/gravitite_gloves",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Gravitite Gloves",
+  "lang_ru": "Гравититовые Перчатки"
+ },
+ "valkyrie_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/valkyrie_gloves",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Gloves",
+  "lang_ru": "Перчатки Валькирии"
+ },
+ "neptune_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/neptune_gloves",
+  "durability": 250,
+  "max_stack": 1,
+  "lang_en": "Neptune Gloves",
+  "lang_ru": "Перчатки Нептуна"
+ },
+ "phoenix_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/phoenix_gloves",
+  "durability": 1561,
+  "max_stack": 1,
+  "lang_en": "Phoenix Gloves",
+  "lang_ru": "Перчатки Феникса"
+ },
+ "obsidian_gloves": {
+  "kind": "accessory",
+  "class": "GlovesItem",
+  "model": "aether:item/obsidian_gloves",
+  "durability": 2031,
+  "max_stack": 1,
+  "lang_en": "Obsidian Gloves",
+  "lang_ru": "Обсидиановые Перчатки"
+ },
+ "red_cape": {
+  "kind": "accessory",
+  "class": "CapeItem",
+  "model": "aether:item/red_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Red Cape",
+  "lang_ru": "Красный Плащ"
+ },
+ "blue_cape": {
+  "kind": "accessory",
+  "class": "CapeItem",
+  "model": "aether:item/blue_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Blue Cape",
+  "lang_ru": "Синий Плащ"
+ },
+ "yellow_cape": {
+  "kind": "accessory",
+  "class": "CapeItem",
+  "model": "aether:item/yellow_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Yellow Cape",
+  "lang_ru": "Желтый Плащ"
+ },
+ "white_cape": {
+  "kind": "accessory",
+  "class": "CapeItem",
+  "model": "aether:item/white_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "White Cape",
+  "lang_ru": "Белый Плащ"
+ },
+ "agility_cape": {
+  "kind": "accessory",
+  "class": "AgilityCapeItem",
+  "model": "aether:item/agility_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Agility Cape",
+  "lang_ru": "Плащ Ловкости"
+ },
+ "swet_cape": {
+  "kind": "accessory",
+  "class": "CapeItem",
+  "model": "aether:item/swet_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Swet Cape",
+  "lang_ru": "Плащ сладня"
+ },
+ "invisibility_cloak": {
+  "kind": "accessory",
+  "class": "InvisibilityCloakItem",
+  "model": "aether:item/invisibility_cloak",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Invisibility Cloak",
+  "lang_ru": "Плащ-Невидимка"
+ },
+ "valkyrie_cape": {
+  "kind": "accessory",
+  "class": "ValkyrieCapeItem",
+  "model": "aether:item/valkyrie_cape",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Cape",
+  "lang_ru": "Плащ Валькирии"
+ },
+ "golden_feather": {
+  "kind": "accessory",
+  "class": "GoldenFeatherItem",
+  "model": "aether:item/golden_feather",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Golden Feather",
+  "lang_ru": "Золотое Перо"
+ },
+ "regeneration_stone": {
+  "kind": "accessory",
+  "class": "RegenerationStoneItem",
+  "model": "aether:item/regeneration_stone",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Regeneration Stone",
+  "lang_ru": "Камень Регенерации"
+ },
+ "iron_bubble": {
+  "kind": "accessory",
+  "class": "IronBubbleItem",
+  "model": "aether:item/iron_bubble",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Iron Bubble",
+  "lang_ru": "Железный Пузырь"
+ },
+ "shield_of_repulsion": {
+  "kind": "accessory",
+  "class": "ShieldOfRepulsionItem",
+  "model": "aether:item/shield_of_repulsion",
+  "durability": 512,
+  "max_stack": 1,
+  "lang_en": "Shield of Repulsion",
+  "lang_ru": "Щит Отражения"
+ },
+ "skyroot_stick": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/skyroot_stick",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Skyroot Stick",
+  "lang_ru": "Небесная палка"
+ },
+ "golden_amber": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/golden_amber",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Golden Amber",
+  "lang_ru": ""
+ },
+ "swet_ball": {
+  "kind": "item",
+  "class": "SwetBallItem",
+  "model": "aether:item/swet_ball",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Swet Ball",
+  "lang_ru": "Сгусток Слизуна"
+ },
+ "aechor_petal": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/aechor_petal",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Aechor Petal",
+  "lang_ru": "Лепесток эхора"
+ },
+ "ambrosium_shard": {
+  "kind": "item",
+  "class": "AmbrosiumShardItem",
+  "model": "aether:item/ambrosium_shard",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Ambrosium Shard",
+  "lang_ru": "Осколок Амброзиума"
+ },
+ "zanite_gemstone": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/zanite_gemstone",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Zanite Gemstone",
+  "lang_ru": "Занитный Самоцвет"
+ },
+ "victory_medal": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/victory_medal",
+  "durability": null,
+  "max_stack": 10,
+  "lang_en": "Victory Medal",
+  "lang_ru": "Медаль Победы"
+ },
+ "bronze_dungeon_key": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/bronze_dungeon_key",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Bronze Key",
+  "lang_ru": "Бронзовый Ключ"
+ },
+ "silver_dungeon_key": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/silver_dungeon_key",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Silver Key",
+  "lang_ru": "Серебряный Ключ"
+ },
+ "gold_dungeon_key": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/gold_dungeon_key",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Gold Key",
+  "lang_ru": "Золотой Ключ"
+ },
+ "music_disc_aether_tune": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/music_disc_aether_tune",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Blue Music Disc",
+  "lang_ru": "Голубая пластинка"
+ },
+ "music_disc_ascending_dawn": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/music_disc_ascending_dawn",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Valkyrie Music Disc",
+  "lang_ru": "Пластинка валькирий"
+ },
+ "music_disc_chinchilla": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/music_disc_chinchilla",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Sepia Music Disc",
+  "lang_ru": "Пластинка цвета сепии"
+ },
+ "music_disc_high": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/music_disc_high",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Super Music Disc",
+  "lang_ru": "Особая пластинка"
+ },
+ "music_disc_klepto": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/music_disc_klepto",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Blackened Music Disc",
+  "lang_ru": "Почерневшая пластинка"
+ },
+ "music_disc_sliders_wrath": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/music_disc_sliders_wrath",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Carved Music Disc",
+  "lang_ru": "Резная пластинка"
+ },
+ "skyroot_bucket": {
+  "kind": "item",
+  "class": "SkyrootBucketItem",
+  "model": "aether:item/skyroot_bucket",
+  "durability": null,
+  "max_stack": 16,
+  "lang_en": "Skyroot Bucket",
+  "lang_ru": "Небесное ведро"
+ },
+ "skyroot_water_bucket": {
+  "kind": "item",
+  "class": "SkyrootBucketItem",
+  "model": "aether:item/skyroot_water_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Water Bucket",
+  "lang_ru": "Небесное ведро с водой"
+ },
+ "skyroot_poison_bucket": {
+  "kind": "item",
+  "class": "SkyrootPoisonBucketItem",
+  "model": "aether:item/skyroot_poison_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Poison Bucket",
+  "lang_ru": "Небесное ведро с ядом"
+ },
+ "skyroot_remedy_bucket": {
+  "kind": "item",
+  "class": "SkyrootRemedyBucketItem",
+  "model": "aether:item/skyroot_remedy_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Remedy Bucket",
+  "lang_ru": "Небесное ведро с лекарством"
+ },
+ "skyroot_milk_bucket": {
+  "kind": "item",
+  "class": "SkyrootMilkBucketItem",
+  "model": "aether:item/skyroot_milk_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Milk Bucket",
+  "lang_ru": "Небесное ведро с молоком"
+ },
+ "skyroot_powder_snow_bucket": {
+  "kind": "item",
+  "class": "SkyrootSolidBucketItem",
+  "model": "aether:item/skyroot_powder_snow_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Powder Snow Bucket",
+  "lang_ru": "Небесное ведро с рыхлым снегом"
+ },
+ "skyroot_cod_bucket": {
+  "kind": "item",
+  "class": "SkyrootMobBucketItem",
+  "model": "aether:item/skyroot_cod_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Bucket of Cod",
+  "lang_ru": "Небесное ведро с треской"
+ },
+ "skyroot_salmon_bucket": {
+  "kind": "item",
+  "class": "SkyrootMobBucketItem",
+  "model": "aether:item/skyroot_salmon_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Bucket of Salmon",
+  "lang_ru": "Небесное ведро с лососем"
+ },
+ "skyroot_pufferfish_bucket": {
+  "kind": "item",
+  "class": "SkyrootMobBucketItem",
+  "model": "aether:item/skyroot_pufferfish_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Bucket of Pufferfish",
+  "lang_ru": "Небесное ведро с иглобрюхом"
+ },
+ "skyroot_tropical_fish_bucket": {
+  "kind": "item",
+  "class": "SkyrootMobBucketItem",
+  "model": "aether:item/skyroot_tropical_fish_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Bucket of Tropical Fish",
+  "lang_ru": "Небесное ведро с тропической рыбой"
+ },
+ "skyroot_axolotl_bucket": {
+  "kind": "item",
+  "class": "SkyrootMobBucketItem",
+  "model": "aether:item/skyroot_axolotl_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Bucket of Axolotl",
+  "lang_ru": "Небесное ведро с аксолотлем"
+ },
+ "skyroot_tadpole_bucket": {
+  "kind": "item",
+  "class": "SkyrootMobBucketItem",
+  "model": "aether:item/skyroot_tadpole_bucket",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Bucket of Tadpole",
+  "lang_ru": "Небесное ведро с головастиком"
+ },
+ "skyroot_boat": {
+  "kind": "item",
+  "class": "SkyrootBoatItem",
+  "model": "aether:item/skyroot_boat",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Boat",
+  "lang_ru": "Небесная лодка"
+ },
+ "skyroot_chest_boat": {
+  "kind": "item",
+  "class": "SkyrootBoatItem",
+  "model": "aether:item/skyroot_chest_boat",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Skyroot Boat with Chest",
+  "lang_ru": "Небесная лодка с сундуком"
+ },
+ "cold_parachute": {
+  "kind": "item",
+  "class": "ParachuteItem",
+  "model": "aether:item/cold_parachute",
+  "durability": 1,
+  "max_stack": 1,
+  "lang_en": "Cold Parachute",
+  "lang_ru": "Холодный Парашют"
+ },
+ "golden_parachute": {
+  "kind": "item",
+  "class": "ParachuteItem",
+  "model": "aether:item/golden_parachute",
+  "durability": 20,
+  "max_stack": 1,
+  "lang_en": "Golden Parachute",
+  "lang_ru": "Золотой Парашют"
+ },
+ "blue_moa_egg": {
+  "kind": "item",
+  "class": "MoaEggItem",
+  "model": "aether:item/blue_moa_egg",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Blue Moa Egg",
+  "lang_ru": "Яйцо Синего Моа"
+ },
+ "white_moa_egg": {
+  "kind": "item",
+  "class": "MoaEggItem",
+  "model": "aether:item/white_moa_egg",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "White Moa Egg",
+  "lang_ru": "Яйцо Белого Моа"
+ },
+ "black_moa_egg": {
+  "kind": "item",
+  "class": "MoaEggItem",
+  "model": "aether:item/black_moa_egg",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Black Moa Egg",
+  "lang_ru": "Яйцо Чёрного Моа"
+ },
+ "nature_staff": {
+  "kind": "item",
+  "class": "Item",
+  "model": "aether:item/nature_staff",
+  "durability": 100,
+  "max_stack": 1,
+  "lang_en": "Nature Staff",
+  "lang_ru": "Посох Природы"
+ },
+ "cloud_staff": {
+  "kind": "item",
+  "class": "CloudStaffItem",
+  "model": "aether:item/cloud_staff",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Cloud Staff",
+  "lang_ru": "Облачный Посох"
+ },
+ "life_shard": {
+  "kind": "item",
+  "class": "LifeShardItem",
+  "model": "aether:item/life_shard",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Life Shard",
+  "lang_ru": "Осколок Жизни"
+ },
+ "book_of_lore": {
+  "kind": "item",
+  "class": "LoreBookItem",
+  "model": "aether:item/book_of_lore",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Book of Lore",
+  "lang_ru": "Книга преданий"
+ },
+ "aether_portal_frame": {
+  "kind": "item",
+  "class": "AetherPortalItem",
+  "model": "aether:item/aether_portal_frame",
+  "durability": null,
+  "max_stack": 1,
+  "lang_en": "Aether Portal Frame",
+  "lang_ru": "Рамка портала Эфира"
+ },
+ "aechor_plant_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/aechor_plant_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Aechor Plant Spawn Egg",
+  "lang_ru": "Яйцо призыва эхора"
+ },
+ "aerbunny_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/aerbunny_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Aerbunny Spawn Egg",
+  "lang_ru": "Яйцо призыва – Воздушный кролик"
+ },
+ "aerwhale_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/aerwhale_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Aerwhale Spawn Egg",
+  "lang_ru": "Яйцо призыва – Кит"
+ },
+ "cockatrice_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/cockatrice_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Cockatrice Spawn Egg",
+  "lang_ru": "Яйцо призыва – Василиск"
+ },
+ "fire_minion_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/fire_minion_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Fire Minion Spawn Egg",
+  "lang_ru": "Яйцо призыва – Огненный миньон"
+ },
+ "flying_cow_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/flying_cow_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Flying Cow Spawn Egg",
+  "lang_ru": "Яйцо призыва – Летающая корова"
+ },
+ "mimic_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/mimic_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Mimic Spawn Egg",
+  "lang_ru": "Яйцо призыва – Мимик"
+ },
+ "moa_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/moa_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Moa Spawn Egg",
+  "lang_ru": "Яйцо призыва – Моа"
+ },
+ "phyg_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/phyg_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Phyg Spawn Egg",
+  "lang_ru": "Яйцо призыва – Летающая Свинья"
+ },
+ "sentry_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/sentry_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Sentry Spawn Egg",
+  "lang_ru": "Яйцо призыва – Страж"
+ },
+ "sheepuff_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/sheepuff_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Sheepuff Spawn Egg",
+  "lang_ru": "Яйцо призыва – Воздушная овца"
+ },
+ "blue_swet_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/blue_swet_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Blue Swet Spawn Egg",
+  "lang_ru": "Яйцо призыва синего сладня"
+ },
+ "golden_swet_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/golden_swet_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Golden Swet Spawn Egg",
+  "lang_ru": "Яйцо призыва золотого сладня"
+ },
+ "whirlwind_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/whirlwind_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Whirlwind Spawn Egg",
+  "lang_ru": "Яйцо призыва – Смерч"
+ },
+ "evil_whirlwind_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/evil_whirlwind_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Evil Whirlwind Spawn Egg",
+  "lang_ru": "Яйцо призыва – Злой Смерч"
+ },
+ "valkyrie_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/valkyrie_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Valkyrie Spawn Egg",
+  "lang_ru": "Яйцо призыва – Валькирия"
+ },
+ "valkyrie_queen_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/valkyrie_queen_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Valkyrie Queen Spawn Egg",
+  "lang_ru": "Яйцо призыва – Королева Валькирий"
+ },
+ "slider_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "SliderSpawnEggItem",
+  "model": "aether:item/slider_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Slider Spawn Egg",
+  "lang_ru": "Яйцо призыва – Слайдер"
+ },
+ "sun_spirit_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/sun_spirit_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Sun Spirit Spawn Egg",
+  "lang_ru": "Яйцо призыва – Дух Солнца"
+ },
+ "zephyr_spawn_egg": {
+  "kind": "spawn_egg",
+  "class": "DeferredSpawnEggItem",
+  "model": "aether:item/zephyr_spawn_egg",
+  "durability": null,
+  "max_stack": 64,
+  "lang_en": "Zephyr Spawn Egg",
+  "lang_ru": "Яйцо призыва – Зефир"
+ }
+}

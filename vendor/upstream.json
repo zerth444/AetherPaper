@@ -1,0 +1,9 @@
+{
+  "repository": "https://github.com/The-Aether-Team/The-Aether",
+  "branch": "1.21.1-develop",
+  "base_commit": "e07d30e16fbd0f09cc067b39594035e395dcf996",
+  "snapshot": "the-aether-source.zip",
+  "snapshot_sha256": "6dd1a1bf42faa2bc1cb9b731a1dfcc5c4612545aa0b91ac01bfa848a2bf884cb",
+  "snapshot_files": 4423,
+  "note": "Exact source working-tree snapshot used for the port; no Git metadata, caches or server/player data."
+}

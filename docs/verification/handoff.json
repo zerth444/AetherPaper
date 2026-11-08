@@ -1,0 +1,14 @@
+{
+  "release": "2026.11.08-r18",
+  "checks": {
+    "source_snapshot_restored_in_independent_checkout": "PASS",
+    "full_data_and_resourcepack_build_with_client_reference_only": "PASS: BUILD_ALL OK",
+    "gradle_wrapper": "PASS: Gradle 9.8.0, Java 25",
+    "plugin_build_without_local_server_libraries": "PASS: BUILD SUCCESSFUL",
+    "standalone_server_setup_from_pinned_paper_jar": "PASS",
+    "installer_preserves_explicit_eula_acceptance": "PASS: default eula=false",
+    "installer_validates_release_and_paper_sha256": "PASS",
+    "private_runtime_state_excluded_from_git": "PASS"
+  },
+  "gameplay": "This handoff adds packaging/build tooling; existing r16-r18 server/protocol reports are separate files. No graphical Minecraft client was launched."
+}

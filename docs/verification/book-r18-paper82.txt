@@ -1,0 +1,319 @@
+PASS only 144 currently available entries
+PASS unavailable item cannot open archived entry: valkyrie_pickaxe
+PASS unavailable item cannot open archived entry: gold_dungeon_key
+PASS unavailable item cannot open archived entry: victory_medal
+PASS unavailable item cannot open archived entry: treasure_chest
+PASS unavailable item cannot open archived entry: present
+PASS unavailable item cannot open archived entry: phoenix_helmet
+PASS available article resolves real item: aether_dirt
+PASS Russian pages exist: aether_dirt
+PASS available article resolves real item: aether_dirt_path
+PASS Russian pages exist: aether_dirt_path
+PASS available article resolves real item: aether_farmland
+PASS Russian pages exist: aether_farmland
+PASS available article resolves real item: aether_grass_block
+PASS Russian pages exist: aether_grass_block
+PASS available article resolves real item: altar
+PASS Russian pages exist: altar
+PASS available article resolves real item: ambrosium_block
+PASS Russian pages exist: ambrosium_block
+PASS available article resolves real item: ambrosium_ore
+PASS Russian pages exist: ambrosium_ore
+PASS available article resolves real item: ambrosium_torch
+PASS Russian pages exist: ambrosium_torch
+PASS available article resolves real item: berry_bush
+PASS Russian pages exist: berry_bush
+PASS available article resolves real item: berry_bush_stem
+PASS Russian pages exist: berry_bush_stem
+PASS available article resolves real item: blue_aercloud
+PASS Russian pages exist: blue_aercloud
+PASS available article resolves real item: cold_aercloud
+PASS Russian pages exist: cold_aercloud
+PASS available article resolves real item: crystal_fruit_leaves
+PASS Russian pages exist: crystal_fruit_leaves
+PASS available article resolves real item: crystal_leaves
+PASS Russian pages exist: crystal_leaves
+PASS available article resolves real item: enchanted_gravitite
+PASS Russian pages exist: enchanted_gravitite
+PASS available article resolves real item: freezer
+PASS Russian pages exist: freezer
+PASS available article resolves real item: golden_aercloud
+PASS Russian pages exist: golden_aercloud
+PASS available article resolves real item: golden_oak_leaves
+PASS Russian pages exist: golden_oak_leaves
+PASS available article resolves real item: golden_oak_log
+PASS Russian pages exist: golden_oak_log
+PASS available article resolves real item: golden_oak_sapling
+PASS Russian pages exist: golden_oak_sapling
+PASS available article resolves real item: golden_oak_wood
+PASS Russian pages exist: golden_oak_wood
+PASS available article resolves real item: gravitite_ore
+PASS Russian pages exist: gravitite_ore
+PASS available article resolves real item: holystone
+PASS Russian pages exist: holystone
+PASS available article resolves real item: holystone_brick_slab
+PASS Russian pages exist: holystone_brick_slab
+PASS available article resolves real item: holystone_brick_stairs
+PASS Russian pages exist: holystone_brick_stairs
+PASS available article resolves real item: holystone_brick_wall
+PASS Russian pages exist: holystone_brick_wall
+PASS available article resolves real item: holystone_bricks
+PASS Russian pages exist: holystone_bricks
+PASS available article resolves real item: holystone_button
+PASS Russian pages exist: holystone_button
+PASS available article resolves real item: holystone_pressure_plate
+PASS Russian pages exist: holystone_pressure_plate
+PASS available article resolves real item: holystone_slab
+PASS Russian pages exist: holystone_slab
+PASS available article resolves real item: holystone_stairs
+PASS Russian pages exist: holystone_stairs
+PASS available article resolves real item: holystone_wall
+PASS Russian pages exist: holystone_wall
+PASS available article resolves real item: icestone
+PASS Russian pages exist: icestone
+PASS available article resolves real item: icestone_slab
+PASS Russian pages exist: icestone_slab
+PASS available article resolves real item: icestone_stairs
+PASS Russian pages exist: icestone_stairs
+PASS available article resolves real item: icestone_wall
+PASS Russian pages exist: icestone_wall
+PASS available article resolves real item: incubator
+PASS Russian pages exist: incubator
+PASS available article resolves real item: mossy_holystone
+PASS Russian pages exist: mossy_holystone
+PASS available article resolves real item: mossy_holystone_slab
+PASS Russian pages exist: mossy_holystone_slab
+PASS available article resolves real item: mossy_holystone_stairs
+PASS Russian pages exist: mossy_holystone_stairs
+PASS available article resolves real item: mossy_holystone_wall
+PASS Russian pages exist: mossy_holystone_wall
+PASS available article resolves real item: purple_flower
+PASS Russian pages exist: purple_flower
+PASS available article resolves real item: quicksoil
+PASS Russian pages exist: quicksoil
+PASS available article resolves real item: quicksoil_glass
+PASS Russian pages exist: quicksoil_glass
+PASS available article resolves real item: quicksoil_glass_pane
+PASS Russian pages exist: quicksoil_glass_pane
+PASS available article resolves real item: skyroot_bed
+PASS Russian pages exist: skyroot_bed
+PASS available article resolves real item: skyroot_bookshelf
+PASS Russian pages exist: skyroot_bookshelf
+PASS available article resolves real item: skyroot_button
+PASS Russian pages exist: skyroot_button
+PASS available article resolves real item: skyroot_door
+PASS Russian pages exist: skyroot_door
+PASS available article resolves real item: skyroot_fence
+PASS Russian pages exist: skyroot_fence
+PASS available article resolves real item: skyroot_fence_gate
+PASS Russian pages exist: skyroot_fence_gate
+PASS available article resolves real item: skyroot_leaves
+PASS Russian pages exist: skyroot_leaves
+PASS available article resolves real item: skyroot_log
+PASS Russian pages exist: skyroot_log
+PASS available article resolves real item: skyroot_planks
+PASS Russian pages exist: skyroot_planks
+PASS available article resolves real item: skyroot_pressure_plate
+PASS Russian pages exist: skyroot_pressure_plate
+PASS available article resolves real item: skyroot_sapling
+PASS Russian pages exist: skyroot_sapling
+PASS available article resolves real item: skyroot_sign
+PASS Russian pages exist: skyroot_sign
+PASS available article resolves real item: skyroot_slab
+PASS Russian pages exist: skyroot_slab
+PASS available article resolves real item: skyroot_stairs
+PASS Russian pages exist: skyroot_stairs
+PASS available article resolves real item: skyroot_trapdoor
+PASS Russian pages exist: skyroot_trapdoor
+PASS available article resolves real item: skyroot_wood
+PASS Russian pages exist: skyroot_wood
+PASS available article resolves real item: stripped_skyroot_log
+PASS Russian pages exist: stripped_skyroot_log
+PASS available article resolves real item: stripped_skyroot_wood
+PASS Russian pages exist: stripped_skyroot_wood
+PASS available article resolves real item: white_flower
+PASS Russian pages exist: white_flower
+PASS available article resolves real item: zanite_block
+PASS Russian pages exist: zanite_block
+PASS available article resolves real item: zanite_ore
+PASS Russian pages exist: zanite_ore
+PASS available article resolves real item: aechor_petal
+PASS Russian pages exist: aechor_petal
+PASS available article resolves real item: ambrosium_shard
+PASS Russian pages exist: ambrosium_shard
+PASS available article resolves real item: black_moa_egg
+PASS Russian pages exist: black_moa_egg
+PASS available article resolves real item: blue_berry
+PASS Russian pages exist: blue_berry
+PASS available article resolves real item: blue_cape
+PASS Russian pages exist: blue_cape
+PASS available article resolves real item: blue_moa_egg
+PASS Russian pages exist: blue_moa_egg
+PASS available article resolves real item: book_of_lore
+PASS Russian pages exist: book_of_lore
+PASS available article resolves real item: cold_parachute
+PASS Russian pages exist: cold_parachute
+PASS available article resolves real item: diamond_gloves
+PASS Russian pages exist: diamond_gloves
+PASS available article resolves real item: enchanted_berry
+PASS Russian pages exist: enchanted_berry
+PASS available article resolves real item: enchanted_dart
+PASS Russian pages exist: enchanted_dart
+PASS available article resolves real item: enchanted_dart_shooter
+PASS Russian pages exist: enchanted_dart_shooter
+PASS available article resolves real item: golden_amber
+PASS Russian pages exist: golden_amber
+PASS available article resolves real item: golden_dart
+PASS Russian pages exist: golden_dart
+PASS available article resolves real item: golden_dart_shooter
+PASS Russian pages exist: golden_dart_shooter
+PASS available article resolves real item: golden_gloves
+PASS Russian pages exist: golden_gloves
+PASS available article resolves real item: golden_parachute
+PASS Russian pages exist: golden_parachute
+PASS available article resolves real item: golden_pendant
+PASS Russian pages exist: golden_pendant
+PASS available article resolves real item: golden_ring
+PASS Russian pages exist: golden_ring
+PASS available article resolves real item: gravitite_axe
+PASS Russian pages exist: gravitite_axe
+PASS available article resolves real item: gravitite_boots
+PASS Russian pages exist: gravitite_boots
+PASS available article resolves real item: gravitite_chestplate
+PASS Russian pages exist: gravitite_chestplate
+PASS available article resolves real item: gravitite_gloves
+PASS Russian pages exist: gravitite_gloves
+PASS available article resolves real item: gravitite_helmet
+PASS Russian pages exist: gravitite_helmet
+PASS available article resolves real item: gravitite_hoe
+PASS Russian pages exist: gravitite_hoe
+PASS available article resolves real item: gravitite_leggings
+PASS Russian pages exist: gravitite_leggings
+PASS available article resolves real item: gravitite_pickaxe
+PASS Russian pages exist: gravitite_pickaxe
+PASS available article resolves real item: gravitite_shovel
+PASS Russian pages exist: gravitite_shovel
+PASS available article resolves real item: gravitite_sword
+PASS Russian pages exist: gravitite_sword
+PASS available article resolves real item: healing_stone
+PASS Russian pages exist: healing_stone
+PASS available article resolves real item: holystone_axe
+PASS Russian pages exist: holystone_axe
+PASS available article resolves real item: holystone_hoe
+PASS Russian pages exist: holystone_hoe
+PASS available article resolves real item: holystone_pickaxe
+PASS Russian pages exist: holystone_pickaxe
+PASS available article resolves real item: holystone_shovel
+PASS Russian pages exist: holystone_shovel
+PASS available article resolves real item: holystone_sword
+PASS Russian pages exist: holystone_sword
+PASS available article resolves real item: ice_pendant
+PASS Russian pages exist: ice_pendant
+PASS available article resolves real item: ice_ring
+PASS Russian pages exist: ice_ring
+PASS available article resolves real item: iron_gloves
+PASS Russian pages exist: iron_gloves
+PASS available article resolves real item: iron_pendant
+PASS Russian pages exist: iron_pendant
+PASS available article resolves real item: iron_ring
+PASS Russian pages exist: iron_ring
+PASS available article resolves real item: leather_gloves
+PASS Russian pages exist: leather_gloves
+PASS available article resolves real item: music_disc_aether_tune
+PASS Russian pages exist: music_disc_aether_tune
+PASS available article resolves real item: music_disc_chinchilla
+PASS Russian pages exist: music_disc_chinchilla
+PASS available article resolves real item: music_disc_high
+PASS Russian pages exist: music_disc_high
+PASS available article resolves real item: music_disc_klepto
+PASS Russian pages exist: music_disc_klepto
+PASS available article resolves real item: nature_staff
+PASS Russian pages exist: nature_staff
+PASS available article resolves real item: netherite_gloves
+PASS Russian pages exist: netherite_gloves
+PASS available article resolves real item: poison_dart_shooter
+PASS Russian pages exist: poison_dart_shooter
+PASS available article resolves real item: red_cape
+PASS Russian pages exist: red_cape
+PASS available article resolves real item: skyroot_axe
+PASS Russian pages exist: skyroot_axe
+PASS available article resolves real item: skyroot_boat
+PASS Russian pages exist: skyroot_boat
+PASS available article resolves real item: skyroot_bucket
+PASS Russian pages exist: skyroot_bucket
+PASS available article resolves real item: skyroot_chest_boat
+PASS Russian pages exist: skyroot_chest_boat
+PASS available article resolves real item: skyroot_hoe
+PASS Russian pages exist: skyroot_hoe
+PASS available article resolves real item: skyroot_milk_bucket
+PASS Russian pages exist: skyroot_milk_bucket
+PASS available article resolves real item: skyroot_pickaxe
+PASS Russian pages exist: skyroot_pickaxe
+PASS available article resolves real item: skyroot_shovel
+PASS Russian pages exist: skyroot_shovel
+PASS available article resolves real item: skyroot_stick
+PASS Russian pages exist: skyroot_stick
+PASS available article resolves real item: skyroot_sword
+PASS Russian pages exist: skyroot_sword
+PASS available article resolves real item: skyroot_water_bucket
+PASS Russian pages exist: skyroot_water_bucket
+PASS available article resolves real item: swet_ball
+PASS Russian pages exist: swet_ball
+PASS available article resolves real item: white_apple
+PASS Russian pages exist: white_apple
+PASS available article resolves real item: white_cape
+PASS Russian pages exist: white_cape
+PASS available article resolves real item: white_moa_egg
+PASS Russian pages exist: white_moa_egg
+PASS available article resolves real item: yellow_cape
+PASS Russian pages exist: yellow_cape
+PASS available article resolves real item: zanite_axe
+PASS Russian pages exist: zanite_axe
+PASS available article resolves real item: zanite_boots
+PASS Russian pages exist: zanite_boots
+PASS available article resolves real item: zanite_chestplate
+PASS Russian pages exist: zanite_chestplate
+PASS available article resolves real item: zanite_gemstone
+PASS Russian pages exist: zanite_gemstone
+PASS available article resolves real item: zanite_gloves
+PASS Russian pages exist: zanite_gloves
+PASS available article resolves real item: zanite_helmet
+PASS Russian pages exist: zanite_helmet
+PASS available article resolves real item: zanite_hoe
+PASS Russian pages exist: zanite_hoe
+PASS available article resolves real item: zanite_leggings
+PASS Russian pages exist: zanite_leggings
+PASS available article resolves real item: zanite_pendant
+PASS Russian pages exist: zanite_pendant
+PASS available article resolves real item: zanite_pickaxe
+PASS Russian pages exist: zanite_pickaxe
+PASS available article resolves real item: zanite_ring
+PASS Russian pages exist: zanite_ring
+PASS available article resolves real item: zanite_shovel
+PASS Russian pages exist: zanite_shovel
+PASS available article resolves real item: zanite_sword
+PASS Russian pages exist: zanite_sword
+PASS multi-page original entry selected for navigation test
+PASS right-click book opens menu despite native PAPER cancellation
+PASS menu uses original-art bitmap font, not written book
+PASS inserted full stack transferred exactly once
+PASS inserted block resolves original block lore
+PASS reading real input grants original read_lore advancement
+PASS right-click takes half without duplication
+PASS right-click places exactly one
+PASS shift-click returns input stack exactly once
+PASS multi-page item entry selected
+PASS next button changes page and retains real input
+PASS previous button changes page
+PASS drag cannot overwrite protected menu cells
+PASS index button opens catalogue
+PASS catalogue next button changes entries
+PASS catalogue previous button restores page
+PASS catalogue opens entry as virtual preview
+PASS catalogue returns previously inserted item
+PASS catalogue icon cannot be taken as a free item
+PASS closing book returns real items
+PASS unknown item shows explanation without losing item
+PASS closing catalogue returns held input
+PASS pending navigation does not reopen after Escape
+PASS putting book into book grants original loreception advancement

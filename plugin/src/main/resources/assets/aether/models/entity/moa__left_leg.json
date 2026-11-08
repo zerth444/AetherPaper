@@ -1,0 +1,83 @@
+{
+ "textures": {
+  "0": "aether:entity/mobs/moa/white_moa",
+  "particle": "aether:entity/mobs/moa/white_moa"
+ },
+ "elements": [
+  {
+   "from": [
+    6.99,
+    -8.0,
+    7.0
+   ],
+   "to": [
+    8.99,
+    1.0,
+    9.0
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      12.0,
+      11.5,
+      12.5,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      12.5,
+      11.5,
+      13.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      13.0,
+      11.5,
+      13.5,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      11.5,
+      11.5,
+      12.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      12.0,
+      10.5,
+      12.5,
+      11.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      12.5,
+      10.5,
+      13.0,
+      11.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  }
+ ],
+ "aether_display_scale": 1
+}

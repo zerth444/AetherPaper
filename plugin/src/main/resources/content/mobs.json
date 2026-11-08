@@ -1,0 +1,1078 @@
+{
+ "phyg": {
+  "class": "Phyg",
+  "carrier": "PIG",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 10.0,
+   "MOVEMENT_SPEED": 0.25
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:porkchop",
+      "min": 1,
+      "max": 3,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:feather",
+      "min": 0,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "creature",
+    "weight": 10,
+    "min": 3,
+    "max": 4
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "creature",
+    "weight": 10,
+    "min": 3,
+    "max": 4
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "creature",
+    "weight": 10,
+    "min": 3,
+    "max": 4
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "creature",
+    "weight": 10,
+    "min": 3,
+    "max": 4
+   }
+  ],
+  "lang_en": "Phyg",
+  "lang_ru": "Летающая Свинья"
+ },
+ "flying_cow": {
+  "class": "FlyingCow",
+  "carrier": "COW",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 10.0,
+   "MOVEMENT_SPEED": 0.2
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:leather",
+      "min": 0,
+      "max": 2,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:beef",
+      "min": 1,
+      "max": 3,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "creature",
+    "weight": 12,
+    "min": 2,
+    "max": 5
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "creature",
+    "weight": 12,
+    "min": 2,
+    "max": 5
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "creature",
+    "weight": 12,
+    "min": 2,
+    "max": 5
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "creature",
+    "weight": 12,
+    "min": 2,
+    "max": 5
+   }
+  ],
+  "lang_en": "Flying Cow",
+  "lang_ru": "Летающая Корова"
+ },
+ "sheepuff": {
+  "class": "Sheepuff",
+  "carrier": "SHEEP",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 8.0,
+   "MOVEMENT_SPEED": 0.23
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:mutton",
+      "min": 1,
+      "max": 2,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "creature",
+    "weight": 12,
+    "min": 3,
+    "max": 4
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "creature",
+    "weight": 12,
+    "min": 3,
+    "max": 4
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "creature",
+    "weight": 12,
+    "min": 3,
+    "max": 4
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "creature",
+    "weight": 12,
+    "min": 3,
+    "max": 4
+   }
+  ],
+  "lang_en": "Sheepuff",
+  "lang_ru": "Воздушная овца"
+ },
+ "moa": {
+  "class": "Moa",
+  "carrier": "HORSE",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 35.0,
+   "MOVEMENT_SPEED": 1.0,
+   "FOLLOW_RANGE": 16.0,
+   "ATTACK_DAMAGE": 5.0
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:feather",
+      "min": 2,
+      "max": 3,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "creature",
+    "weight": 8,
+    "min": 1,
+    "max": 3
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "creature",
+    "weight": 8,
+    "min": 1,
+    "max": 3
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "creature",
+    "weight": 8,
+    "min": 1,
+    "max": 3
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "creature",
+    "weight": 8,
+    "min": 1,
+    "max": 3
+   }
+  ],
+  "lang_en": "Moa",
+  "lang_ru": "Моа"
+ },
+ "aerbunny": {
+  "class": "Aerbunny",
+  "carrier": "RABBIT",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 6.0,
+   "MOVEMENT_SPEED": 0.28
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:string",
+      "min": 0,
+      "max": 2,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "creature",
+    "weight": 11,
+    "min": 3,
+    "max": 3
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "creature",
+    "weight": 11,
+    "min": 3,
+    "max": 3
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "creature",
+    "weight": 11,
+    "min": 3,
+    "max": 3
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "creature",
+    "weight": 11,
+    "min": 3,
+    "max": 3
+   }
+  ],
+  "lang_en": "Aerbunny",
+  "lang_ru": "Аэрозаяц"
+ },
+ "aerwhale": {
+  "class": "Aerwhale",
+  "carrier": "GHAST",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 20.0,
+   "FLYING_SPEED": 0.2,
+   "STEP_HEIGHT": 0.4
+  },
+  "attributes_note": [
+   "inherits-FlyingMob"
+  ],
+  "drops": [],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "ambient",
+    "weight": 10,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "ambient",
+    "weight": 10,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "ambient",
+    "weight": 10,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "ambient",
+    "weight": 10,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Aerwhale",
+  "lang_ru": "Кит"
+ },
+ "blue_swet": {
+  "class": "Swet",
+  "carrier": "SLIME",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 12.0,
+   "MOVEMENT_SPEED": 0.4,
+   "FOLLOW_RANGE": 14.0,
+   "KNOCKBACK_RESISTANCE": 0.5
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:swet_ball",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:blue_aercloud",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Blue Swet",
+  "lang_ru": "Синий сладень"
+ },
+ "golden_swet": {
+  "class": "Swet",
+  "carrier": "MAGMA_CUBE",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 12.0,
+   "MOVEMENT_SPEED": 0.4,
+   "FOLLOW_RANGE": 14.0,
+   "KNOCKBACK_RESISTANCE": 0.5
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:glowstone",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 6,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Golden Swet",
+  "lang_ru": "Золотой сладень"
+ },
+ "whirlwind": {
+  "class": "PassiveWhirlwind",
+  "carrier": "ALLAY",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {},
+  "attributes_note": [],
+  "drops": [],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 3,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 3,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 3,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 3,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Whirlwind",
+  "lang_ru": "Смерч"
+ },
+ "evil_whirlwind": {
+  "class": "EvilWhirlwind",
+  "carrier": "VEX",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {},
+  "attributes_note": [],
+  "drops": [],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 1,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 1,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 1,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 1,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Evil Whirlwind",
+  "lang_ru": "Злой Смерч"
+ },
+ "aechor_plant": {
+  "class": "AechorPlant",
+  "carrier": "SHULKER",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 15.0,
+   "MOVEMENT_SPEED": 0.0,
+   "KNOCKBACK_RESISTANCE": 1.0
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:aechor_petal",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 7,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 7,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 7,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 7,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Aechor Plant",
+  "lang_ru": "Эхор"
+ },
+ "cockatrice": {
+  "class": "Cockatrice",
+  "carrier": "HUSK",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 20.0,
+   "MOVEMENT_SPEED": 0.25
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:feather",
+      "min": 2,
+      "max": 3,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 8,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 8,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 8,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 8,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Cockatrice",
+  "lang_ru": "Василиск"
+ },
+ "zephyr": {
+  "class": "Zephyr",
+  "carrier": "GHAST",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 5.0,
+   "FOLLOW_RANGE": 50.0
+  },
+  "attributes_note": [
+   "inherits-FlyingMob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:cold_aercloud",
+      "min": 0,
+      "max": 2,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [
+   {
+    "biome": "skyroot_forest",
+    "category": "monster",
+    "weight": 20,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_grove",
+    "category": "monster",
+    "weight": 20,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_meadow",
+    "category": "monster",
+    "weight": 20,
+    "min": 1,
+    "max": 1
+   },
+   {
+    "biome": "skyroot_woodland",
+    "category": "monster",
+    "weight": 20,
+    "min": 1,
+    "max": 1
+   }
+  ],
+  "lang_en": "Zephyr",
+  "lang_ru": "Зефир"
+ },
+ "mimic": {
+  "class": "Mimic",
+  "carrier": "SILVERFISH",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 40.0,
+   "ATTACK_DAMAGE": 3.0,
+   "MOVEMENT_SPEED": 0.28,
+   "FOLLOW_RANGE": 8.0
+  },
+  "attributes_note": [
+   "inherits-Monster"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:chest",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 3,
+    "entries": [
+     {
+      "item": "aether:golden_dart",
+      "min": 4,
+      "max": 4,
+      "weight": 1
+     },
+     {
+      "item": "aether:enchanted_dart",
+      "min": 4,
+      "max": 4,
+      "weight": 1
+     },
+     {
+      "item": "aether:poison_dart",
+      "min": 4,
+      "max": 4,
+      "weight": 1
+     },
+     {
+      "item": "aether:skyroot_pickaxe",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:iron_ring",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:golden_amber",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:zanite_gemstone",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:holystone_pickaxe",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:icestone",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:ambrosium_shard",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     },
+     {
+      "item": "aether:ambrosium_torch",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [],
+  "lang_en": "Mimic",
+  "lang_ru": "Мимик"
+ },
+ "sentry": {
+  "class": "Sentry",
+  "carrier": "BLAZE",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "MAX_HEALTH": 10.0,
+   "MOVEMENT_SPEED": 0.6
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:carved_stone",
+      "min": 1,
+      "max": 1,
+      "weight": 4
+     },
+     {
+      "item": "aether:sentry_stone",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [],
+  "lang_en": "Sentry",
+  "lang_ru": ""
+ },
+ "slider": {
+  "class": "Slider",
+  "carrier": "SLIME",
+  "carrier_approx": true,
+  "boss": true,
+  "attributes": {
+   "MAX_HEALTH": 400.0,
+   "FOLLOW_RANGE": 64.0
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:bronze_dungeon_key",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:carved_stone",
+      "min": 7,
+      "max": 9,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [],
+  "lang_en": "Slider",
+  "lang_ru": "Слайдер"
+ },
+ "valkyrie": {
+  "class": "Valkyrie",
+  "carrier": "VEX",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "KNOCKBACK_RESISTANCE": 0.25,
+   "FOLLOW_RANGE": 16.0,
+   "ATTACK_DAMAGE": 10.0,
+   "MAX_HEALTH": 50.0
+  },
+  "attributes_note": [],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:victory_medal",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [],
+  "lang_en": "Valkyrie",
+  "lang_ru": "Валькирия"
+ },
+ "valkyrie_queen": {
+  "class": "ValkyrieQueen",
+  "carrier": "VEX",
+  "carrier_approx": true,
+  "boss": true,
+  "attributes": {
+   "FOLLOW_RANGE": 28.0,
+   "ATTACK_DAMAGE": 13.5,
+   "MAX_HEALTH": 500.0
+  },
+  "attributes_note": [],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:silver_dungeon_key",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "minecraft:golden_sword",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [],
+  "lang_en": "Valkyrie Queen",
+  "lang_ru": "Королева Валькирий"
+ },
+ "fire_minion": {
+  "class": "FireMinion",
+  "carrier": "BLAZE",
+  "carrier_approx": true,
+  "boss": false,
+  "attributes": {
+   "FOLLOW_RANGE": 40.0,
+   "MOVEMENT_SPEED": 0.25,
+   "ATTACK_DAMAGE": 15.0,
+   "MAX_HEALTH": 40.0
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [],
+  "spawns": [],
+  "lang_en": "Fire Minion",
+  "lang_ru": "Огненный Миньон"
+ },
+ "sun_spirit": {
+  "class": "SunSpirit",
+  "carrier": "BLAZE",
+  "carrier_approx": true,
+  "boss": true,
+  "attributes": {
+   "MAX_HEALTH": 500.0,
+   "MOVEMENT_SPEED": 0.35
+  },
+  "attributes_note": [
+   "inherits-Mob"
+  ],
+  "drops": [
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:gold_dungeon_key",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   },
+   {
+    "rolls_min": 1,
+    "rolls_max": 1,
+    "entries": [
+     {
+      "item": "aether:sun_altar",
+      "min": 1,
+      "max": 1,
+      "weight": 1
+     }
+    ]
+   }
+  ],
+  "spawns": [],
+  "lang_en": "Sun Spirit",
+  "lang_ru": "Дух Солнца"
+ }
+}

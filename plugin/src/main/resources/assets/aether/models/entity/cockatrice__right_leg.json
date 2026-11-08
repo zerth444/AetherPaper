@@ -1,0 +1,83 @@
+{
+ "textures": {
+  "0": "aether:entity/mobs/cockatrice/cockatrice",
+  "particle": "aether:entity/mobs/cockatrice/cockatrice"
+ },
+ "elements": [
+  {
+   "from": [
+    7.01,
+    -8.0,
+    7.0
+   ],
+   "to": [
+    9.01,
+    1.0,
+    9.0
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      14.0,
+      11.5,
+      14.5,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      14.5,
+      11.5,
+      15.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      15.0,
+      11.5,
+      15.5,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      13.5,
+      11.5,
+      14.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      14.0,
+      10.5,
+      14.5,
+      11.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      14.5,
+      10.5,
+      15.0,
+      11.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  }
+ ],
+ "aether_display_scale": 1
+}

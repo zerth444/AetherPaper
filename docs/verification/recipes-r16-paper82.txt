@@ -1,0 +1,173 @@
+PASS advancement adapter supports old and new API signatures
+PASS skyroot_leaves shears gives exactly one leaf
+PASS skyroot_leaves Silk Touch gives exactly one leaf
+PASS skyroot_leaves hand never drops full leaf
+PASS golden_oak_leaves shears gives exactly one leaf
+PASS golden_oak_leaves Silk Touch gives exactly one leaf
+PASS golden_oak_leaves hand never drops full leaf
+PASS crystal_leaves shears gives exactly one leaf
+PASS crystal_leaves Silk Touch gives exactly one leaf
+PASS crystal_leaves hand never drops full leaf
+PASS crystal_fruit_leaves shears gives exactly one leaf
+PASS crystal_fruit_leaves Silk Touch gives exactly one leaf
+PASS crystal_fruit_leaves hand never drops full leaf
+PASS holiday_leaves shears gives exactly one leaf
+PASS holiday_leaves Silk Touch gives exactly one leaf
+PASS holiday_leaves hand never drops full leaf
+PASS decorated_holiday_leaves shears gives exactly one leaf
+PASS decorated_holiday_leaves Silk Touch gives exactly one leaf
+PASS decorated_holiday_leaves hand never drops full leaf
+PASS ripe bush shears: one whole bush, no berries or loose stem
+PASS ripe bush Silk Touch: one whole bush
+PASS empty bush shears: one stem
+PASS hand breaks ripe bush into berries and rooted stem only
+PASS ambrosium_ore expected minimum tier from original tool tags=0
+PASS ambrosium_ore vanilla WOODEN tier gate 0
+PASS ambrosium_ore vanilla GOLDEN tier gate 0
+PASS ambrosium_ore vanilla STONE tier gate 0
+PASS ambrosium_ore vanilla IRON tier gate 0
+PASS ambrosium_ore vanilla DIAMOND tier gate 0
+PASS ambrosium_ore vanilla NETHERITE tier gate 0
+PASS ambrosium_ore custom skyroot tier gate 0
+PASS ambrosium_ore custom holystone tier gate 0
+PASS ambrosium_ore custom zanite tier gate 0
+PASS ambrosium_ore custom gravitite tier gate 0
+PASS ambrosium_ore wrong tool gives no resource
+PASS zanite_ore expected minimum tier from original tool tags=1
+PASS zanite_ore vanilla WOODEN tier gate 1
+PASS zanite_ore vanilla GOLDEN tier gate 1
+PASS zanite_ore vanilla STONE tier gate 1
+PASS zanite_ore vanilla IRON tier gate 1
+PASS zanite_ore vanilla DIAMOND tier gate 1
+PASS zanite_ore vanilla NETHERITE tier gate 1
+PASS zanite_ore custom skyroot tier gate 1
+PASS zanite_ore custom holystone tier gate 1
+PASS zanite_ore custom zanite tier gate 1
+PASS zanite_ore custom gravitite tier gate 1
+PASS zanite_ore wrong tool gives no resource
+PASS gravitite_ore expected minimum tier from original tool tags=2
+PASS gravitite_ore vanilla WOODEN tier gate 2
+PASS gravitite_ore vanilla GOLDEN tier gate 2
+PASS gravitite_ore vanilla STONE tier gate 2
+PASS gravitite_ore vanilla IRON tier gate 2
+PASS gravitite_ore vanilla DIAMOND tier gate 2
+PASS gravitite_ore vanilla NETHERITE tier gate 2
+PASS gravitite_ore custom skyroot tier gate 2
+PASS gravitite_ore custom holystone tier gate 2
+PASS gravitite_ore custom zanite tier gate 2
+PASS gravitite_ore custom gravitite tier gate 2
+PASS gravitite_ore wrong tool gives no resource
+PASS icestone expected minimum tier from original tool tags=1
+PASS icestone vanilla WOODEN tier gate 1
+PASS icestone vanilla GOLDEN tier gate 1
+PASS icestone vanilla STONE tier gate 1
+PASS icestone vanilla IRON tier gate 1
+PASS icestone vanilla DIAMOND tier gate 1
+PASS icestone vanilla NETHERITE tier gate 1
+PASS icestone custom skyroot tier gate 1
+PASS icestone custom holystone tier gate 1
+PASS icestone custom zanite tier gate 1
+PASS icestone custom gravitite tier gate 1
+PASS icestone wrong tool gives no resource
+PASS all 194 supported recipes registered
+PASS all ingredient alternatives: 1589 real crafting matrices, mismatches=0
+PASS recipe book unlocks with one ingredient alternative, without already owning output
+PASS saved custom recipe survives server restart
+PASS station completes recipe altar minecraft:music_disc_11 -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_13 -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_blocks -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_chirp -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_far -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_mall -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_mellohi -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_stal -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_wait -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_ward -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_otherside -> aether:music_disc_aether_tune
+PASS station completes recipe altar minecraft:music_disc_strad -> aether:music_disc_chinchilla
+PASS station completes recipe altar aether:blue_berry -> aether:enchanted_berry
+PASS station completes recipe altar aether:golden_dart -> aether:enchanted_dart
+PASS station completes recipe altar aether:golden_dart_shooter -> aether:enchanted_dart_shooter
+PASS station completes recipe altar aether:gravitite_ore -> aether:enchanted_gravitite
+PASS station completes recipe altar aether:cold_aercloud -> aether:golden_aercloud
+PASS station completes recipe altar aether:holystone -> aether:healing_stone
+PASS station completes recipe altar aether:quicksoil -> aether:quicksoil_glass
+PASS station completes recipe altar aether:skyroot_poison_bucket -> aether:skyroot_remedy_bucket
+PASS station completes recipe freezer aether:cold_aercloud -> aether:blue_aercloud
+PASS station completes recipe freezer minecraft:packed_ice -> minecraft:blue_ice
+PASS station completes recipe freezer aether:skyroot_leaves -> aether:crystal_leaves
+PASS station completes recipe freezer aether:music_disc_chinchilla -> aether:music_disc_high
+PASS station completes recipe freezer minecraft:water_bucket -> minecraft:ice
+PASS station completes recipe freezer aether:iron_pendant -> aether:ice_pendant
+PASS station completes recipe freezer aether:golden_pendant -> aether:ice_pendant
+PASS station completes recipe freezer aether:iron_ring -> aether:ice_ring
+PASS station completes recipe freezer aether:golden_ring -> aether:ice_ring
+PASS station completes recipe freezer minecraft:lava_bucket -> minecraft:obsidian
+PASS station completes recipe freezer minecraft:ice -> minecraft:packed_ice
+PASS actual furnace aether:aether_gold_nugget_from_smelting input=golden_gloves
+PASS actual furnace aether:aether_gold_nugget_from_smelting input=golden_pendant
+PASS actual furnace aether:aether_gold_nugget_from_smelting input=golden_ring
+PASS actual furnace aether:aether_gold_nugget_from_smelting input=victory_medal
+PASS actual furnace aether:aether_iron_nugget_from_smelting input=iron_gloves
+PASS actual furnace aether:aether_iron_nugget_from_smelting input=iron_pendant
+PASS actual furnace aether:aether_iron_nugget_from_smelting input=iron_ring
+PASS actual furnace aether:aether_iron_nugget_from_smelting input=chainmail_gloves
+PASS actual furnace aether:ambrosium_shard_from_smelting input=ambrosium_ore
+PASS actual furnace aether:klepto_smelting input=MUSIC_DISC_STAL
+PASS actual furnace aether:zanite_gemstone_from_smelting input=zanite_ore
+PASS actual furnace aether:aether_gold_nugget_from_blasting input=golden_gloves
+PASS actual furnace aether:aether_gold_nugget_from_blasting input=golden_pendant
+PASS actual furnace aether:aether_gold_nugget_from_blasting input=golden_ring
+PASS actual furnace aether:aether_gold_nugget_from_blasting input=victory_medal
+PASS actual furnace aether:aether_iron_nugget_from_blasting input=iron_gloves
+PASS actual furnace aether:aether_iron_nugget_from_blasting input=iron_pendant
+PASS actual furnace aether:aether_iron_nugget_from_blasting input=iron_ring
+PASS actual furnace aether:aether_iron_nugget_from_blasting input=chainmail_gloves
+PASS actual furnace aether:ambrosium_shard_from_blasting input=ambrosium_ore
+PASS actual furnace aether:zanite_gemstone_from_blasting input=zanite_ore
+PASS real stonecutter result aether:aerogel_slab_from_aerogel_stonecutting
+PASS real stonecutter result aether:aerogel_stairs_from_aerogel_stonecutting
+PASS real stonecutter result aether:aerogel_wall_from_aerogel_stonecutting
+PASS real stonecutter result aether:angelic_slab_from_angelic_stone_stonecutting
+PASS real stonecutter result aether:angelic_stairs_from_angelic_stone_stonecutting
+PASS real stonecutter result aether:angelic_stone_from_light_angelic_stone_stonecutting
+PASS real stonecutter result aether:angelic_stone_from_pillar_stonecutting
+PASS real stonecutter result aether:angelic_stone_from_pillar_top_stonecutting
+PASS real stonecutter result aether:angelic_wall_from_angelic_stone_stonecutting
+PASS real stonecutter result aether:carved_slab_from_carved_stone_stonecutting
+PASS real stonecutter result aether:carved_stairs_from_carved_stone_stonecutting
+PASS real stonecutter result aether:carved_stone_from_sentry_stone_stonecutting
+PASS real stonecutter result aether:carved_wall_from_carved_stone_stonecutting
+PASS real stonecutter result aether:hellfire_slab_from_hellfire_stone_stonecutting
+PASS real stonecutter result aether:hellfire_stairs_from_hellfire_stone_stonecutting
+PASS real stonecutter result aether:hellfire_stone_from_light_hellfire_stone_stonecutting
+PASS real stonecutter result aether:hellfire_wall_from_hellfire_stone_stonecutting
+PASS real stonecutter result aether:holystone_brick_slab_from_holystone_bricks_stonecutting
+PASS real stonecutter result aether:holystone_brick_slab_from_holystone_stonecutting
+PASS real stonecutter result aether:holystone_brick_stairs_from_holystone_bricks_stonecutting
+PASS real stonecutter result aether:holystone_brick_stairs_from_holystone_stonecutting
+PASS real stonecutter result aether:holystone_brick_wall_from_holystone_bricks_stonecutting
+PASS real stonecutter result aether:holystone_brick_wall_from_holystone_stonecutting
+PASS real stonecutter result aether:holystone_bricks_from_holystone_stonecutting
+PASS real stonecutter result aether:holystone_slab_from_holystone_stonecutting
+PASS real stonecutter result aether:holystone_stairs_from_holystone_stonecutting
+PASS real stonecutter result aether:holystone_wall_from_holystone_stonecutting
+PASS real stonecutter result aether:icestone_slab_from_icestone_stonecutting
+PASS real stonecutter result aether:icestone_stairs_from_icestone_stonecutting
+PASS real stonecutter result aether:icestone_wall_from_icestone_stonecutting
+PASS real stonecutter result aether:light_angelic_stone_from_angelic_stone_stonecutting
+PASS real stonecutter result aether:light_hellfire_stone_from_hellfire_stone_stonecutting
+PASS real stonecutter result aether:mossy_holystone_slab_from_mossy_holystone_stonecutting
+PASS real stonecutter result aether:mossy_holystone_stairs_from_mossy_holystone_stonecutting
+PASS real stonecutter result aether:mossy_holystone_wall_from_mossy_holystone_stonecutting
+PASS real stonecutter result aether:pillar_from_angelic_stone_stonecutting
+PASS real stonecutter result aether:pillar_from_pillar_top_stonecutting
+PASS real stonecutter result aether:pillar_top_from_angelic_stone_stonecutting
+PASS real stonecutter result aether:pillar_top_from_pillar_stonecutting
+PASS real stonecutter result aether:sentry_stone_from_carved_stone_stonecutting
+PASS real smithing produces netherite glove identity/model, got=netherite_gloves
+PASS all custom recipes restored after real data reload
+PASS custom advancement restored after data reload
+PASS custom crack source distinct from vanilla/client source
+PASS one monotonic crack animation with repeated START packets: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, -1]
+PASS repeated START does not delay mining completion

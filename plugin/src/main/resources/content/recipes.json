@@ -1,0 +1,4095 @@
+{
+ "enchanting": [
+  {
+   "in": [
+    "minecraft:music_disc_11",
+    "minecraft:music_disc_13",
+    "minecraft:music_disc_blocks",
+    "minecraft:music_disc_chirp",
+    "minecraft:music_disc_far",
+    "minecraft:music_disc_mall",
+    "minecraft:music_disc_mellohi",
+    "minecraft:music_disc_stal",
+    "minecraft:music_disc_wait",
+    "minecraft:music_disc_ward",
+    "minecraft:music_disc_otherside"
+   ],
+   "out": "aether:music_disc_aether_tune",
+   "count": 1,
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:music_disc_strad"
+   ],
+   "out": "aether:music_disc_chinchilla",
+   "count": 1,
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:blue_berry"
+   ],
+   "out": "aether:enchanted_berry",
+   "count": 1,
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:golden_dart"
+   ],
+   "out": "aether:enchanted_dart",
+   "count": 1,
+   "time": 50
+  },
+  {
+   "in": [
+    "aether:golden_dart_shooter"
+   ],
+   "out": "aether:enchanted_dart_shooter",
+   "count": 1,
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:gravitite_ore"
+   ],
+   "out": "aether:enchanted_gravitite",
+   "count": 1,
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:cold_aercloud"
+   ],
+   "out": "aether:golden_aercloud",
+   "count": 1,
+   "time": 1000
+  },
+  {
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:healing_stone",
+   "count": 1,
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:quicksoil"
+   ],
+   "out": "aether:quicksoil_glass",
+   "count": 1,
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:skyroot_poison_bucket"
+   ],
+   "out": "aether:skyroot_remedy_bucket",
+   "count": 1,
+   "time": 500
+  }
+ ],
+ "freezing": [
+  {
+   "in": [
+    "aether:cold_aercloud"
+   ],
+   "out": "aether:blue_aercloud",
+   "count": 1,
+   "time": 400
+  },
+  {
+   "in": [
+    "minecraft:packed_ice"
+   ],
+   "out": "minecraft:blue_ice",
+   "count": 1,
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:skyroot_leaves"
+   ],
+   "out": "aether:crystal_leaves",
+   "count": 1,
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:music_disc_chinchilla"
+   ],
+   "out": "aether:music_disc_high",
+   "count": 1,
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:water_bucket"
+   ],
+   "out": "minecraft:ice",
+   "count": 1,
+   "time": 200
+  },
+  {
+   "in": [
+    "aether:iron_pendant",
+    "aether:golden_pendant"
+   ],
+   "out": "aether:ice_pendant",
+   "count": 1,
+   "time": 800
+  },
+  {
+   "in": [
+    "aether:iron_ring",
+    "aether:golden_ring"
+   ],
+   "out": "aether:ice_ring",
+   "count": 1,
+   "time": 800
+  },
+  {
+   "in": [
+    "minecraft:lava_bucket"
+   ],
+   "out": "minecraft:obsidian",
+   "count": 1,
+   "time": 200
+  },
+  {
+   "in": [
+    "minecraft:ice"
+   ],
+   "out": "minecraft:packed_ice",
+   "count": 1,
+   "time": 300
+  }
+ ],
+ "repairing": [
+  {
+   "in": [
+    "minecraft:bow"
+   ],
+   "time": 600
+  },
+  {
+   "in": [
+    "minecraft:chainmail_boots"
+   ],
+   "time": 700
+  },
+  {
+   "in": [
+    "minecraft:chainmail_chestplate"
+   ],
+   "time": 700
+  },
+  {
+   "in": [
+    "aether:chainmail_gloves"
+   ],
+   "time": 700
+  },
+  {
+   "in": [
+    "minecraft:chainmail_helmet"
+   ],
+   "time": 700
+  },
+  {
+   "in": [
+    "minecraft:chainmail_leggings"
+   ],
+   "time": 700
+  },
+  {
+   "in": [
+    "minecraft:crossbow"
+   ],
+   "time": 600
+  },
+  {
+   "in": [
+    "minecraft:diamond_axe"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_boots"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_chestplate"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:diamond_gloves"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_helmet"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_hoe"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_leggings"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_pickaxe"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_shovel"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:diamond_sword"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "minecraft:fishing_rod"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:flint_and_steel"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_axe"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_boots"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_chestplate"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "aether:golden_gloves"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_helmet"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_hoe"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_leggings"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_pickaxe"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_shovel"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "minecraft:golden_sword"
+   ],
+   "time": 300
+  },
+  {
+   "in": [
+    "aether:gravitite_axe"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_boots"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_chestplate"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_gloves"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_helmet"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_hoe"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_leggings"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_pickaxe"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_shovel"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:gravitite_sword"
+   ],
+   "time": 1500
+  },
+  {
+   "in": [
+    "aether:holystone_axe"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:holystone_hoe"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:holystone_pickaxe"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:holystone_shovel"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:holystone_sword"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:iron_axe"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_boots"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_chestplate"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:iron_gloves"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_helmet"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_hoe"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_leggings"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_pickaxe"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_shovel"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:iron_sword"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "minecraft:leather_boots"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:leather_chestplate"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:leather_gloves"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:leather_helmet"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:leather_leggings"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:netherite_axe"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_boots"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_chestplate"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "aether:netherite_gloves"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_helmet"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_hoe"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_leggings"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_pickaxe"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_shovel"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:netherite_sword"
+   ],
+   "time": 2000
+  },
+  {
+   "in": [
+    "minecraft:shield"
+   ],
+   "time": 600
+  },
+  {
+   "in": [
+    "aether:skyroot_axe"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:skyroot_hoe"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:skyroot_pickaxe"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:skyroot_shovel"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:skyroot_sword"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:stone_axe"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:stone_hoe"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:stone_pickaxe"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:stone_shovel"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:stone_sword"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "minecraft:wooden_axe"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:wooden_hoe"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:wooden_pickaxe"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:wooden_shovel"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "minecraft:wooden_sword"
+   ],
+   "time": 250
+  },
+  {
+   "in": [
+    "aether:zanite_axe"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_boots"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_chestplate"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_gloves"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_helmet"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_hoe"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_leggings"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_pendant"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:zanite_pickaxe"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_ring"
+   ],
+   "time": 500
+  },
+  {
+   "in": [
+    "aether:zanite_shovel"
+   ],
+   "time": 750
+  },
+  {
+   "in": [
+    "aether:zanite_sword"
+   ],
+   "time": 750
+  }
+ ],
+ "incubation": [
+  {
+   "egg": [
+    "aether:black_moa_egg"
+   ],
+   "time": 1000,
+   "moa": "aether:black"
+  },
+  {
+   "egg": [
+    "aether:blue_moa_egg"
+   ],
+   "time": 1000,
+   "moa": "aether:blue"
+  },
+  {
+   "egg": [
+    "aether:white_moa_egg"
+   ],
+   "time": 1000,
+   "moa": "aether:white"
+  }
+ ],
+ "ambrosium": [
+  {
+   "in": [
+    "aether:aether_grass_block",
+    {}
+   ],
+   "out": [
+    "aether:enchanted_aether_grass_block",
+    {}
+   ]
+  }
+ ],
+ "swet": [
+  {
+   "in": "aether:aether_dirt",
+   "out": "aether:aether_grass_block"
+  },
+  {
+   "in": "minecraft:dirt",
+   "out": "minecraft:grass_block"
+  },
+  {
+   "in": "minecraft:dirt",
+   "out": "minecraft:mycelium"
+  },
+  {
+   "in": "minecraft:grass_block",
+   "out": "minecraft:podzol"
+  },
+  {
+   "in": "minecraft:netherrack",
+   "out": "minecraft:crimson_nylium"
+  },
+  {
+   "in": "minecraft:netherrack",
+   "out": "minecraft:warped_nylium"
+  }
+ ],
+ "freezable": [
+  {
+   "in": "minecraft:lava",
+   "out": "minecraft:obsidian"
+  },
+  {
+   "in": "minecraft:water",
+   "out": "minecraft:ice"
+  },
+  {
+   "in": "minecraft:lava",
+   "out": "minecraft:obsidian"
+  },
+  {
+   "in": "minecraft:water",
+   "out": "minecraft:ice"
+  }
+ ],
+ "placement": [
+  {
+   "in": "minecraft:lava",
+   "in_props": {},
+   "out": "aether:aerogel",
+   "out_props": {}
+  },
+  {
+   "in": "minecraft:black_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:black_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:black_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:black_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:blue_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:blue_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:blue_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:blue_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:brown_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:brown_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:brown_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:brown_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:campfire",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:campfire",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:cyan_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:cyan_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:cyan_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:cyan_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:gray_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:gray_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:gray_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:gray_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:green_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:green_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:green_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:green_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:jack_o_lantern",
+   "in_props": {},
+   "out": "minecraft:carved_pumpkin",
+   "out_props": {}
+  },
+  {
+   "in": "minecraft:light_blue_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:light_blue_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:light_blue_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:light_blue_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:light_gray_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:light_gray_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:light_gray_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:light_gray_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:lime_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:lime_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:lime_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:lime_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:magenta_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:magenta_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:magenta_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:magenta_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:orange_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:orange_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:orange_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:orange_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:pink_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:pink_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:pink_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:pink_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:purple_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:purple_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:purple_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:purple_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:red_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:red_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:red_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:red_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:white_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:white_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:white_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:white_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:yellow_candle_cake",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:yellow_candle_cake",
+   "out_props": {
+    "lit": "false"
+   }
+  },
+  {
+   "in": "minecraft:yellow_candle",
+   "in_props": {
+    "lit": "true"
+   },
+   "out": "minecraft:yellow_candle",
+   "out_props": {
+    "lit": "false"
+   }
+  }
+ ],
+ "bans_block": [
+  {
+   "block": "minecraft:fire"
+  },
+  {
+   "block": "minecraft:lantern"
+  },
+  {
+   "block": "minecraft:torch"
+  }
+ ],
+ "bans_item": [
+  {
+   "item": "minecraft:fire_charge"
+  },
+  {
+   "item": "minecraft:flint_and_steel"
+  },
+  {
+   "item": "minecraft:lantern"
+  },
+  {
+   "item": "minecraft:torch"
+  }
+ ],
+ "craft_shaped": [
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:aerogel"
+    ]
+   },
+   "out": "aether:aerogel_slab",
+   "count": 6,
+   "rkey": "aerogel_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:aerogel"
+    ]
+   },
+   "out": "aether:aerogel_stairs",
+   "count": 4,
+   "rkey": "aerogel_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:aerogel"
+    ]
+   },
+   "out": "aether:aerogel_wall",
+   "count": 6,
+   "rkey": "aerogel_wall"
+  },
+  {
+   "pattern": [
+    "LLL",
+    "LSL"
+   ],
+   "key": {
+    "L": [
+     "minecraft:leather"
+    ],
+    "S": [
+     "minecraft:string"
+    ]
+   },
+   "out": "minecraft:saddle",
+   "count": 1,
+   "rkey": "aether_saddle"
+  },
+  {
+   "pattern": [
+    "HHH",
+    "HZH",
+    "HHH"
+   ],
+   "key": {
+    "H": [
+     "aether:holystone"
+    ],
+    "Z": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:altar",
+   "count": 1,
+   "rkey": "altar"
+  },
+  {
+   "pattern": [
+    "###",
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:ambrosium_shard"
+    ]
+   },
+   "out": "aether:ambrosium_block",
+   "count": 1,
+   "rkey": "ambrosium_block"
+  },
+  {
+   "pattern": [
+    "A",
+    "/"
+   ],
+   "key": {
+    "/": [
+     "aether:skyroot_stick"
+    ],
+    "A": [
+     "aether:ambrosium_shard"
+    ]
+   },
+   "out": "aether:ambrosium_torch",
+   "count": 4,
+   "rkey": "ambrosium_torch"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:angelic_stone"
+    ]
+   },
+   "out": "aether:angelic_slab",
+   "count": 6,
+   "rkey": "angelic_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:angelic_stone"
+    ]
+   },
+   "out": "aether:angelic_stairs",
+   "count": 4,
+   "rkey": "angelic_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:angelic_stone"
+    ]
+   },
+   "out": "aether:angelic_wall",
+   "count": 6,
+   "rkey": "angelic_wall"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "minecraft:blue_wool"
+    ]
+   },
+   "out": "aether:blue_cape",
+   "count": 1,
+   "rkey": "blue_cape_blue_wool"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "minecraft:cyan_wool"
+    ]
+   },
+   "out": "aether:blue_cape",
+   "count": 1,
+   "rkey": "blue_cape_cyan_wool"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "minecraft:light_blue_wool"
+    ]
+   },
+   "out": "aether:blue_cape",
+   "count": 1,
+   "rkey": "blue_cape_light_blue_wool"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:carved_stone"
+    ]
+   },
+   "out": "aether:carved_slab",
+   "count": 6,
+   "rkey": "carved_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:carved_stone"
+    ]
+   },
+   "out": "aether:carved_stairs",
+   "count": 4,
+   "rkey": "carved_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:carved_stone"
+    ]
+   },
+   "out": "aether:carved_wall",
+   "count": 6,
+   "rkey": "carved_wall"
+  },
+  {
+   "pattern": [
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:cold_aercloud"
+    ]
+   },
+   "out": "aether:cold_parachute",
+   "count": 1,
+   "rkey": "cold_parachute"
+  },
+  {
+   "pattern": [
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "minecraft:diamond"
+    ]
+   },
+   "out": "aether:diamond_gloves",
+   "count": 1,
+   "rkey": "diamond_gloves"
+  },
+  {
+   "pattern": [
+    "HHH",
+    "HIH",
+    "PPP"
+   ],
+   "key": {
+    "H": [
+     "aether:holystone"
+    ],
+    "I": [
+     "aether:icestone"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:freezer",
+   "count": 1,
+   "rkey": "freezer"
+  },
+  {
+   "pattern": [
+    "F",
+    "/",
+    "G"
+   ],
+   "key": {
+    "/": [
+     "aether:skyroot_stick"
+    ],
+    "F": [
+     "minecraft:feather"
+    ],
+    "G": [
+     "aether:golden_amber"
+    ]
+   },
+   "out": "aether:golden_dart",
+   "count": 4,
+   "rkey": "golden_dart"
+  },
+  {
+   "pattern": [
+    "P",
+    "P",
+    "G"
+   ],
+   "key": {
+    "G": [
+     "aether:golden_amber"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:golden_dart_shooter",
+   "count": 1,
+   "rkey": "golden_dart_shooter"
+  },
+  {
+   "pattern": [
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "minecraft:gold_ingot"
+    ]
+   },
+   "out": "aether:golden_gloves",
+   "count": 1,
+   "rkey": "golden_gloves"
+  },
+  {
+   "pattern": [
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:golden_oak_log"
+    ]
+   },
+   "out": "aether:golden_oak_wood",
+   "count": 3,
+   "rkey": "golden_oak_wood"
+  },
+  {
+   "pattern": [
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:golden_aercloud"
+    ]
+   },
+   "out": "aether:golden_parachute",
+   "count": 1,
+   "rkey": "golden_parachute"
+  },
+  {
+   "pattern": [
+    "SSS",
+    "S S",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "minecraft:gold_ingot"
+    ],
+    "S": [
+     "minecraft:string"
+    ]
+   },
+   "out": "aether:golden_pendant",
+   "count": 1,
+   "rkey": "golden_pendant"
+  },
+  {
+   "pattern": [
+    " # ",
+    "# #",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "minecraft:gold_ingot"
+    ]
+   },
+   "out": "aether:golden_ring",
+   "count": 1,
+   "rkey": "golden_ring"
+  },
+  {
+   "pattern": [
+    "##",
+    "#/",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:gravitite_axe",
+   "count": 1,
+   "rkey": "gravitite_axe"
+  },
+  {
+   "pattern": [
+    "# #",
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ]
+   },
+   "out": "aether:gravitite_boots",
+   "count": 1,
+   "rkey": "gravitite_boots"
+  },
+  {
+   "pattern": [
+    "# #",
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ]
+   },
+   "out": "aether:gravitite_chestplate",
+   "count": 1,
+   "rkey": "gravitite_chestplate"
+  },
+  {
+   "pattern": [
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ]
+   },
+   "out": "aether:gravitite_gloves",
+   "count": 1,
+   "rkey": "gravitite_gloves"
+  },
+  {
+   "pattern": [
+    "###",
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ]
+   },
+   "out": "aether:gravitite_helmet",
+   "count": 1,
+   "rkey": "gravitite_helmet"
+  },
+  {
+   "pattern": [
+    "##",
+    " /",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:gravitite_hoe",
+   "count": 1,
+   "rkey": "gravitite_hoe"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "PGP",
+    "PPP"
+   ],
+   "key": {
+    "G": [
+     "aether:enchanted_gravitite"
+    ],
+    "P": [
+     "minecraft:oak_planks",
+     "minecraft:spruce_planks",
+     "minecraft:birch_planks",
+     "minecraft:jungle_planks",
+     "minecraft:acacia_planks",
+     "minecraft:dark_oak_planks",
+     "minecraft:pale_oak_planks",
+     "minecraft:crimson_planks",
+     "minecraft:warped_planks",
+     "minecraft:mangrove_planks",
+     "minecraft:bamboo_planks",
+     "minecraft:cherry_planks"
+    ]
+   },
+   "out": "minecraft:jukebox",
+   "count": 1,
+   "rkey": "gravitite_jukebox"
+  },
+  {
+   "pattern": [
+    "###",
+    "# #",
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ]
+   },
+   "out": "aether:gravitite_leggings",
+   "count": 1,
+   "rkey": "gravitite_leggings"
+  },
+  {
+   "pattern": [
+    "###",
+    " / ",
+    " / "
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:gravitite_pickaxe",
+   "count": 1,
+   "rkey": "gravitite_pickaxe"
+  },
+  {
+   "pattern": [
+    "#",
+    "/",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:gravitite_shovel",
+   "count": 1,
+   "rkey": "gravitite_shovel"
+  },
+  {
+   "pattern": [
+    "#",
+    "#",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:enchanted_gravitite"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:gravitite_sword",
+   "count": 1,
+   "rkey": "gravitite_sword"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:hellfire_stone"
+    ]
+   },
+   "out": "aether:hellfire_slab",
+   "count": 6,
+   "rkey": "hellfire_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:hellfire_stone"
+    ]
+   },
+   "out": "aether:hellfire_stairs",
+   "count": 4,
+   "rkey": "hellfire_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:hellfire_stone"
+    ]
+   },
+   "out": "aether:hellfire_wall",
+   "count": 6,
+   "rkey": "hellfire_wall"
+  },
+  {
+   "pattern": [
+    "##",
+    "#/",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:holystone_axe",
+   "count": 1,
+   "rkey": "holystone_axe"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone_bricks"
+    ]
+   },
+   "out": "aether:holystone_brick_slab",
+   "count": 6,
+   "rkey": "holystone_brick_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone_bricks"
+    ]
+   },
+   "out": "aether:holystone_brick_stairs",
+   "count": 4,
+   "rkey": "holystone_brick_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone_bricks"
+    ]
+   },
+   "out": "aether:holystone_brick_wall",
+   "count": 6,
+   "rkey": "holystone_brick_wall"
+  },
+  {
+   "pattern": [
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ]
+   },
+   "out": "aether:holystone_bricks",
+   "count": 4,
+   "rkey": "holystone_bricks"
+  },
+  {
+   "pattern": [
+    "##",
+    " /",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:holystone_hoe",
+   "count": 1,
+   "rkey": "holystone_hoe"
+  },
+  {
+   "pattern": [
+    "###",
+    " / ",
+    " / "
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:holystone_pickaxe",
+   "count": 1,
+   "rkey": "holystone_pickaxe"
+  },
+  {
+   "pattern": [
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ]
+   },
+   "out": "aether:holystone_pressure_plate",
+   "count": 1,
+   "rkey": "holystone_pressure_plate"
+  },
+  {
+   "pattern": [
+    "#",
+    "/",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:holystone_shovel",
+   "count": 1,
+   "rkey": "holystone_shovel"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ]
+   },
+   "out": "aether:holystone_slab",
+   "count": 6,
+   "rkey": "holystone_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ]
+   },
+   "out": "aether:holystone_stairs",
+   "count": 4,
+   "rkey": "holystone_stairs"
+  },
+  {
+   "pattern": [
+    " I ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ],
+    "I": [
+     "minecraft:iron_ingot"
+    ]
+   },
+   "out": "minecraft:stonecutter",
+   "count": 1,
+   "rkey": "holystone_stonecutter"
+  },
+  {
+   "pattern": [
+    "#",
+    "#",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:holystone_sword",
+   "count": 1,
+   "rkey": "holystone_sword"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:holystone"
+    ]
+   },
+   "out": "aether:holystone_wall",
+   "count": 6,
+   "rkey": "holystone_wall"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:icestone"
+    ]
+   },
+   "out": "aether:icestone_slab",
+   "count": 6,
+   "rkey": "icestone_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:icestone"
+    ]
+   },
+   "out": "aether:icestone_stairs",
+   "count": 4,
+   "rkey": "icestone_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:icestone"
+    ]
+   },
+   "out": "aether:icestone_wall",
+   "count": 6,
+   "rkey": "icestone_wall"
+  },
+  {
+   "pattern": [
+    "HHH",
+    "HTH",
+    "HHH"
+   ],
+   "key": {
+    "H": [
+     "aether:holystone"
+    ],
+    "T": [
+     "aether:ambrosium_torch"
+    ]
+   },
+   "out": "aether:incubator",
+   "count": 1,
+   "rkey": "incubator"
+  },
+  {
+   "pattern": [
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "minecraft:iron_ingot"
+    ]
+   },
+   "out": "aether:iron_gloves",
+   "count": 1,
+   "rkey": "iron_gloves"
+  },
+  {
+   "pattern": [
+    "SSS",
+    "S S",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "minecraft:iron_ingot"
+    ],
+    "S": [
+     "minecraft:string"
+    ]
+   },
+   "out": "aether:iron_pendant",
+   "count": 1,
+   "rkey": "iron_pendant"
+  },
+  {
+   "pattern": [
+    " # ",
+    "# #",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "minecraft:iron_ingot"
+    ]
+   },
+   "out": "aether:iron_ring",
+   "count": 1,
+   "rkey": "iron_ring"
+  },
+  {
+   "pattern": [
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "minecraft:leather"
+    ]
+   },
+   "out": "aether:leather_gloves",
+   "count": 1,
+   "rkey": "leather_gloves"
+  },
+  {
+   "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+   ],
+   "key": {
+    "A": [
+     "minecraft:milk_bucket"
+    ],
+    "B": [
+     "minecraft:sugar"
+    ],
+    "C": [
+     "minecraft:wheat"
+    ],
+    "E": [
+     "aether:blue_moa_egg",
+     "aether:white_moa_egg",
+     "aether:black_moa_egg"
+    ]
+   },
+   "out": "minecraft:cake",
+   "count": 1,
+   "rkey": "moa_egg_cake"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:mossy_holystone"
+    ]
+   },
+   "out": "aether:mossy_holystone_slab",
+   "count": 6,
+   "rkey": "mossy_holystone_slab"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:mossy_holystone"
+    ]
+   },
+   "out": "aether:mossy_holystone_stairs",
+   "count": 4,
+   "rkey": "mossy_holystone_stairs"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:mossy_holystone"
+    ]
+   },
+   "out": "aether:mossy_holystone_wall",
+   "count": 6,
+   "rkey": "mossy_holystone_wall"
+  },
+  {
+   "pattern": [
+    "Z",
+    "/"
+   ],
+   "key": {
+    "/": [
+     "aether:skyroot_stick"
+    ],
+    "Z": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:nature_staff",
+   "count": 1,
+   "rkey": "nature_staff"
+  },
+  {
+   "pattern": [
+    "DDD",
+    "DBD",
+    "DDD"
+   ],
+   "key": {
+    "B": [
+     "aether:skyroot_poison_bucket"
+    ],
+    "D": [
+     "aether:golden_dart"
+    ]
+   },
+   "out": "aether:poison_dart",
+   "count": 8,
+   "rkey": "poison_dart"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:quicksoil_glass"
+    ]
+   },
+   "out": "aether:quicksoil_glass_pane",
+   "count": 16,
+   "rkey": "quicksoil_glass_pane"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "minecraft:red_wool"
+    ]
+   },
+   "out": "aether:red_cape",
+   "count": 1,
+   "rkey": "red_cape"
+  },
+  {
+   "pattern": [
+    "##",
+    "#/",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:skyroot_axe",
+   "count": 1,
+   "rkey": "skyroot_axe"
+  },
+  {
+   "pattern": [
+    "PHP",
+    "P P",
+    "PHP"
+   ],
+   "key": {
+    "H": [
+     "minecraft:oak_slab",
+     "minecraft:spruce_slab",
+     "minecraft:birch_slab",
+     "minecraft:jungle_slab",
+     "minecraft:acacia_slab",
+     "minecraft:dark_oak_slab",
+     "minecraft:pale_oak_slab",
+     "minecraft:crimson_slab",
+     "minecraft:warped_slab",
+     "minecraft:mangrove_slab",
+     "minecraft:bamboo_slab",
+     "minecraft:cherry_slab"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:barrel",
+   "count": 1,
+   "rkey": "skyroot_barrel"
+  },
+  {
+   "pattern": [
+    "WWW",
+    "PPP"
+   ],
+   "key": {
+    "P": [
+     "aether:skyroot_planks"
+    ],
+    "W": [
+     "minecraft:white_wool",
+     "minecraft:orange_wool",
+     "minecraft:magenta_wool",
+     "minecraft:light_blue_wool",
+     "minecraft:yellow_wool",
+     "minecraft:lime_wool",
+     "minecraft:pink_wool",
+     "minecraft:gray_wool",
+     "minecraft:light_gray_wool",
+     "minecraft:cyan_wool",
+     "minecraft:purple_wool",
+     "minecraft:blue_wool",
+     "minecraft:brown_wool",
+     "minecraft:green_wool",
+     "minecraft:red_wool",
+     "minecraft:black_wool"
+    ]
+   },
+   "out": "aether:skyroot_bed",
+   "count": 1,
+   "rkey": "skyroot_bed"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "CCC",
+    "PPP"
+   ],
+   "key": {
+    "C": [
+     "minecraft:honeycomb"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:beehive",
+   "count": 1,
+   "rkey": "skyroot_beehive"
+  },
+  {
+   "pattern": [
+    "# #",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_boat",
+   "count": 1,
+   "rkey": "skyroot_boat"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "BBB",
+    "PPP"
+   ],
+   "key": {
+    "B": [
+     "minecraft:book"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_bookshelf",
+   "count": 1,
+   "rkey": "skyroot_bookshelf"
+  },
+  {
+   "pattern": [
+    "# #",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_bucket",
+   "count": 1,
+   "rkey": "skyroot_bucket"
+  },
+  {
+   "pattern": [
+    "##",
+    "PP",
+    "PP"
+   ],
+   "key": {
+    "#": [
+     "minecraft:paper"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:cartography_table",
+   "count": 1,
+   "rkey": "skyroot_cartography_table"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "P P",
+    "PPP"
+   ],
+   "key": {
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:chest",
+   "count": 1,
+   "rkey": "skyroot_chest"
+  },
+  {
+   "pattern": [
+    "PP",
+    "PP"
+   ],
+   "key": {
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:crafting_table",
+   "count": 1,
+   "rkey": "skyroot_crafting_table"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_door",
+   "count": 3,
+   "rkey": "skyroot_door"
+  },
+  {
+   "pattern": [
+    "M/M",
+    "M/M"
+   ],
+   "key": {
+    "/": [
+     "aether:skyroot_stick"
+    ],
+    "M": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_fence",
+   "count": 3,
+   "rkey": "skyroot_fence"
+  },
+  {
+   "pattern": [
+    "/M/",
+    "/M/"
+   ],
+   "key": {
+    "/": [
+     "aether:skyroot_stick"
+    ],
+    "M": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_fence_gate",
+   "count": 1,
+   "rkey": "skyroot_fence_gate"
+  },
+  {
+   "pattern": [
+    "FF",
+    "PP",
+    "PP"
+   ],
+   "key": {
+    "F": [
+     "minecraft:flint"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:fletching_table",
+   "count": 1,
+   "rkey": "skyroot_fletching_table"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "PGP",
+    "PPP"
+   ],
+   "key": {
+    "G": [
+     "aether:enchanted_gravitite"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:jukebox",
+   "count": 1,
+   "rkey": "skyroot_gravitite_jukebox"
+  },
+  {
+   "pattern": [
+    "/H/",
+    "P P"
+   ],
+   "key": {
+    "/": [
+     "minecraft:stick"
+    ],
+    "H": [
+     "minecraft:stone_slab"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:grindstone",
+   "count": 1,
+   "rkey": "skyroot_grindstone"
+  },
+  {
+   "pattern": [
+    "/H/",
+    "P P"
+   ],
+   "key": {
+    "/": [
+     "minecraft:stick"
+    ],
+    "H": [
+     "aether:holystone_slab"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:grindstone",
+   "count": 1,
+   "rkey": "skyroot_grindstone_holystone_slab"
+  },
+  {
+   "pattern": [
+    "X X",
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:stripped_skyroot_log"
+    ],
+    "X": [
+     "minecraft:iron_chain"
+    ]
+   },
+   "out": "aether:skyroot_hanging_sign",
+   "count": 6,
+   "rkey": "skyroot_hanging_sign"
+  },
+  {
+   "pattern": [
+    "##",
+    " /",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:skyroot_hoe",
+   "count": 1,
+   "rkey": "skyroot_hoe"
+  },
+  {
+   "pattern": [
+    "PIP",
+    "PPP",
+    " P "
+   ],
+   "key": {
+    "I": [
+     "minecraft:iron_ingot"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:shield",
+   "count": 1,
+   "rkey": "skyroot_iron_vanilla_shield"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "PDP",
+    "PPP"
+   ],
+   "key": {
+    "D": [
+     "minecraft:diamond"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:jukebox",
+   "count": 1,
+   "rkey": "skyroot_jukebox"
+  },
+  {
+   "pattern": [
+    "SSS",
+    " B ",
+    " S "
+   ],
+   "key": {
+    "B": [
+     "aether:skyroot_bookshelf"
+    ],
+    "S": [
+     "minecraft:oak_slab",
+     "minecraft:spruce_slab",
+     "minecraft:birch_slab",
+     "minecraft:jungle_slab",
+     "minecraft:acacia_slab",
+     "minecraft:dark_oak_slab",
+     "minecraft:pale_oak_slab",
+     "minecraft:crimson_slab",
+     "minecraft:warped_slab",
+     "minecraft:mangrove_slab",
+     "minecraft:bamboo_slab",
+     "minecraft:cherry_slab"
+    ]
+   },
+   "out": "minecraft:lectern",
+   "count": 1,
+   "rkey": "skyroot_lectern"
+  },
+  {
+   "pattern": [
+    "TT",
+    "PP"
+   ],
+   "key": {
+    "P": [
+     "aether:skyroot_planks"
+    ],
+    "T": [
+     "minecraft:string"
+    ]
+   },
+   "out": "minecraft:loom",
+   "count": 1,
+   "rkey": "skyroot_loom"
+  },
+  {
+   "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+   ],
+   "key": {
+    "A": [
+     "aether:skyroot_milk_bucket"
+    ],
+    "B": [
+     "minecraft:sugar"
+    ],
+    "C": [
+     "minecraft:wheat"
+    ],
+    "E": [
+     "minecraft:egg"
+    ]
+   },
+   "out": "minecraft:cake",
+   "count": 1,
+   "rkey": "skyroot_milk_bucket_cake"
+  },
+  {
+   "pattern": [
+    "AAA",
+    "BEB",
+    "CCC"
+   ],
+   "key": {
+    "A": [
+     "aether:skyroot_milk_bucket"
+    ],
+    "B": [
+     "minecraft:sugar"
+    ],
+    "C": [
+     "minecraft:wheat"
+    ],
+    "E": [
+     "aether:blue_moa_egg",
+     "aether:white_moa_egg",
+     "aether:black_moa_egg"
+    ]
+   },
+   "out": "minecraft:cake",
+   "count": 1,
+   "rkey": "skyroot_milk_bucket_moa_egg_cake"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "PRP",
+    "PPP"
+   ],
+   "key": {
+    "P": [
+     "aether:skyroot_planks"
+    ],
+    "R": [
+     "minecraft:redstone"
+    ]
+   },
+   "out": "minecraft:note_block",
+   "count": 1,
+   "rkey": "skyroot_note_block"
+  },
+  {
+   "pattern": [
+    "###",
+    " / ",
+    " / "
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:skyroot_pickaxe",
+   "count": 1,
+   "rkey": "skyroot_pickaxe"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "CIC",
+    "CRC"
+   ],
+   "key": {
+    "C": [
+     "minecraft:cobblestone"
+    ],
+    "I": [
+     "minecraft:iron_ingot"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ],
+    "R": [
+     "minecraft:redstone"
+    ]
+   },
+   "out": "minecraft:piston",
+   "count": 1,
+   "rkey": "skyroot_piston"
+  },
+  {
+   "pattern": [
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_pressure_plate",
+   "count": 1,
+   "rkey": "skyroot_pressure_plate"
+  },
+  {
+   "pattern": [
+    "#",
+    "/",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:skyroot_shovel",
+   "count": 1,
+   "rkey": "skyroot_shovel"
+  },
+  {
+   "pattern": [
+    "PPP",
+    "PPP",
+    " / "
+   ],
+   "key": {
+    "/": [
+     "minecraft:stick"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_sign",
+   "count": 3,
+   "rkey": "skyroot_sign"
+  },
+  {
+   "pattern": [
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_slab",
+   "count": 6,
+   "rkey": "skyroot_slab"
+  },
+  {
+   "pattern": [
+    "II",
+    "PP",
+    "PP"
+   ],
+   "key": {
+    "I": [
+     "minecraft:iron_ingot"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:smithing_table",
+   "count": 1,
+   "rkey": "skyroot_smithing_table"
+  },
+  {
+   "pattern": [
+    "#  ",
+    "## ",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_stairs",
+   "count": 4,
+   "rkey": "skyroot_stairs"
+  },
+  {
+   "pattern": [
+    "#",
+    "#"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_stick",
+   "count": 4,
+   "rkey": "skyroot_stick"
+  },
+  {
+   "pattern": [
+    "#",
+    "#",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:skyroot_sword",
+   "count": 1,
+   "rkey": "skyroot_sword"
+  },
+  {
+   "pattern": [
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "aether:skyroot_trapdoor",
+   "count": 2,
+   "rkey": "skyroot_trapdoor"
+  },
+  {
+   "pattern": [
+    "I",
+    "/",
+    "P"
+   ],
+   "key": {
+    "/": [
+     "minecraft:stick"
+    ],
+    "I": [
+     "minecraft:iron_ingot"
+    ],
+    "P": [
+     "aether:skyroot_planks"
+    ]
+   },
+   "out": "minecraft:tripwire_hook",
+   "count": 2,
+   "rkey": "skyroot_tripwire_hook"
+  },
+  {
+   "pattern": [
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:skyroot_log"
+    ]
+   },
+   "out": "aether:skyroot_wood",
+   "count": 3,
+   "rkey": "skyroot_wood"
+  },
+  {
+   "pattern": [
+    "PZP",
+    "PPP",
+    " P "
+   ],
+   "key": {
+    "P": [
+     "aether:skyroot_planks"
+    ],
+    "Z": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "minecraft:shield",
+   "count": 1,
+   "rkey": "skyroot_zanite_vanilla_shield"
+  },
+  {
+   "pattern": [
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "aether:stripped_skyroot_log"
+    ]
+   },
+   "out": "aether:stripped_skyroot_wood",
+   "count": 3,
+   "rkey": "stripped_skyroot_wood"
+  },
+  {
+   "pattern": [
+    "SS ",
+    "SB ",
+    "  S"
+   ],
+   "key": {
+    "B": [
+     "aether:swet_ball"
+    ],
+    "S": [
+     "minecraft:string"
+    ]
+   },
+   "out": "minecraft:lead",
+   "count": 2,
+   "rkey": "swet_lead"
+  },
+  {
+   "pattern": [
+    "BBB",
+    "BBB",
+    "BBB"
+   ],
+   "key": {
+    "B": [
+     "aether:swet_ball"
+    ]
+   },
+   "out": "minecraft:slime_block",
+   "count": 1,
+   "rkey": "swet_slime_block"
+  },
+  {
+   "pattern": [
+    "B",
+    "P"
+   ],
+   "key": {
+    "B": [
+     "aether:swet_ball"
+    ],
+    "P": [
+     "minecraft:piston"
+    ]
+   },
+   "out": "minecraft:sticky_piston",
+   "count": 1,
+   "rkey": "swet_sticky_piston"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "minecraft:white_wool"
+    ]
+   },
+   "out": "aether:white_cape",
+   "count": 1,
+   "rkey": "white_cape"
+  },
+  {
+   "pattern": [
+    "PZP",
+    "PPP",
+    " P "
+   ],
+   "key": {
+    "P": [
+     "minecraft:oak_planks",
+     "minecraft:spruce_planks",
+     "minecraft:birch_planks",
+     "minecraft:jungle_planks",
+     "minecraft:acacia_planks",
+     "minecraft:dark_oak_planks",
+     "minecraft:pale_oak_planks",
+     "minecraft:crimson_planks",
+     "minecraft:warped_planks",
+     "minecraft:mangrove_planks",
+     "minecraft:bamboo_planks",
+     "minecraft:cherry_planks"
+    ],
+    "Z": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "minecraft:shield",
+   "count": 1,
+   "rkey": "wood_zanite_vanilla_shield"
+  },
+  {
+   "pattern": [
+    "##",
+    "##",
+    "##"
+   ],
+   "key": {
+    "#": [
+     "minecraft:yellow_wool"
+    ]
+   },
+   "out": "aether:yellow_cape",
+   "count": 1,
+   "rkey": "yellow_cape"
+  },
+  {
+   "pattern": [
+    "##",
+    "#/",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:zanite_axe",
+   "count": 1,
+   "rkey": "zanite_axe"
+  },
+  {
+   "pattern": [
+    "###",
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_block",
+   "count": 1,
+   "rkey": "zanite_block"
+  },
+  {
+   "pattern": [
+    "# #",
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_boots",
+   "count": 1,
+   "rkey": "zanite_boots"
+  },
+  {
+   "pattern": [
+    "# #",
+    "###",
+    "###"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_chestplate",
+   "count": 1,
+   "rkey": "zanite_chestplate"
+  },
+  {
+   "pattern": [
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_gloves",
+   "count": 1,
+   "rkey": "zanite_gloves"
+  },
+  {
+   "pattern": [
+    "###",
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_helmet",
+   "count": 1,
+   "rkey": "zanite_helmet"
+  },
+  {
+   "pattern": [
+    "##",
+    " /",
+    " /"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:zanite_hoe",
+   "count": 1,
+   "rkey": "zanite_hoe"
+  },
+  {
+   "pattern": [
+    "###",
+    "# #",
+    "# #"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_leggings",
+   "count": 1,
+   "rkey": "zanite_leggings"
+  },
+  {
+   "pattern": [
+    "SSS",
+    "S S",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ],
+    "S": [
+     "minecraft:string"
+    ]
+   },
+   "out": "aether:zanite_pendant",
+   "count": 1,
+   "rkey": "zanite_pendant"
+  },
+  {
+   "pattern": [
+    "###",
+    " / ",
+    " / "
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:zanite_pickaxe",
+   "count": 1,
+   "rkey": "zanite_pickaxe"
+  },
+  {
+   "pattern": [
+    " # ",
+    "# #",
+    " # "
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ]
+   },
+   "out": "aether:zanite_ring",
+   "count": 1,
+   "rkey": "zanite_ring"
+  },
+  {
+   "pattern": [
+    "#",
+    "/",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:zanite_shovel",
+   "count": 1,
+   "rkey": "zanite_shovel"
+  },
+  {
+   "pattern": [
+    "#",
+    "#",
+    "/"
+   ],
+   "key": {
+    "#": [
+     "aether:zanite_gemstone"
+    ],
+    "/": [
+     "aether:skyroot_stick"
+    ]
+   },
+   "out": "aether:zanite_sword",
+   "count": 1,
+   "rkey": "zanite_sword"
+  }
+ ],
+ "craft_shapeless": [
+  {
+   "ingredients": [
+    [
+     "aether:ambrosium_block"
+    ]
+   ],
+   "out": "aether:ambrosium_shard",
+   "count": 9,
+   "rkey": "ambrosium_shard_from_ambrosium_block"
+  },
+  {
+   "ingredients": [
+    [
+     "minecraft:book"
+    ],
+    [
+     "minecraft:glowstone_dust",
+     "minecraft:flint",
+     "aether:ambrosium_shard"
+    ]
+   ],
+   "out": "aether:book_of_lore",
+   "count": 1,
+   "rkey": "book_of_lore"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:purple_flower"
+    ]
+   ],
+   "out": "minecraft:purple_dye",
+   "count": 1,
+   "rkey": "flower_to_purple_dye"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:white_flower"
+    ]
+   ],
+   "out": "minecraft:white_dye",
+   "count": 1,
+   "rkey": "flower_to_white_dye"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:holystone"
+    ]
+   ],
+   "out": "aether:holystone_button",
+   "count": 1,
+   "rkey": "holystone_button"
+  },
+  {
+   "ingredients": [
+    [
+     "minecraft:pumpkin"
+    ],
+    [
+     "minecraft:sugar"
+    ],
+    [
+     "aether:blue_moa_egg",
+     "aether:white_moa_egg",
+     "aether:black_moa_egg"
+    ]
+   ],
+   "out": "minecraft:pumpkin_pie",
+   "count": 1,
+   "rkey": "moa_egg_pumpkin_pie"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:holystone"
+    ],
+    [
+     "minecraft:moss_block"
+    ]
+   ],
+   "out": "aether:mossy_holystone",
+   "count": 1,
+   "rkey": "mossy_holystone_with_moss"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:holystone"
+    ],
+    [
+     "minecraft:vine"
+    ]
+   ],
+   "out": "aether:mossy_holystone",
+   "count": 1,
+   "rkey": "mossy_holystone_with_vine"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:golden_dart_shooter"
+    ],
+    [
+     "aether:aechor_petal"
+    ]
+   ],
+   "out": "aether:poison_dart_shooter",
+   "count": 1,
+   "rkey": "poison_dart_shooter"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:skyroot_planks"
+    ]
+   ],
+   "out": "aether:skyroot_button",
+   "count": 1,
+   "rkey": "skyroot_button"
+  },
+  {
+   "ingredients": [
+    [
+     "minecraft:chest"
+    ],
+    [
+     "aether:skyroot_boat"
+    ]
+   ],
+   "out": "aether:skyroot_chest_boat",
+   "count": 1,
+   "rkey": "skyroot_chest_boat"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:skyroot_log",
+     "aether:skyroot_wood",
+     "aether:stripped_skyroot_log",
+     "aether:stripped_skyroot_wood",
+     "aether:golden_oak_log",
+     "aether:golden_oak_wood"
+    ]
+   ],
+   "out": "aether:skyroot_planks",
+   "count": 4,
+   "rkey": "skyroot_planks"
+  },
+  {
+   "ingredients": [
+    [
+     "minecraft:white_banner",
+     "minecraft:orange_banner",
+     "minecraft:magenta_banner",
+     "minecraft:light_blue_banner",
+     "minecraft:yellow_banner",
+     "minecraft:lime_banner",
+     "minecraft:pink_banner",
+     "minecraft:gray_banner",
+     "minecraft:light_gray_banner",
+     "minecraft:cyan_banner",
+     "minecraft:purple_banner",
+     "minecraft:blue_banner",
+     "minecraft:brown_banner",
+     "minecraft:green_banner",
+     "minecraft:red_banner",
+     "minecraft:black_banner"
+    ],
+    [
+     "aether:swet_cape"
+    ]
+   ],
+   "out": "minecraft:black_banner",
+   "count": 1,
+   "extra": {
+    "banner": [
+     {
+      "color": "cyan",
+      "pattern": "minecraft:stripe_downleft"
+     },
+     {
+      "color": "cyan",
+      "pattern": "minecraft:stripe_bottom"
+     },
+     {
+      "color": "cyan",
+      "pattern": "minecraft:stripe_left"
+     },
+     {
+      "color": "black",
+      "pattern": "minecraft:half_horizontal"
+     },
+     {
+      "color": "cyan",
+      "pattern": "minecraft:straight_cross"
+     },
+     {
+      "color": "white",
+      "pattern": "minecraft:border"
+     },
+     {
+      "color": "light_blue",
+      "pattern": "minecraft:gradient_up"
+     },
+     {
+      "color": "light_blue",
+      "pattern": "minecraft:gradient"
+     }
+    ],
+    "name_key": "aether.block.aether.swet_banner",
+    "name": "Swet Banner",
+    "color": "gold"
+   },
+   "rkey": "swet_banner"
+  },
+  {
+   "ingredients": [
+    [
+     "aether:zanite_block"
+    ]
+   ],
+   "out": "aether:zanite_gemstone",
+   "count": 9,
+   "rkey": "zanite_gemstone_from_zanite_block"
+  }
+ ],
+ "smelting": [
+  {
+   "rkey": "aether_gold_nugget_from_smelting",
+   "in": [
+    "aether:golden_gloves",
+    "aether:golden_pendant",
+    "aether:golden_ring",
+    "aether:victory_medal"
+   ],
+   "out": "minecraft:gold_nugget",
+   "count": 1,
+   "time": 200,
+   "xp": 0.1
+  },
+  {
+   "rkey": "aether_iron_nugget_from_smelting",
+   "in": [
+    "aether:iron_gloves",
+    "aether:iron_pendant",
+    "aether:iron_ring",
+    "aether:chainmail_gloves"
+   ],
+   "out": "minecraft:iron_nugget",
+   "count": 1,
+   "time": 200,
+   "xp": 0.1
+  },
+  {
+   "rkey": "ambrosium_shard_from_smelting",
+   "in": [
+    "aether:ambrosium_ore"
+   ],
+   "out": "aether:ambrosium_shard",
+   "count": 1,
+   "time": 200,
+   "xp": 0.1
+  },
+  {
+   "rkey": "klepto_smelting",
+   "in": [
+    "minecraft:music_disc_stal"
+   ],
+   "out": "aether:music_disc_klepto",
+   "count": 1,
+   "time": 200,
+   "xp": 1.0
+  },
+  {
+   "rkey": "zanite_gemstone_from_smelting",
+   "in": [
+    "aether:zanite_ore"
+   ],
+   "out": "aether:zanite_gemstone",
+   "count": 1,
+   "time": 200,
+   "xp": 0.7
+  }
+ ],
+ "blasting": [
+  {
+   "rkey": "aether_gold_nugget_from_blasting",
+   "in": [
+    "aether:golden_gloves",
+    "aether:golden_pendant",
+    "aether:golden_ring",
+    "aether:victory_medal"
+   ],
+   "out": "minecraft:gold_nugget",
+   "count": 1,
+   "time": 100,
+   "xp": 0.1
+  },
+  {
+   "rkey": "aether_iron_nugget_from_blasting",
+   "in": [
+    "aether:iron_gloves",
+    "aether:iron_pendant",
+    "aether:iron_ring",
+    "aether:chainmail_gloves"
+   ],
+   "out": "minecraft:iron_nugget",
+   "count": 1,
+   "time": 100,
+   "xp": 0.1
+  },
+  {
+   "rkey": "ambrosium_shard_from_blasting",
+   "in": [
+    "aether:ambrosium_ore"
+   ],
+   "out": "aether:ambrosium_shard",
+   "count": 1,
+   "time": 100,
+   "xp": 0.1
+  },
+  {
+   "rkey": "zanite_gemstone_from_blasting",
+   "in": [
+    "aether:zanite_ore"
+   ],
+   "out": "aether:zanite_gemstone",
+   "count": 1,
+   "time": 100,
+   "xp": 0.7
+  }
+ ],
+ "stonecutting": [
+  {
+   "rkey": "aerogel_slab_from_aerogel_stonecutting",
+   "in": [
+    "aether:aerogel"
+   ],
+   "out": "aether:aerogel_slab",
+   "count": 2
+  },
+  {
+   "rkey": "aerogel_stairs_from_aerogel_stonecutting",
+   "in": [
+    "aether:aerogel"
+   ],
+   "out": "aether:aerogel_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "aerogel_wall_from_aerogel_stonecutting",
+   "in": [
+    "aether:aerogel"
+   ],
+   "out": "aether:aerogel_wall",
+   "count": 1
+  },
+  {
+   "rkey": "angelic_slab_from_angelic_stone_stonecutting",
+   "in": [
+    "aether:angelic_stone"
+   ],
+   "out": "aether:angelic_slab",
+   "count": 2
+  },
+  {
+   "rkey": "angelic_stairs_from_angelic_stone_stonecutting",
+   "in": [
+    "aether:angelic_stone"
+   ],
+   "out": "aether:angelic_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "angelic_stone_from_light_angelic_stone_stonecutting",
+   "in": [
+    "aether:light_angelic_stone"
+   ],
+   "out": "aether:angelic_stone",
+   "count": 1
+  },
+  {
+   "rkey": "angelic_stone_from_pillar_stonecutting",
+   "in": [
+    "aether:pillar"
+   ],
+   "out": "aether:angelic_stone",
+   "count": 1
+  },
+  {
+   "rkey": "angelic_stone_from_pillar_top_stonecutting",
+   "in": [
+    "aether:pillar_top"
+   ],
+   "out": "aether:angelic_stone",
+   "count": 1
+  },
+  {
+   "rkey": "angelic_wall_from_angelic_stone_stonecutting",
+   "in": [
+    "aether:angelic_stone"
+   ],
+   "out": "aether:angelic_wall",
+   "count": 1
+  },
+  {
+   "rkey": "carved_slab_from_carved_stone_stonecutting",
+   "in": [
+    "aether:carved_stone"
+   ],
+   "out": "aether:carved_slab",
+   "count": 2
+  },
+  {
+   "rkey": "carved_stairs_from_carved_stone_stonecutting",
+   "in": [
+    "aether:carved_stone"
+   ],
+   "out": "aether:carved_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "carved_stone_from_sentry_stone_stonecutting",
+   "in": [
+    "aether:sentry_stone"
+   ],
+   "out": "aether:carved_stone",
+   "count": 1
+  },
+  {
+   "rkey": "carved_wall_from_carved_stone_stonecutting",
+   "in": [
+    "aether:carved_stone"
+   ],
+   "out": "aether:carved_wall",
+   "count": 1
+  },
+  {
+   "rkey": "hellfire_slab_from_hellfire_stone_stonecutting",
+   "in": [
+    "aether:hellfire_stone"
+   ],
+   "out": "aether:hellfire_slab",
+   "count": 2
+  },
+  {
+   "rkey": "hellfire_stairs_from_hellfire_stone_stonecutting",
+   "in": [
+    "aether:hellfire_stone"
+   ],
+   "out": "aether:hellfire_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "hellfire_stone_from_light_hellfire_stone_stonecutting",
+   "in": [
+    "aether:light_hellfire_stone"
+   ],
+   "out": "aether:hellfire_stone",
+   "count": 1
+  },
+  {
+   "rkey": "hellfire_wall_from_hellfire_stone_stonecutting",
+   "in": [
+    "aether:hellfire_stone"
+   ],
+   "out": "aether:hellfire_wall",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_brick_slab_from_holystone_bricks_stonecutting",
+   "in": [
+    "aether:holystone_bricks"
+   ],
+   "out": "aether:holystone_brick_slab",
+   "count": 2
+  },
+  {
+   "rkey": "holystone_brick_slab_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_brick_slab",
+   "count": 2
+  },
+  {
+   "rkey": "holystone_brick_stairs_from_holystone_bricks_stonecutting",
+   "in": [
+    "aether:holystone_bricks"
+   ],
+   "out": "aether:holystone_brick_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_brick_stairs_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_brick_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_brick_wall_from_holystone_bricks_stonecutting",
+   "in": [
+    "aether:holystone_bricks"
+   ],
+   "out": "aether:holystone_brick_wall",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_brick_wall_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_brick_wall",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_bricks_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_bricks",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_slab_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_slab",
+   "count": 2
+  },
+  {
+   "rkey": "holystone_stairs_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "holystone_wall_from_holystone_stonecutting",
+   "in": [
+    "aether:holystone"
+   ],
+   "out": "aether:holystone_wall",
+   "count": 1
+  },
+  {
+   "rkey": "icestone_slab_from_icestone_stonecutting",
+   "in": [
+    "aether:icestone"
+   ],
+   "out": "aether:icestone_slab",
+   "count": 2
+  },
+  {
+   "rkey": "icestone_stairs_from_icestone_stonecutting",
+   "in": [
+    "aether:icestone"
+   ],
+   "out": "aether:icestone_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "icestone_wall_from_icestone_stonecutting",
+   "in": [
+    "aether:icestone"
+   ],
+   "out": "aether:icestone_wall",
+   "count": 1
+  },
+  {
+   "rkey": "light_angelic_stone_from_angelic_stone_stonecutting",
+   "in": [
+    "aether:angelic_stone"
+   ],
+   "out": "aether:light_angelic_stone",
+   "count": 1
+  },
+  {
+   "rkey": "light_hellfire_stone_from_hellfire_stone_stonecutting",
+   "in": [
+    "aether:hellfire_stone"
+   ],
+   "out": "aether:light_hellfire_stone",
+   "count": 1
+  },
+  {
+   "rkey": "mossy_holystone_slab_from_mossy_holystone_stonecutting",
+   "in": [
+    "aether:mossy_holystone"
+   ],
+   "out": "aether:mossy_holystone_slab",
+   "count": 2
+  },
+  {
+   "rkey": "mossy_holystone_stairs_from_mossy_holystone_stonecutting",
+   "in": [
+    "aether:mossy_holystone"
+   ],
+   "out": "aether:mossy_holystone_stairs",
+   "count": 1
+  },
+  {
+   "rkey": "mossy_holystone_wall_from_mossy_holystone_stonecutting",
+   "in": [
+    "aether:mossy_holystone"
+   ],
+   "out": "aether:mossy_holystone_wall",
+   "count": 1
+  },
+  {
+   "rkey": "pillar_from_angelic_stone_stonecutting",
+   "in": [
+    "aether:angelic_stone"
+   ],
+   "out": "aether:pillar",
+   "count": 1
+  },
+  {
+   "rkey": "pillar_from_pillar_top_stonecutting",
+   "in": [
+    "aether:pillar_top"
+   ],
+   "out": "aether:pillar",
+   "count": 1
+  },
+  {
+   "rkey": "pillar_top_from_angelic_stone_stonecutting",
+   "in": [
+    "aether:angelic_stone"
+   ],
+   "out": "aether:pillar_top",
+   "count": 1
+  },
+  {
+   "rkey": "pillar_top_from_pillar_stonecutting",
+   "in": [
+    "aether:pillar"
+   ],
+   "out": "aether:pillar_top",
+   "count": 1
+  },
+  {
+   "rkey": "sentry_stone_from_carved_stone_stonecutting",
+   "in": [
+    "aether:carved_stone"
+   ],
+   "out": "aether:sentry_stone",
+   "count": 1
+  }
+ ],
+ "smithing": [
+  {
+   "rkey": "netherite_gloves_smithing",
+   "template": [
+    "minecraft:netherite_upgrade_smithing_template"
+   ],
+   "base": [
+    "aether:diamond_gloves"
+   ],
+   "addition": [
+    "minecraft:netherite_ingot"
+   ],
+   "out": "aether:netherite_gloves",
+   "count": 1
+  }
+ ],
+ "anvil_repair": {
+  "candy_cane": [
+   "aether:candy_cane"
+  ],
+  "flaming": [],
+  "gravitite": [
+   "aether:enchanted_gravitite"
+  ],
+  "hammer_of_kingbdogz": [],
+  "holy": [],
+  "holystone": [
+   "aether:holystone"
+  ],
+  "ice": [],
+  "lightning": [],
+  "neptune": [],
+  "obsidian": [],
+  "phoenix": [],
+  "pig_slayer": [],
+  "sentry": [],
+  "skyroot": [
+   "aether:skyroot_planks"
+  ],
+  "valkyrie": [],
+  "vampire": [],
+  "zanite": [
+   "aether:zanite_gemstone"
+  ]
+ }
+}

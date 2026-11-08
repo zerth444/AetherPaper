@@ -1,0 +1,387 @@
+{
+ "credit": "Converted from The Aether (fan port, do not distribute)",
+ "texture_size": [
+  64,
+  32
+ ],
+ "aether_display_scale": 1.0,
+ "aether_display_height": 0.625,
+ "aether_renderer_scale": 1.0,
+ "textures": {
+  "0": "aether:entity/miscellaneous/cloud_minion/cloud_minion",
+  "particle": "aether:entity/miscellaneous/cloud_minion/cloud_minion"
+ },
+ "elements": [
+  {
+   "from": [
+    3.5,
+    1.0,
+    3.5
+   ],
+   "to": [
+    12.5,
+    10.0,
+    12.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      2.25,
+      4.5,
+      4.5,
+      9.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      4.5,
+      4.5,
+      6.75,
+      9.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      6.75,
+      4.5,
+      9.0,
+      9.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      4.5,
+      2.25,
+      9.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      2.25,
+      0.0,
+      4.5,
+      4.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      4.5,
+      0.0,
+      6.75,
+      4.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  },
+  {
+   "from": [
+    4.5,
+    2.0,
+    2.5
+   ],
+   "to": [
+    11.5,
+    9.0,
+    3.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0.25,
+      0.5,
+      2.0,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      2.0,
+      0.5,
+      2.25,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      2.25,
+      0.5,
+      4.0,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      0.5,
+      0.25,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      0.25,
+      0.0,
+      2.0,
+      0.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      2.0,
+      0.0,
+      3.75,
+      0.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  },
+  {
+   "from": [
+    4.5,
+    2.0,
+    12.5
+   ],
+   "to": [
+    11.5,
+    9.0,
+    13.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      0.25,
+      0.5,
+      2.0,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      2.0,
+      0.5,
+      2.25,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      2.25,
+      0.5,
+      4.0,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      0.5,
+      0.25,
+      4.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      0.25,
+      0.0,
+      2.0,
+      0.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      2.0,
+      0.0,
+      3.75,
+      0.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  },
+  {
+   "from": [
+    2.5,
+    2.0,
+    4.5
+   ],
+   "to": [
+    3.5,
+    9.0,
+    11.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      1.75,
+      3.5,
+      2.0,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      2.0,
+      3.5,
+      3.75,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      3.75,
+      3.5,
+      4.0,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      3.5,
+      1.75,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      1.75,
+      0.0,
+      2.0,
+      3.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      2.0,
+      0.0,
+      2.25,
+      3.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  },
+  {
+   "from": [
+    12.5,
+    2.0,
+    4.5
+   ],
+   "to": [
+    13.5,
+    9.0,
+    11.5
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      1.75,
+      3.5,
+      2.0,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      2.0,
+      3.5,
+      3.75,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      3.75,
+      3.5,
+      4.0,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      3.5,
+      1.75,
+      7.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      1.75,
+      0.0,
+      2.0,
+      3.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      2.0,
+      0.0,
+      2.25,
+      3.5
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  }
+ ],
+ "aether_limbs": []
+}

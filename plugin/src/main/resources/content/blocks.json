@@ -1,0 +1,3920 @@
+{
+ "aether_portal": {
+  "carrier": "minecraft:nether_portal",
+  "legacy_carrier": "minecraft:nether_portal",
+  "hardness": -1.0,
+  "resistance": -1.0,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [],
+  "double_drops": false,
+  "model": null,
+  "lang_en": "Aether Portal",
+  "lang_ru": "Портал Эфира"
+ },
+ "aether_grass_block": {
+  "carrier": "minecraft:note_block[instrument=harp,note=24,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=0,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "shovel",
+  "drops": [
+   {
+    "item": "aether_grass_block",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "aether_dirt",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/aether_grass_block",
+  "lang_en": "Aether Grass Block",
+  "lang_ru": "Дёрн Эфира"
+ },
+ "enchanted_aether_grass_block": {
+  "carrier": "minecraft:note_block[instrument=harp,note=23,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=1,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "shovel",
+  "drops": [
+   {
+    "item": "enchanted_aether_grass_block",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "aether_dirt",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/enchanted_aether_grass_block",
+  "lang_en": "Enchanted Aether Grass Block",
+  "lang_ru": "Зачарованный Эфирный дёрн"
+ },
+ "aether_dirt": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=0,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "gravel",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "shovel",
+  "drops": [
+   {
+    "item": "aether_dirt",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/aether_dirt",
+  "lang_en": "Aether Dirt",
+  "lang_ru": "Земля Эфира"
+ },
+ "quicksoil": {
+  "carrier": "minecraft:frosted_ice[age=3]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=0,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "sand",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "shovel",
+  "drops": [
+   {
+    "item": "quicksoil",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/quicksoil",
+  "lang_en": "Quicksoil",
+  "lang_ru": "Быстропесок"
+ },
+ "holystone": {
+  "carrier": "minecraft:note_block[instrument=hat,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=0,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/holystone",
+  "lang_en": "Holystone",
+  "lang_ru": "Священный камень"
+ },
+ "mossy_holystone": {
+  "carrier": "minecraft:note_block[instrument=hat,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=1,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "mossy_holystone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/mossy_holystone",
+  "lang_en": "Mossy Holystone",
+  "lang_ru": "Замшелый священный камень"
+ },
+ "aether_farmland": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=2,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "gravel",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "shovel",
+  "drops": [
+   {
+    "item": "aether_dirt",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/aether_farmland",
+  "lang_en": "Aether Farmland",
+  "lang_ru": "Пашня Эфира"
+ },
+ "aether_dirt_path": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=1,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "shovel",
+  "drops": [
+   {
+    "item": "aether_dirt",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/aether_dirt_path",
+  "lang_en": "Aether Dirt Path",
+  "lang_ru": "Тропинка Эфира"
+ },
+ "cold_aercloud": {
+  "carrier": "minecraft:snow[layers=6]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=1,powered=false]",
+  "hardness": 0.3,
+  "resistance": 0.3,
+  "sound": "wool",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "cold_aercloud",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/cold_aercloud",
+  "lang_en": "Cold Aercloud",
+  "lang_ru": "Холодное Облако"
+ },
+ "blue_aercloud": {
+  "carrier": "minecraft:snow[layers=5]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=0,powered=false]",
+  "hardness": 0.3,
+  "resistance": 0.3,
+  "sound": "wool",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "blue_aercloud",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/blue_aercloud",
+  "lang_en": "Blue Aercloud",
+  "lang_ru": "Голубое Облако"
+ },
+ "golden_aercloud": {
+  "carrier": "minecraft:snow[layers=7]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=0,powered=false]",
+  "hardness": 0.3,
+  "resistance": 0.3,
+  "sound": "wool",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "golden_aercloud",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/golden_aercloud",
+  "lang_en": "Golden Aercloud",
+  "lang_ru": "Золотое Облако"
+ },
+ "icestone": {
+  "carrier": "minecraft:note_block[instrument=bass,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=0,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "glass",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "icestone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/icestone",
+  "lang_en": "Icestone",
+  "lang_ru": "Ледокамень"
+ },
+ "ambrosium_ore": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=0,powered=false]",
+  "hardness": 3.0,
+  "resistance": 3.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "ambrosium_ore",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "ambrosium_shard",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": "minecraft:ore_drops"
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/ambrosium_ore",
+  "lang_en": "Ambrosium Ore",
+  "lang_ru": "Амброзиевая руда"
+ },
+ "zanite_ore": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=2,powered=false]",
+  "hardness": 3.0,
+  "resistance": 3.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "zanite_ore",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "zanite_gemstone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": "minecraft:ore_drops"
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/zanite_ore",
+  "lang_en": "Zanite Ore",
+  "lang_ru": "Занитная руда"
+ },
+ "gravitite_ore": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=1,powered=false]",
+  "hardness": 3.0,
+  "resistance": 3.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 2,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "gravitite_ore",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/gravitite_ore",
+  "lang_en": "Gravitite Ore",
+  "lang_ru": "Гравититовая Руда"
+ },
+ "skyroot_leaves": {
+  "carrier": "minecraft:green_stained_glass",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=3,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "skyroot_leaves",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_sapling",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 0.0,
+    "fortune": [
+     0.05,
+     0.0625,
+     0.083333336,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_stick",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 0.0,
+    "fortune": [
+     0.02,
+     0.022222223,
+     0.025,
+     0.033333335,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/skyroot_leaves",
+  "lang_en": "Skyroot Leaves",
+  "lang_ru": "Небесные листья"
+ },
+ "golden_oak_leaves": {
+  "carrier": "minecraft:orange_stained_glass",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=1,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "golden_oak_leaves",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "golden_oak_sapling",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 0.0,
+    "fortune": [
+     0.05,
+     0.0625,
+     0.083333336,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_stick",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 0.0,
+    "fortune": [
+     0.02,
+     0.022222223,
+     0.025,
+     0.033333335,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "golden_apple",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 0.0,
+    "fortune": [
+     5e-05,
+     5.5555556e-05,
+     6.25e-05,
+     8.333334e-05,
+     0.00025
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/golden_oak_leaves",
+  "lang_en": "Golden Oak Leaves",
+  "lang_ru": "Золотые Дубовые листья"
+ },
+ "crystal_leaves": {
+  "carrier": "minecraft:cyan_stained_glass",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=0,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "crystal_leaves",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_stick",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 0.0,
+    "fortune": [
+     0.02,
+     0.022222223,
+     0.025,
+     0.033333335,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/crystal_leaves",
+  "lang_en": "Crystal Leaves",
+  "lang_ru": "Кристальная листва"
+ },
+ "crystal_fruit_leaves": {
+  "carrier": "minecraft:blue_stained_glass",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=4,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "crystal_fruit_leaves",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "white_apple",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_stick",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 0.0,
+    "fortune": [
+     0.02,
+     0.022222223,
+     0.025,
+     0.033333335,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/crystal_fruit_leaves",
+  "lang_en": "Crystal Fruit Leaves",
+  "lang_ru": "Кристальная листва с плодами"
+ },
+ "holiday_leaves": {
+  "carrier": "minecraft:red_stained_glass",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=2,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "holiday_leaves",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_stick",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 0.0,
+    "fortune": [
+     0.02,
+     0.022222223,
+     0.025,
+     0.033333335,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/holiday_leaves",
+  "lang_en": "Holiday Leaves",
+  "lang_ru": "Праздничные листья"
+ },
+ "decorated_holiday_leaves": {
+  "carrier": "minecraft:pink_stained_glass",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=1,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "decorated_holiday_leaves",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_stick",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 0.0,
+    "fortune": [
+     0.02,
+     0.022222223,
+     0.025,
+     0.033333335,
+     0.1
+    ],
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/decorated_holiday_leaves",
+  "lang_en": "Decorated Holiday Leaves",
+  "lang_ru": "Украшенные Праздничные листья"
+ },
+ "skyroot_log": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=1,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_log",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/skyroot_log",
+  "lang_en": "Skyroot Log",
+  "lang_ru": "Небесное бревно"
+ },
+ "golden_oak_log": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=0,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "golden_oak_log",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_log",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "golden_amber",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": "minecraft:ore_drops"
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/golden_oak_log",
+  "lang_en": "Golden Oak Log",
+  "lang_ru": "Золотой Дуб"
+ },
+ "stripped_skyroot_log": {
+  "carrier": "minecraft:note_block[instrument=iron_xylophone,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=5,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "stripped_skyroot_log",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/stripped_skyroot_log",
+  "lang_en": "Stripped Skyroot Log",
+  "lang_ru": "Обтёсанное Небесное бревно"
+ },
+ "skyroot_wood": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=8,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_wood",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/skyroot_wood",
+  "lang_en": "Skyroot Wood",
+  "lang_ru": "Небесное Бревно"
+ },
+ "golden_oak_wood": {
+  "carrier": "minecraft:note_block[instrument=pling,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=pling,note=1,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "golden_oak_wood",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_wood",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "golden_amber",
+    "vanilla": false,
+    "min": 1,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": "minecraft:ore_drops"
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/golden_oak_wood",
+  "lang_en": "Golden Oak Wood",
+  "lang_ru": "Бревно золотого дуба"
+ },
+ "stripped_skyroot_wood": {
+  "carrier": "minecraft:note_block[instrument=cow_bell,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=5,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "stripped_skyroot_wood",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/stripped_skyroot_wood",
+  "lang_en": "Stripped Skyroot Wood",
+  "lang_ru": "Обтёсанная Небесная древесина"
+ },
+ "skyroot_planks": {
+  "carrier": "minecraft:note_block[instrument=harp,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=7,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_planks",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_planks",
+  "lang_en": "Skyroot Planks",
+  "lang_ru": "Небесные доски"
+ },
+ "holystone_bricks": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=4,powered=false]",
+  "hardness": 2.0,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_bricks",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_bricks",
+  "lang_en": "Holystone Bricks",
+  "lang_ru": "Священнокаменные кирпичи"
+ },
+ "quicksoil_glass": {
+  "carrier": "minecraft:note_block[instrument=bell,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=5,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "quicksoil_glass",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/quicksoil_glass",
+  "lang_en": "Quicksoil Glass",
+  "lang_ru": "Быстростекло"
+ },
+ "quicksoil_glass_pane": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=6,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "quicksoil_glass_pane",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/quicksoil_glass_pane",
+  "lang_en": "Quicksoil Glass Pane",
+  "lang_ru": "Быстростеклянная панель"
+ },
+ "aerogel": {
+  "carrier": "minecraft:note_block[instrument=harp,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=2,powered=false]",
+  "hardness": 1.0,
+  "resistance": 2000.0,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 3,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "aerogel",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/aerogel",
+  "lang_en": "Aerogel",
+  "lang_ru": "Аэрогель"
+ },
+ "ambrosium_block": {
+  "carrier": "minecraft:note_block[instrument=flute,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=2,powered=false]",
+  "hardness": 5.0,
+  "resistance": 6.0,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "ambrosium_block",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/ambrosium_block",
+  "lang_en": "Block of Ambrosium",
+  "lang_ru": "Амброзиевый блок"
+ },
+ "zanite_block": {
+  "carrier": "minecraft:note_block[instrument=didgeridoo,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=6,powered=false]",
+  "hardness": 5.0,
+  "resistance": 6.0,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "zanite_block",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/zanite_block",
+  "lang_en": "Block of Zanite",
+  "lang_ru": "Занитный блок"
+ },
+ "enchanted_gravitite": {
+  "carrier": "minecraft:note_block[instrument=cow_bell,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=1,powered=false]",
+  "hardness": 5.0,
+  "resistance": 6.0,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 2,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "enchanted_gravitite",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/enchanted_gravitite",
+  "lang_en": "Enchanted Gravitite",
+  "lang_ru": "Зачарованный гравитит"
+ },
+ "altar": {
+  "carrier": "minecraft:note_block[instrument=bass,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=1,powered=false]",
+  "hardness": 2.5,
+  "resistance": 2.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "altar",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/altar",
+  "lang_en": "Altar",
+  "lang_ru": "Алтарь"
+ },
+ "freezer": {
+  "carrier": "minecraft:note_block[instrument=didgeridoo,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=1,powered=false]",
+  "hardness": 2.0,
+  "resistance": 2.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "freezer",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/freezer",
+  "lang_en": "Freezer",
+  "lang_ru": "Морозильник"
+ },
+ "incubator": {
+  "carrier": "minecraft:note_block[instrument=harp,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=5,powered=false]",
+  "hardness": 2.0,
+  "resistance": 2.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "incubator",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/incubator",
+  "lang_en": "Incubator",
+  "lang_ru": "Инкубатор"
+ },
+ "ambrosium_wall_torch": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=2,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "ambrosium_torch",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/ambrosium_wall_torch",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "ambrosium_torch": {
+  "carrier": "minecraft:note_block[instrument=bell,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=1,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "ambrosium_torch",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/ambrosium_torch",
+  "lang_en": "Ambrosium Torch",
+  "lang_ru": "Амброзиевый факел"
+ },
+ "skyroot_sign": {
+  "carrier": "minecraft:note_block[instrument=hat,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=7,powered=false]",
+  "hardness": 1.0,
+  "resistance": 1.0,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_sign",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_sign",
+  "lang_en": "Skyroot Sign",
+  "lang_ru": "Небесная табличка"
+ },
+ "skyroot_wall_sign": {
+  "carrier": "minecraft:note_block[instrument=chime,note=9,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=9,powered=false]",
+  "hardness": 1.0,
+  "resistance": 1.0,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_wall_sign",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": null,
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "skyroot_hanging_sign": {
+  "carrier": "minecraft:note_block[instrument=pling,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=pling,note=4,powered=false]",
+  "hardness": 1.0,
+  "resistance": 1.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_hanging_sign",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_hanging_sign",
+  "lang_en": "Skyroot Hanging Sign",
+  "lang_ru": "Небесная подвесная табличка"
+ },
+ "skyroot_wall_hanging_sign": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=7,powered=false]",
+  "hardness": 1.0,
+  "resistance": 1.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_hanging_sign",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": null,
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "berry_bush": {
+  "carrier": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=false,south=false,west=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=0,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "hoe",
+  "drops": [
+   {
+    "item": "blue_berry",
+    "vanilla": false,
+    "min": 1,
+    "max": 3,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": "minecraft:uniform_bonus_count"
+   },
+   {
+    "item": "berry_bush",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "shears_or_silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "berry_bush_stem",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "explosion",
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/berry_bush",
+  "lang_en": "Berry Bush",
+  "lang_ru": "Ягодный куст"
+ },
+ "berry_bush_stem": {
+  "carrier": "minecraft:tripwire[attached=true,disarmed=true,east=false,north=false,powered=true,south=false,west=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bit,note=0,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "berry_bush_stem",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": true,
+  "model": "aether:item/berry_bush_stem",
+  "lang_en": "Bush Stem",
+  "lang_ru": "Голый Куст"
+ },
+ "potted_berry_bush": {
+  "carrier": "minecraft:note_block[instrument=banjo,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=banjo,note=3,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "flower_pot",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "berry_bush",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/potted_berry_bush",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "potted_berry_bush_stem": {
+  "carrier": "minecraft:note_block[instrument=pling,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=pling,note=3,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "flower_pot",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "berry_bush_stem",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/potted_berry_bush_stem",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "purple_flower": {
+  "carrier": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=true,south=false,west=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=6,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "purple_flower",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/purple_flower",
+  "lang_en": "Purple Flower",
+  "lang_ru": "Фиолетовый Цветок"
+ },
+ "white_flower": {
+  "carrier": "minecraft:tripwire[attached=false,disarmed=true,east=false,north=false,powered=false,south=false,west=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=6,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "white_flower",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/white_flower",
+  "lang_en": "White Flower",
+  "lang_ru": "Белый Цветок"
+ },
+ "potted_purple_flower": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=7,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "flower_pot",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "purple_flower",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/potted_purple_flower",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "potted_white_flower": {
+  "carrier": "minecraft:note_block[instrument=hat,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=6,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "flower_pot",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "white_flower",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/potted_white_flower",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "skyroot_sapling": {
+  "carrier": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=false,south=true,west=true]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=6,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "skyroot_sapling",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_sapling",
+  "lang_en": "Skyroot Sapling",
+  "lang_ru": "Саженец Небесного Дуба"
+ },
+ "golden_oak_sapling": {
+  "carrier": "minecraft:tripwire[attached=false,disarmed=true,east=true,north=true,powered=true,south=true,west=true]",
+  "legacy_carrier": "minecraft:note_block[instrument=banjo,note=1,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "grass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "golden_oak_sapling",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/golden_oak_sapling",
+  "lang_en": "Golden Oak Sapling",
+  "lang_ru": "Саженец Золотого Дуба"
+ },
+ "potted_skyroot_sapling": {
+  "carrier": "minecraft:note_block[instrument=snare,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=5,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "flower_pot",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "skyroot_sapling",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/potted_skyroot_sapling",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "potted_golden_oak_sapling": {
+  "carrier": "minecraft:note_block[instrument=harp,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=6,powered=false]",
+  "hardness": 0,
+  "resistance": 0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "flower_pot",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "golden_oak_sapling",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:block/potted_golden_oak_sapling",
+  "lang_en": "",
+  "lang_ru": ""
+ },
+ "carved_stone": {
+  "carrier": "minecraft:note_block[instrument=bell,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "carved_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/carved_stone",
+  "lang_en": "Carved Stone",
+  "lang_ru": "Резной Камень"
+ },
+ "sentry_stone": {
+  "carrier": "minecraft:note_block[instrument=chime,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=8,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "sentry_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/sentry_stone",
+  "lang_en": "Sentry Stone",
+  "lang_ru": "Камень Стража"
+ },
+ "angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=iron_xylophone,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=0,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/angelic_stone",
+  "lang_en": "Angelic Stone",
+  "lang_ru": "Ангельский Камень"
+ },
+ "light_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=6,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "light_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/light_angelic_stone",
+  "lang_en": "Light Angelic Stone",
+  "lang_ru": "Свето-ангельский Камень"
+ },
+ "hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=snare,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/hellfire_stone",
+  "lang_en": "Hellfire Stone",
+  "lang_ru": "Адский Камень"
+ },
+ "light_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=snare,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=4,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "light_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/light_hellfire_stone",
+  "lang_en": "Light Hellfire Stone",
+  "lang_ru": "Свето-адский Камень"
+ },
+ "locked_carved_stone": {
+  "carrier": "minecraft:note_block[instrument=bass,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=4,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "locked_carved_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/locked_carved_stone",
+  "lang_en": "Locked Carved Stone",
+  "lang_ru": "Запертый Резной камень"
+ },
+ "locked_sentry_stone": {
+  "carrier": "minecraft:note_block[instrument=chime,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=7,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "locked_sentry_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/locked_sentry_stone",
+  "lang_en": "Locked Sentry Stone",
+  "lang_ru": "Запертый Камень Стража"
+ },
+ "locked_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=hat,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=5,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "locked_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/locked_angelic_stone",
+  "lang_en": "Locked Angelic Stone",
+  "lang_ru": "Запертый Ангельский камень"
+ },
+ "locked_light_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=bell,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=4,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "locked_light_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/locked_light_angelic_stone",
+  "lang_en": "Locked Light Angelic Stone",
+  "lang_ru": "Запертый Свето-ангельский камень"
+ },
+ "locked_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=flute,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=5,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "locked_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/locked_hellfire_stone",
+  "lang_en": "Locked Hellfire Stone",
+  "lang_ru": "Запертый Адский камень"
+ },
+ "locked_light_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=5,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "locked_light_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/locked_light_hellfire_stone",
+  "lang_en": "Locked Light Hellfire Stone",
+  "lang_ru": "Запертый Свето-адский камень"
+ },
+ "trapped_carved_stone": {
+  "carrier": "minecraft:note_block[instrument=banjo,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=banjo,note=5,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "trapped_carved_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/trapped_carved_stone",
+  "lang_en": "Trapped Carved Stone",
+  "lang_ru": "Резной камень-ловушка"
+ },
+ "trapped_sentry_stone": {
+  "carrier": "minecraft:note_block[instrument=snare,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=7,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "trapped_sentry_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/trapped_sentry_stone",
+  "lang_en": "Trapped Sentry Stone",
+  "lang_ru": "Камень Стража-ловушка"
+ },
+ "trapped_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=bit,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bit,note=5,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "trapped_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/trapped_angelic_stone",
+  "lang_en": "Trapped Angelic Stone",
+  "lang_ru": "Ангельский камень-ловушка"
+ },
+ "trapped_light_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=harp,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=8,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "trapped_light_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/trapped_light_angelic_stone",
+  "lang_en": "Trapped Light Angelic Stone",
+  "lang_ru": "Свето-ангельский камень-ловушка"
+ },
+ "trapped_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=pling,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=pling,note=5,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "trapped_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/trapped_hellfire_stone",
+  "lang_en": "Trapped Hellfire Stone",
+  "lang_ru": "Адский камень-ловушка"
+ },
+ "trapped_light_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=9,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=9,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "trapped_light_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/trapped_light_hellfire_stone",
+  "lang_en": "Trapped Light Hellfire Stone",
+  "lang_ru": "Светло-адский камень-ловушка"
+ },
+ "boss_doorway_carved_stone": {
+  "carrier": "minecraft:note_block[instrument=pling,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=pling,note=0,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "boss_doorway_carved_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/boss_doorway_carved_stone",
+  "lang_en": "Boss Doorway Carved Stone",
+  "lang_ru": "Дверь к Боссу из Резного камня"
+ },
+ "boss_doorway_sentry_stone": {
+  "carrier": "minecraft:note_block[instrument=hat,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=3,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "boss_doorway_sentry_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/boss_doorway_sentry_stone",
+  "lang_en": "Boss Doorway Sentry Stone",
+  "lang_ru": "Дверь к Боссу из Свето-Камня Стража"
+ },
+ "boss_doorway_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=banjo,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=banjo,note=0,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "boss_doorway_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/boss_doorway_angelic_stone",
+  "lang_en": "Boss Doorway Angelic Stone",
+  "lang_ru": "Дверь к Боссу из Ангельского камня"
+ },
+ "boss_doorway_light_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=4,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "boss_doorway_light_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/boss_doorway_light_angelic_stone",
+  "lang_en": "Boss Doorway Light Angelic Stone",
+  "lang_ru": "Дверь к Боссу из Свето-ангельского камня"
+ },
+ "boss_doorway_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=harp,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=3,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "boss_doorway_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/boss_doorway_hellfire_stone",
+  "lang_en": "Boss Doorway Hellfire Stone",
+  "lang_ru": "Дверь к Боссу из Адского камня"
+ },
+ "boss_doorway_light_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=snare,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=2,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "boss_doorway_light_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/boss_doorway_light_hellfire_stone",
+  "lang_en": "Boss Doorway Light Hellfire Stone",
+  "lang_ru": "Дверь к Боссу из Свето-адского камня"
+ },
+ "treasure_doorway_carved_stone": {
+  "carrier": "minecraft:note_block[instrument=flute,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=8,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "treasure_doorway_carved_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_doorway_carved_stone",
+  "lang_en": "Treasure Doorway Carved Stone",
+  "lang_ru": "Сокровищная дверь Резного камня"
+ },
+ "treasure_doorway_sentry_stone": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=9,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=9,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "treasure_doorway_sentry_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_doorway_sentry_stone",
+  "lang_en": "Treasure Doorway Sentry Stone",
+  "lang_ru": "Сокровищная дверь Камня Стража"
+ },
+ "treasure_doorway_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=bass,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=7,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "treasure_doorway_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_doorway_angelic_stone",
+  "lang_en": "Treasure Doorway Angelic Stone",
+  "lang_ru": "Сокровищная дверь Ангельского камня"
+ },
+ "treasure_doorway_light_angelic_stone": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=8,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "treasure_doorway_light_angelic_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_doorway_light_angelic_stone",
+  "lang_en": "Treasure Doorway Light Angelic Stone",
+  "lang_ru": "Сокровищная дверь Свето-ангельского камня"
+ },
+ "treasure_doorway_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=bell,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=7,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "treasure_doorway_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_doorway_hellfire_stone",
+  "lang_en": "Treasure Doorway Hellfire Stone",
+  "lang_ru": "Сокровищная дверь Адского камня"
+ },
+ "treasure_doorway_light_hellfire_stone": {
+  "carrier": "minecraft:note_block[instrument=chime,note=10,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=10,powered=false]",
+  "hardness": 0.0,
+  "resistance": 0.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "treasure_doorway_light_hellfire_stone",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_doorway_light_hellfire_stone",
+  "lang_en": "Treasure Doorway Light Hellfire Stone",
+  "lang_ru": "Сокровищная дверь Свето-адского камня"
+ },
+ "chest_mimic": {
+  "carrier": "minecraft:note_block[instrument=chime,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=5,powered=false]",
+  "hardness": 2.5,
+  "resistance": 2.5,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "chest_mimic",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/chest_mimic",
+  "lang_en": "Chest Mimic",
+  "lang_ru": "Сундук-мимик"
+ },
+ "treasure_chest": {
+  "carrier": "minecraft:note_block[instrument=hat,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=8,powered=false]",
+  "hardness": -1.0,
+  "resistance": 3600000.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "treasure_chest",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/treasure_chest",
+  "lang_en": "Treasure Chest",
+  "lang_ru": "Сундук с Сокровищами"
+ },
+ "pillar": {
+  "carrier": "minecraft:note_block[instrument=didgeridoo,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "pillar",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/pillar",
+  "lang_en": "Pillar",
+  "lang_ru": "Колонна"
+ },
+ "pillar_top": {
+  "carrier": "minecraft:note_block[instrument=bit,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bit,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "pillar_top",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/pillar_top",
+  "lang_en": "Pillar Top",
+  "lang_ru": "Вершина колонны"
+ },
+ "present": {
+  "carrier": "minecraft:note_block[instrument=bass,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=5,powered=false]",
+  "hardness": 0.1,
+  "resistance": 0.1,
+  "sound": "wool",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "air",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "air",
+    "vanilla": true,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "gingerbread_man",
+    "vanilla": false,
+    "min": 5,
+    "max": 6,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "candy_cane_sword",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   },
+   {
+    "item": "present",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/present",
+  "lang_en": "Present",
+  "lang_ru": "Подарок"
+ },
+ "skyroot_fence": {
+  "carrier": "minecraft:note_block[instrument=bit,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bit,note=4,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_fence",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_fence",
+  "lang_en": "Skyroot Fence",
+  "lang_ru": "Небесный забор"
+ },
+ "skyroot_fence_gate": {
+  "carrier": "minecraft:note_block[instrument=banjo,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=banjo,note=4,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_fence_gate",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_fence_gate",
+  "lang_en": "Skyroot Fence Gate",
+  "lang_ru": "Небесная Калитка"
+ },
+ "skyroot_door": {
+  "carrier": "minecraft:note_block[instrument=didgeridoo,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=4,powered=false]",
+  "hardness": 3,
+  "resistance": 3,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_door",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_door",
+  "lang_en": "Skyroot Door",
+  "lang_ru": "Небесная дверь"
+ },
+ "skyroot_trapdoor": {
+  "carrier": "minecraft:note_block[instrument=bell,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=6,powered=false]",
+  "hardness": 3,
+  "resistance": 3,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_trapdoor",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_trapdoor",
+  "lang_en": "Skyroot Trapdoor",
+  "lang_ru": "Небесный Люк"
+ },
+ "skyroot_button": {
+  "carrier": "minecraft:note_block[instrument=cow_bell,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=4,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_button",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_button",
+  "lang_en": "Skyroot Button",
+  "lang_ru": "Небесная кнопка"
+ },
+ "skyroot_pressure_plate": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=8,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=8,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_pressure_plate",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_pressure_plate",
+  "lang_en": "Skyroot Pressure Plate",
+  "lang_ru": "Небесная нажимная плита"
+ },
+ "holystone_button": {
+  "carrier": "minecraft:note_block[instrument=chime,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=6,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_button",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_button",
+  "lang_en": "Holystone Button",
+  "lang_ru": "Священнокаменная кнопка"
+ },
+ "holystone_pressure_plate": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=5,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_pressure_plate",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_pressure_plate",
+  "lang_en": "Holystone Pressure Plate",
+  "lang_ru": "Священнокаменная нажимная плита"
+ },
+ "carved_wall": {
+  "carrier": "minecraft:note_block[instrument=guitar,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=guitar,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "carved_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/carved_wall",
+  "lang_en": "Carved Wall",
+  "lang_ru": "Резная ограда"
+ },
+ "angelic_wall": {
+  "carrier": "minecraft:note_block[instrument=cow_bell,note=0,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=0,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "angelic_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/angelic_wall",
+  "lang_en": "Angelic Wall",
+  "lang_ru": "Ангельская ограда"
+ },
+ "hellfire_wall": {
+  "carrier": "minecraft:note_block[instrument=hat,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=4,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "hellfire_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/hellfire_wall",
+  "lang_en": "Hellfire Wall",
+  "lang_ru": "Адская ограда"
+ },
+ "holystone_wall": {
+  "carrier": "minecraft:note_block[instrument=didgeridoo,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_wall",
+  "lang_en": "Holystone Wall",
+  "lang_ru": "Священнокаменная ограда"
+ },
+ "mossy_holystone_wall": {
+  "carrier": "minecraft:note_block[instrument=cow_bell,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "mossy_holystone_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/mossy_holystone_wall",
+  "lang_en": "Mossy Holystone Wall",
+  "lang_ru": "Замшелая священнокаменная ограда"
+ },
+ "icestone_wall": {
+  "carrier": "minecraft:note_block[instrument=pling,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=pling,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "icestone_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/icestone_wall",
+  "lang_en": "Icestone Wall",
+  "lang_ru": "Ледокаменный забор"
+ },
+ "holystone_brick_wall": {
+  "carrier": "minecraft:note_block[instrument=bell,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bell,note=3,powered=false]",
+  "hardness": 2.0,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_brick_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_brick_wall",
+  "lang_en": "Holystone Brick Wall",
+  "lang_ru": "Ограда из священнокаменного кирпича"
+ },
+ "aerogel_wall": {
+  "carrier": "minecraft:note_block[instrument=hat,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=hat,note=2,powered=false]",
+  "hardness": 1.0,
+  "resistance": 2000.0,
+  "sound": "metal",
+  "requires_tool": true,
+  "required_tier": 3,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "aerogel_wall",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/aerogel_wall",
+  "lang_en": "Aerogel Wall",
+  "lang_ru": "Ограда из аэрогеля"
+ },
+ "skyroot_stairs": {
+  "carrier": "minecraft:note_block[instrument=flute,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=7,powered=false]",
+  "hardness": 2,
+  "resistance": 3,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_stairs",
+  "lang_en": "Skyroot Stairs",
+  "lang_ru": "Небесные Ступеньки"
+ },
+ "carved_stairs": {
+  "carrier": "minecraft:note_block[instrument=flute,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "carved_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/carved_stairs",
+  "lang_en": "Carved Stairs",
+  "lang_ru": "Резные Ступеньки"
+ },
+ "angelic_stairs": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "angelic_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/angelic_stairs",
+  "lang_en": "Angelic Stairs",
+  "lang_ru": "Ангельские Ступеньки"
+ },
+ "hellfire_stairs": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=5,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "hellfire_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/hellfire_stairs",
+  "lang_en": "Hellfire Stairs",
+  "lang_ru": "Адскиe Ступеньки"
+ },
+ "holystone_stairs": {
+  "carrier": "minecraft:note_block[instrument=cow_bell,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=cow_bell,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_stairs",
+  "lang_en": "Holystone Stairs",
+  "lang_ru": "Священнокаменные ступеньки"
+ },
+ "mossy_holystone_stairs": {
+  "carrier": "minecraft:note_block[instrument=iron_xylophone,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=3,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "mossy_holystone_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/mossy_holystone_stairs",
+  "lang_en": "Mossy Holystone Stairs",
+  "lang_ru": "Замшелые священнокаменные ступеньки"
+ },
+ "icestone_stairs": {
+  "carrier": "minecraft:note_block[instrument=banjo,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=banjo,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "icestone_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/icestone_stairs",
+  "lang_en": "Icestone Stairs",
+  "lang_ru": "Ледокаменные ступеньки"
+ },
+ "holystone_brick_stairs": {
+  "carrier": "minecraft:note_block[instrument=flute,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=flute,note=4,powered=false]",
+  "hardness": 2.0,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_brick_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_brick_stairs",
+  "lang_en": "Holystone Brick Stairs",
+  "lang_ru": "Ступеньки из священнокаменного кирпича"
+ },
+ "aerogel_stairs": {
+  "carrier": "minecraft:note_block[instrument=snare,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=snare,note=1,powered=false]",
+  "hardness": 1.0,
+  "resistance": 2000.0,
+  "sound": "metal",
+  "requires_tool": false,
+  "required_tier": 3,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "aerogel_stairs",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/aerogel_stairs",
+  "lang_en": "Aerogel Stairs",
+  "lang_ru": "Ступеньки из аэрогеля"
+ },
+ "skyroot_slab": {
+  "carrier": "minecraft:note_block[instrument=bass,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=6,powered=false]",
+  "hardness": 2.0,
+  "resistance": 3.0,
+  "sound": "wood",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_slab",
+  "lang_en": "Skyroot Slab",
+  "lang_ru": "Небесная плита"
+ },
+ "carved_slab": {
+  "carrier": "minecraft:note_block[instrument=bass,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "carved_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/carved_slab",
+  "lang_en": "Carved Slab",
+  "lang_ru": "Резная Плита"
+ },
+ "angelic_slab": {
+  "carrier": "minecraft:note_block[instrument=chime,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=chime,note=4,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "angelic_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/angelic_slab",
+  "lang_en": "Angelic Slab",
+  "lang_ru": "Ангельская Плита"
+ },
+ "hellfire_slab": {
+  "carrier": "minecraft:note_block[instrument=harp,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=harp,note=4,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "hellfire_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/hellfire_slab",
+  "lang_en": "Hellfire Slab",
+  "lang_ru": "Адская Плита"
+ },
+ "holystone_slab": {
+  "carrier": "minecraft:note_block[instrument=iron_xylophone,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_slab",
+  "lang_en": "Holystone Slab",
+  "lang_ru": "Священнокаменная плита"
+ },
+ "mossy_holystone_slab": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=6,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "mossy_holystone_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/mossy_holystone_slab",
+  "lang_en": "Mossy Holystone Slab",
+  "lang_ru": "Замшелая священнокаменная плита"
+ },
+ "icestone_slab": {
+  "carrier": "minecraft:note_block[instrument=bit,note=2,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bit,note=2,powered=false]",
+  "hardness": 0.5,
+  "resistance": 6.0,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 1,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "icestone_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/icestone_slab",
+  "lang_en": "Icestone Slab",
+  "lang_ru": "Ледокаменная плита"
+ },
+ "holystone_brick_slab": {
+  "carrier": "minecraft:note_block[instrument=bass,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bass,note=3,powered=false]",
+  "hardness": 2.0,
+  "resistance": 6.0,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "holystone_brick_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/holystone_brick_slab",
+  "lang_en": "Holystone Brick Slab",
+  "lang_ru": "Плита из священнокаменного кирпича"
+ },
+ "aerogel_slab": {
+  "carrier": "minecraft:note_block[instrument=basedrum,note=3,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=basedrum,note=3,powered=false]",
+  "hardness": 1.0,
+  "resistance": 2000.0,
+  "sound": "metal",
+  "requires_tool": false,
+  "required_tier": 3,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "aerogel_slab",
+    "vanilla": false,
+    "min": 2,
+    "max": 2,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/aerogel_slab",
+  "lang_en": "Aerogel Slab",
+  "lang_ru": "Плита из аэрогеля"
+ },
+ "sun_altar": {
+  "carrier": "minecraft:note_block[instrument=didgeridoo,note=5,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=didgeridoo,note=5,powered=false]",
+  "hardness": 2.0,
+  "resistance": 2.0,
+  "sound": "metal",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "pickaxe",
+  "drops": [
+   {
+    "item": "sun_altar",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/sun_altar",
+  "lang_en": "Sun Altar",
+  "lang_ru": "Алтарь Солнца"
+ },
+ "skyroot_bookshelf": {
+  "carrier": "minecraft:note_block[instrument=iron_xylophone,note=4,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=4,powered=false]",
+  "hardness": 1.5,
+  "resistance": 1.5,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_bookshelf",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": "silk",
+    "exclude": false,
+    "bonus": null
+   },
+   {
+    "item": "book",
+    "vanilla": true,
+    "min": 3,
+    "max": 3,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": true,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_bookshelf",
+  "lang_en": "Skyroot Bookshelf",
+  "lang_ru": "Небесная книжная полка"
+ },
+ "skyroot_bed": {
+  "carrier": "minecraft:note_block[instrument=xylophone,note=7,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=xylophone,note=7,powered=false]",
+  "hardness": 0.2,
+  "resistance": 0.2,
+  "sound": "stone",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": "axe",
+  "drops": [
+   {
+    "item": "skyroot_bed",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": "aether:item/skyroot_bed",
+  "lang_en": "Skyroot Bed",
+  "lang_ru": ""
+ },
+ "frosted_ice": {
+  "carrier": "minecraft:note_block[instrument=bit,note=1,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=bit,note=1,powered=false]",
+  "hardness": 0.5,
+  "resistance": 0.5,
+  "sound": "glass",
+  "requires_tool": false,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "frosted_ice",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": null,
+  "lang_en": "Frosted Ice",
+  "lang_ru": "Талый лёд"
+ },
+ "unstable_obsidian": {
+  "carrier": "minecraft:note_block[instrument=iron_xylophone,note=6,powered=false]",
+  "legacy_carrier": "minecraft:note_block[instrument=iron_xylophone,note=6,powered=false]",
+  "hardness": 50.0,
+  "resistance": 1200.0,
+  "sound": "stone",
+  "requires_tool": true,
+  "required_tier": 0,
+  "tool": null,
+  "drops": [
+   {
+    "item": "unstable_obsidian",
+    "vanilla": false,
+    "min": 1,
+    "max": 1,
+    "chance": 1.0,
+    "fortune": null,
+    "require": null,
+    "exclude": false,
+    "bonus": null
+   }
+  ],
+  "double_drops": false,
+  "model": null,
+  "lang_en": "Unstable Obsidian",
+  "lang_ru": "Нестабильный обсидиан"
+ }
+}

@@ -1,0 +1,970 @@
+{
+ "lore.block.aether.aerogel": {
+  "en": "The result of the Aether's unique climate and lava combining. These blocks can be crafted into various decorative blocks and are blast-resistant.",
+  "ru": "Результат сочетания уникального климата Эфира и лавы. Из него можно сделать различные декоративные блоки, и он взрывоустойчив."
+ },
+ "lore.block.aether.aerogel_slab": {
+  "en": "Crafted from Aerogel. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Изготовлен из аэрогеля. Плиты представляют собой полублоки, универсальные для отделки и ровных откосов. Попробуйте добавить немного на крышу здания!"
+ },
+ "lore.block.aether.aerogel_stairs": {
+  "en": "Crafted from Aerogel. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Изготовлен из аэрогеля. Ступеньки полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.aerogel_wall": {
+  "en": "Crafted from Aerogel. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Изготовлен из аэрогеля. Может использоваться для декоративных ограждений и оборонительного сооружения. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.aether_dirt": {
+  "en": "A pale dirt. It can be found in the Aether and can also be used to grow native trees. It can grow into grass with enough light.",
+  "ru": "Бледная земля. Её можно найти в Эфире, а также использовать для выращивания местных деревьев. При достаточном освещении она может вырасти в траву."
+ },
+ "lore.block.aether.aether_dirt_path": {
+  "en": "A type of path made from flattening Aether Dirt with a shovel. These can be good for long roads or just exterior gardens.",
+  "ru": "Тип тропинки, полученной путём выравнивания эфирной грязи лопатой. Может подойти для длинных дорог или просто для садов."
+ },
+ "lore.block.aether.aether_farmland": {
+  "en": "Farmland tilled from Aether Dirt; one of the few uses for hoes in the Aether.",
+  "ru": "Пашня, возделанная из эфирной земли; одно из немногих применений мотыг в Эфире."
+ },
+ "lore.block.aether.aether_grass_block": {
+  "en": "Grass found in the Aether dimension. It can be used to grow trees native to the Aether. It is much more pale than normal grass.",
+  "ru": "Трава, найденная в измерении Эфира. Его можно использовать для выращивания деревьев, произрастающих в Эфире. Она намного бледнее обычной травы."
+ },
+ "lore.block.aether.altar": {
+  "en": "Used to enchant items and repair armor. They are powered by Ambrosium Shards.",
+  "ru": "Используется для зачарования предметов и ремонта брони. Питается от Осколков Амброзиума."
+ },
+ "lore.block.aether.ambrosium_block": {
+  "en": "A block of pure Ambrosium. These are useful for storing large quantities of fuel.",
+  "ru": "Блок чистого амброзия. Полезен для хранения большого количества топлива."
+ },
+ "lore.block.aether.ambrosium_ore": {
+  "en": "The most common ore in the Aether. The ore's drops can be doubled with Skyroot tools.",
+  "ru": "Самая распространённая руда в Эфире. Количество добываемой руды можно удвоить за счёт использования инструментов из небокорня."
+ },
+ "lore.block.aether.ambrosium_torch": {
+  "en": "The main light source in the Aether, made from a Skyroot Stick and Ambrosium Shard.",
+  "ru": "Основной источник света в Эфире, сделанный из палки небесного дерева и Осколка Амброзиума."
+ },
+ "lore.block.aether.angelic_slab": {
+  "en": "Crafted from Angelic Stone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Изготовлены из Ангельского камня. Плиты представляют собой универсальные полублоки для отделки и ровных откосов. Попробуйте добавить немного на крышу здания!"
+ },
+ "lore.block.aether.angelic_stairs": {
+  "en": "Crafted from Angelic Stone. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Создаётся из Ангельского камня. Лестницы полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.angelic_stone": {
+  "en": "Angelic Stone is the main block that makes up Silver Dungeons. There is a chance some of them can be traps when generated in dungeons, but you cannot collect them as traps. It is unbreakable until you have defeated the boss, but it's worth it for that block.",
+  "ru": "Ангельский камень - основной блок Серебрянного подземелья. Есть шанс, что некоторые из них могут быть ловушками при генерации в подземельях, но вы не можете собирать их как ловушки. Его нельзя сломать, пока вы не победите босса, но этот блок того стоит."
+ },
+ "lore.block.aether.angelic_wall": {
+  "en": "Crafted from Angelic Stone. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Изготовлен из Ангельского Камня. Может использоваться для декоративных ограждений и оборонительного сооружения. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.berry_bush": {
+  "en": "These bushes can be found all over the Aether. They provide Blue Berries when broken and then turn into bare stems. If placed on Enchanted Aether Grass, the drops are doubled.",
+  "ru": "Эти кусты можно найти по всему Эфиру. Когда их ломают, они дают Синие ягоды, а затем превращаются в голые стебли. Если его поместить на Зачарованную эфирную траву, количество дропа удваивается."
+ },
+ "lore.block.aether.berry_bush_stem": {
+  "en": "This is the result of harvesting the Blue Berries from a Berry Bush. It can take some time for them to grow back.",
+  "ru": "Результат сбора Синих Ягод с Ягодного куста. Потребуется время, чтобы они выросли обратно."
+ },
+ "lore.block.aether.blue_aercloud": {
+  "en": "A pale blue cloud found close to the ground. It has very bouncy properties and can help you reach high places.",
+  "ru": "Бледно-голубое облако обнаруженное недалеко от земли. Он обладает очень упругими свойствами и может помочь вам добраться до высоких мест."
+ },
+ "lore.block.aether.carved_slab": {
+  "en": "Crafted from Carved Stone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Изготовлены из Резного камня. Плиты представляют собой универсальные полублоки для отделки и ровных откосов. Попробуйте добавить немного на крышу здания!"
+ },
+ "lore.block.aether.carved_stairs": {
+  "en": "Crafted from Carved Stone. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Изготовлен из Резного камня. Ступеньки полезны для придания зданиям вертикальности, а также часто используются для украшения!"
+ },
+ "lore.block.aether.carved_stone": {
+  "en": "The stone found in Bronze Dungeons. This stone has a gray color to it and can be mined as a decorative block.",
+  "ru": "Камень, найденный в Бронзовых Подземельях. Этот камень имеет серый цвет и может быть добыт как декоративный блок."
+ },
+ "lore.block.aether.carved_wall": {
+  "en": "Crafted from Carved Stone. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Изготовлен из Резного камня. Может использоваться для декоративных ограждений и оборонительные сооружения. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.chest_mimic": {
+  "en": "It may look like a normal chest, but it really isn't. As soon as you right-click on it, a Chest Mimic will pop out! These appear in Bronze and Silver Dungeons.",
+  "ru": "Он может выглядеть как обычный сундук, но на самом деле это не так. Как только вы щелкнете по нему правой кнопкой мыши, появится Мимик из Сундука! Они появляются в Бронзовых и Серебряных подземельях."
+ },
+ "lore.block.aether.cold_aercloud": {
+  "en": "A cold cloud found in the skies of the Aether. It can be used to make Cold Parachutes, and break drops that would otherwise be very dangerous.",
+  "ru": "Холодное облако, обнаруженное в небесах Эфира. Его можно использовать для изготовления Холодных парашютов и смягчения падений, которые в противном случае были бы очень опасны."
+ },
+ "lore.block.aether.crystal_fruit_leaves": {
+  "en": "Crystal Leaves that are home to White Apples.",
+  "ru": "Кристальные листья, в которых растут Белые яблоки."
+ },
+ "lore.block.aether.crystal_leaves": {
+  "en": "Leaves that come from Crystal Trees, which generate on floating islands. Sometimes they bear fruit that can cure Inebriation.",
+  "ru": "Листья хрустальных деревьев, растущие на маленьких парящих островах. Иногда на них появляются плоды, способные вылечить порчу."
+ },
+ "lore.block.aether.decorated_holiday_leaves": {
+  "en": "Holiday Leaves that have been decorated with lovely little baubles for extra holiday cheer!",
+  "ru": "Праздничные листья, украшенные милыми безделушками для праздничного настроения!"
+ },
+ "lore.block.aether.enchanted_aether_grass_block": {
+  "en": "An Aether Grass Block that has been enchanted to allow for increasing harvest rates of Blue Berries.",
+  "ru": "Эфирный дёрн, зачарованный, позволяющий увеличить урожай Синих ягод."
+ },
+ "lore.block.aether.enchanted_gravitite": {
+  "en": "After putting Gravitite Ore into an Altar and enchanting it, you get Enchanted Gravitite. This can be made into Gravitite tools and armor. When powered with a redstone signal, Enchanted Gravitite blocks will float into the air, similarly to Gravitite Ore.",
+  "ru": "После помещения гравититовой руды в зачарователь и её зачарования вы получите зачарованный гравитит. Из него можно сделать инструменты и броню. При подаче сигнала редстоуна зачарованные гравититовые блоки поднимаются в воздух, как и гравититовая руда."
+ },
+ "lore.block.aether.freezer": {
+  "en": "You can freeze various items using this, such as aerclouds or Water Buckets. Its source of power is Icestone.",
+  "ru": "С его помощью вы можете заморозить различные предметы, например, Облака или Ведра с водой. Его источником силы является Ледокамень."
+ },
+ "lore.block.aether.golden_aercloud": {
+  "en": "A golden cloud found in small quantities, higher in the air than normal. The properties are similar to Cold Aerclouds, but the Golden Parachutes they produce have much more durability.",
+  "ru": "Золотое облако, найденное в небольших количествах, находится в воздухе выше обычного. Свойства аналогичны Холодным облакам, но производимые ими Золотые Парашюты обладают гораздо большей прочностью."
+ },
+ "lore.block.aether.golden_oak_leaves": {
+  "en": "These golden leaves generate with Golden Oak Trees. They spawn golden particles in a radius of 5 blocks. They yield Golden Oak Saplings and Skyroot Sticks when they decay.",
+  "ru": "Этими золотые листьями обросли златые дубы. Порождают золотые частицы в радиусе пяти блоков. При разламывании дают саженцы златого дуба и небокорневые палочки."
+ },
+ "lore.block.aether.golden_oak_log": {
+  "en": "A Skyroot Log which contains Golden Amber inside. When broken with an axe, they drop Skyroot Logs, and if the axe is Zanite or Gravitite, they will drop Golden Amber.",
+  "ru": "Древесина золотого дуба содержит золотой янтарь. При рубке выпадает небесная древесина, а подходящим топором можно добыть и янтарь. Шёлковое касание сохраняет сам блок золотого дуба."
+ },
+ "lore.block.aether.golden_oak_sapling": {
+  "en": "These large saplings, when planted, will grow into huge Golden Oak Trees! You can use Bone Meal to speed up the process.",
+  "ru": "Когда эти большие саженцы посажены, они вырастут в огромные Золотые Дубовые деревья! Вы можете использовать костную муку, чтобы ускорить процесс."
+ },
+ "lore.block.aether.golden_oak_wood": {
+  "en": "A Skyroot Log which contains Golden Amber Inside. When broken with an axe, they drop Skyroot Logs, and if the axe is Zanite or Gravitite, they will drop Golden Amber. Crafted to have bark on all sides.",
+  "ru": "Древесина золотого дуба с корой со всех сторон. Содержит золотой янтарь. При рубке выпадают небесная древесина и янтарь; Шёлковое касание позволяет сохранить сам блок."
+ },
+ "lore.block.aether.gravitite_ore": {
+  "en": "This is the Aether's rarest ore. It has floating properties and will float upward when there is nothing above it. These can be enchanted into Enchanted Gravitite blocks.",
+  "ru": "Это редчайшая руда Эфира. Он обладает плавающими свойствами и будет плавать вверх, когда над ним ничего нет. Их можно зачаровать в Блоки Зачарованного Гравитита."
+ },
+ "lore.block.aether.hellfire_slab": {
+  "en": "Crafted from Hellfire Stone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Изготовлены из Адского камня. Плиты представляют собой универсальные полублоки для отделки и ровных откосов. Попробуйте добавить немного на крышу здания!"
+ },
+ "lore.block.aether.hellfire_stairs": {
+  "en": "Crafted from Hellfire Stone. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Изготовлены из Адского камня. Лестницы полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.hellfire_stone": {
+  "en": "A warm, red stone that makes up most of the Gold Dungeon's interior. It cannot be destroyed until the Sun Spirit is defeated.",
+  "ru": "Тёплый красный камень, из которого сложена большая часть золотого подземелья. В оригинальном моде его нельзя разрушить, пока не побеждён Дух Солнца."
+ },
+ "lore.block.aether.hellfire_wall": {
+  "en": "Crafted from Hellfire Stone. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Изготовлен из Адского камня. Может использоваться для декоративных ограждений и оборонительного сооружения. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.holiday_leaves": {
+  "en": "Leaves on Holiday Trees! It snows near them, and there are always Presents nearby!",
+  "ru": "Листья на праздничных елках! Рядом с ними идет снег, а рядом всегда Подарки!"
+ },
+ "lore.block.aether.holystone": {
+  "en": "The Aether's native rock. It can be used in various ways, such as tool creation, construction, and crafting Holystone Bricks.",
+  "ru": "Повсеместный камень Эфира. Его можно использовать, например, для создания инструментов, строительства и переработки в священнокаменные кирпичи."
+ },
+ "lore.block.aether.holystone_brick_slab": {
+  "en": "Crafted from Holystone Bricks. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Создана из священнокаменных кирпичей. Занимая половину блока, плиты пригодны для различных видов украшения, а также для создания пологих наклонов. Попробуйте поставить их на крыше!"
+ },
+ "lore.block.aether.holystone_brick_stairs": {
+  "en": "Crafted from Holystone Bricks. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Созданы из священнокаменных кирпичей. Ступеньки полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.holystone_brick_wall": {
+  "en": "Crafted from Holystone Bricks. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Создана из священнокаменных кирпичей. Может использоваться для декоративных ограждений и для фортификации. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.holystone_bricks": {
+  "en": "Used as a building material native to the Aether. It is made from Holystone and is sturdier than it too.",
+  "ru": "Используется для строительства из материалов, местных для Эфира. Делается из священного камня и превосходит его по прочности."
+ },
+ "lore.block.aether.holystone_button": {
+  "en": "Crafted from Holystone, a button used to activate mechanisms and redstone.",
+  "ru": "Кнопка, созданная из священного камня и используемая для активации редстоуновых схем и механизмов."
+ },
+ "lore.block.aether.holystone_pressure_plate": {
+  "en": "Crafted from Holystone, a pressure plate used to activate mechanisms and redstone.",
+  "ru": "Нажимная плита, созданная из священного камня и используемая для активации редстоуновых схем и механизмов."
+ },
+ "lore.block.aether.holystone_slab": {
+  "en": "Crafted from Holystone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Создана из священного камня. Занимая половину блока, плиты пригодны для различных видов украшения, а также для создания пологих наклонов. Попробуйте поставить их на крыше!"
+ },
+ "lore.block.aether.holystone_stairs": {
+  "en": "Crafted from Holystone. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Созданы из священного камня. Ступеньки полезны для придания вертикальности зданиям, а ещё они часто используются для украшения!"
+ },
+ "lore.block.aether.holystone_wall": {
+  "en": "Crafted from Holystone. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Создана из священного камня. Может использоваться для декоративных ограждений и для фортификации. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.icestone": {
+  "en": "Icestone is a common ore that can be used as fuel for a Freezer. It can be used to freeze nearby liquids such as lava and water.",
+  "ru": "Ледокамень — это обычная руда, которую можно использовать в качестве топлива для морозильника. Его можно использовать для замораживания близлежащих жидкостей, таких как лава и вода."
+ },
+ "lore.block.aether.icestone_slab": {
+  "en": "Crafted from Icestone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Изготовлены из Ледокамня,  Плиты представляют собой универсальные полублоки для отделки и ровных откосов. Попробуйте добавить немного на крышу здания!"
+ },
+ "lore.block.aether.icestone_stairs": {
+  "en": "Crafted from Icestone. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Изготовлены из Ледокамня. Ступеньки полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.icestone_wall": {
+  "en": "Crafted from Icestone. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Изготовлен из Ледокамня. Может использоваться для декоративных ограждений и оборонительного сооружения. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.incubator": {
+  "en": "Used to incubate Moas. You use Ambrosium Torches for the fuel. The process can take quite some time, but it is worth the wait once your Moa of choice hatches!",
+  "ru": "Используется для инкубации Моа. В качестве топлива вы используете Факелы Амброзиума. Этот процесс может занять довольно много времени, но ожидание того стоит, как только вылупится выбранный вами Моа!"
+ },
+ "lore.block.aether.light_angelic_stone": {
+  "en": "The light version of Angelic Stone. It is less common than Angelic Stone, but it looks really nice as a decorative block.",
+  "ru": "Светлая версия Ангельского камня. Он менее распространен, чем Ангельский камень, но в качестве декоративного блока выглядит очень красиво."
+ },
+ "lore.block.aether.light_hellfire_stone": {
+  "en": "The light version of Hellfire Stone. It can be found in Gold Dungeons along with Hellfire Stone, but like its counterpart, it cannot be collected until the boss is defeated.",
+  "ru": "Светлая версия Адского Камня. Его можно найти в Золотых подземельях вместе с Адским Камнем, но, как и его аналог, его нельзя собрать, пока не будет побежден босс."
+ },
+ "lore.block.aether.mossy_holystone": {
+  "en": "A more aged Holystone, it is found near dungeons and has pale colored vines growing on it. It can be very decorative!",
+  "ru": "Состаренная разновидность священного камня, встречающаяся возле сокровищниц, покрытая бледной растительностью; очень хороша для украшения зданий!"
+ },
+ "lore.block.aether.mossy_holystone_slab": {
+  "en": "Crafted from Mossy Holystone. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Создана из замшелого священного камня. Занимая половину блока, плиты пригодны для различных видов украшения, а также для создания пологих наклонов. Попробуйте поставить их на крыше!"
+ },
+ "lore.block.aether.mossy_holystone_stairs": {
+  "en": "Crafted from Mossy Holystone. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Созданы из замшелого священного камня. Ступеньки полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.mossy_holystone_wall": {
+  "en": "Crafted from Mossy Holystone. Can be used for decorative enclosures and defenses. Great for keeping nasty intruders away!",
+  "ru": "Создана из замшелого священного камня. Может использоваться для декоративных ограждений и для фортификации. Отлично подходит для защиты от незваных гостей!"
+ },
+ "lore.block.aether.pillar": {
+  "en": "The main part of the Silver Dungeon's decorative pillars; they spawn all around the dungeon and are excellent for building.",
+  "ru": "Основная часть декоративных колонн Серебряного подземелья; они появляются по всему подземелью и отлично подходят для строительства."
+ },
+ "lore.block.aether.pillar_top": {
+  "en": "The top of the Silver Dungeon's decorative pillars; they look excellent and are great for building.",
+  "ru": "Верх декоративных колонн Серебряного подземелья; они выглядят превосходно и отлично подходят для строительства."
+ },
+ "lore.block.aether.present": {
+  "en": "Break this to get a wonderful holiday gift! Be careful, as there's a chance you could get ssssssurprised!",
+  "ru": "Разбейте подарок, чтобы получить праздничный сюрприз! Будьте осторожны: некоторые сюрпризы могут оказаться взрывоопасными."
+ },
+ "lore.block.aether.purple_flower": {
+  "en": "These pretty violet flowers can be found in large numbers around the Aether. They can be crafted into Purple Dye when placed in a Crafting Table.",
+  "ru": "Эти красивые фиолетовые цветы можно найти в большом количестве по всему Эфиру. Из них можно сделать Фиолетовый краситель, поместив их на верстак."
+ },
+ "lore.block.aether.quicksoil": {
+  "en": "A silky sand with extremely slippery properties. It can be seen floating on the side of the Aether's islands. Be careful around it, or you'll fall off.",
+  "ru": "Шелковистый песок с чрезвычайно скользкими свойствами. Его можно увидеть плавающим на краю эфирных островов. Будьте осторожны, иначе вы упадете."
+ },
+ "lore.block.aether.quicksoil_glass": {
+  "en": "After enchanting Quicksoil, you can get this tinted glass. It is slightly slippery and makes for a great window.",
+  "ru": "Зачаровав Быстропесок, вы сможете получить тонированное стекло. Он немного скользкий и из него получается отличное окно."
+ },
+ "lore.block.aether.quicksoil_glass_pane": {
+  "en": "A thin decorative variant of Quicksoil Glass. It is slightly slippery and makes for a great window.",
+  "ru": "Тонкий декоративный вариант Быстростекла. Он немного скользкий и из него получается отличное окно."
+ },
+ "lore.block.aether.sentry_stone": {
+  "en": "The light version of Carved Stone, also found in Bronze Dungeons.",
+  "ru": "Светлая версия Резного камня. Находится в Бронзовых подземельях."
+ },
+ "lore.block.aether.skyroot_bed": {
+  "en": "Crafted with wool and Skyroot Planks. You can only sleep at night to skip nighttime, but during the day you can set your respawn point in the Aether. You cannot sleep while monsters are nearby.",
+  "ru": "Изготовлен из шерсти и Небесных досок. Вы можете спать только ночью, чтобы пропустить ночное время, но днем вы можете установить точку возрождения в эфире. Вы не можете спать, пока монстры рядом."
+ },
+ "lore.block.aether.skyroot_bookshelf": {
+  "en": "Crafted from Skyroot Planks and Books. Bookshelves can be used to enhance the enchanting capabilities of an Enchanting Table.",
+  "ru": "Создается из Небесных досок и книг. Книжные полки можно использовать для усиления зачаровывающих возможностей Чародейского стола."
+ },
+ "lore.block.aether.skyroot_button": {
+  "en": "Crafted from Skyroot Planks, a button used to activate mechanisms and redstone.",
+  "ru": "Кнопка из небесных досок. Подаёт сигнал красного камня и позволяет включать механизмы."
+ },
+ "lore.block.aether.skyroot_door": {
+  "en": "Crafted from Skyroot Planks, an ornate door helpful for keeping an enclosed and safe space without worry of monsters wandering in.",
+  "ru": "Дверь из небесных досок. Закрывает проход и помогает защитить жилище от незваных чудовищ."
+ },
+ "lore.block.aether.skyroot_fence": {
+  "en": "Crafted from Skyroot Planks and Sticks. Great for keeping your livestock safe from wandering predators!",
+  "ru": "Изготовленная из Небесных досок и Палок. Отлично подходит для защиты вашего скота от бродячих хищников!"
+ },
+ "lore.block.aether.skyroot_fence_gate": {
+  "en": "Crafted from Sticks and Skyroot Planks. Gives a homely entrance and exit to your precious enclosures.",
+  "ru": "Создается из Палок и Небесных досок. Обеспечивает уютный вход и выход в ваши драгоценные вольеры."
+ },
+ "lore.block.aether.skyroot_hanging_sign": {
+  "en": "Crafted from Stripped Skyroot Logs and Chains. A helpful sign perfect for writing messages and directions on.",
+  "ru": "Создается из Обтёсанных Небесных Бревен и Цепей. Полезный знак, идеально подходящий для написания сообщений и указаний."
+ },
+ "lore.block.aether.skyroot_leaves": {
+  "en": "These leaves generate with Skyroot Trees. They can drop Skyroot Saplings and Skyroot Sticks when they decay.",
+  "ru": "Листва небесных деревьев. При разрушении или опадании из неё могут выпасть небесные саженцы и палки. Ножницы или Шёлковое касание позволяют собрать листву целиком."
+ },
+ "lore.block.aether.skyroot_log": {
+  "en": "These spawn with Skyroot Trees. They can be double-dropped with Skyroot Axes. When put in a Crafting Table, they will provide 4 Skyroot Planks.",
+  "ru": "Они появляются вместе с Небесными деревьями. Их можно получить дважды с помощью Небесных топоров. Если положить их на верстак, они дадут 4 штук небесных досок."
+ },
+ "lore.block.aether.skyroot_planks": {
+  "en": "Skyroot Planks can be made into various tools, blocks, and items. They are crafted from Skyroot Logs and make a great building material.",
+  "ru": "Из Небесных досок можно сделать различные инструменты, блоки и предметы. Они изготавливаются из Небесных бревен и являются отличным строительным материалом."
+ },
+ "lore.block.aether.skyroot_pressure_plate": {
+  "en": "Crafted from Skyroot Planks. A wooden pressure plate used to activate mechanisms and redstone.",
+  "ru": "Деревянная нажимная плита из небесных досок. Включает механизмы и подаёт сигнал красного камня, когда на ней что-нибудь находится."
+ },
+ "lore.block.aether.skyroot_sapling": {
+  "en": "These small green saplings will grow into Skyroot Trees. They can be grown faster with Bone Meal.",
+  "ru": "Эти маленькие зелёные саженцы вырастут в Небесные деревья. Их рост может быть ускорен костной мукой."
+ },
+ "lore.block.aether.skyroot_sign": {
+  "en": "Crafted from Skyroot Planks and Sticks. A helpful sign perfect for writing messages and directions on.",
+  "ru": "Создаётся из Небесных досок и палок. Полезная табличка для сообщений и указаний."
+ },
+ "lore.block.aether.skyroot_slab": {
+  "en": "Crafted from Skyroot Planks. Slabs are half blocks, versatile for decoration and smooth slopes. Try adding some to a building's roofing!",
+  "ru": "Изготовленная из Небесных досок. Плиты представляют собой полублоки, универсальны для отделки и имеют ровные откосы. Попробуйте добавить немного на крышу здания!"
+ },
+ "lore.block.aether.skyroot_stairs": {
+  "en": "Crafted from Skyroot Planks. Stairs are useful for adding verticality to builds and are often used for decoration too!",
+  "ru": "Изготовлены из Небесных досок. Лестницы полезны для придания вертикальности зданиям, а также часто используются для украшения!"
+ },
+ "lore.block.aether.skyroot_trapdoor": {
+  "en": "Crafted from Skyroot Planks. A trapdoor is useful for covering one block wide entryways. Often used to add extra protection to staircases.",
+  "ru": "Люк из небесных досок. Закрывает отверстия шириной в один блок; удобен для входов, лестниц и оформления построек."
+ },
+ "lore.block.aether.skyroot_wood": {
+  "en": "Skyroot Logs crafted to be smooth on all sides. When put in a Crafting Table, they will provide 4 Skyroot Planks.",
+  "ru": "Небесные бревна сделаны гладкими со всех сторон. Если положить их на верстак, они дадут 4 штук небесных досок."
+ },
+ "lore.block.aether.stripped_skyroot_log": {
+  "en": "A Skyroot Log that has had its bark stripped away with an Axe. When put in a Crafting Table, they will provide 4 Skyroot Planks.",
+  "ru": "Небесное бревно с которого была убрана кора с помощью топора. Если положить их на верстак, они дадут 4 штук небесных досок."
+ },
+ "lore.block.aether.stripped_skyroot_wood": {
+  "en": "Stripped Skyroot Logs crafted to be smooth on all sides. When put in a Crafting Table, they will provide 4 Skyroot Planks.",
+  "ru": "Обтёсанные Небесные бревна сделаны гладкими со всех сторон. Если положить их на верстак, они дадут 4 штук небесных досок."
+ },
+ "lore.block.aether.sun_altar": {
+  "en": "An altar containing the power to control the sun itself! It is dropped by the Sun Spirit after you defeat him. Use it to control the time of day.",
+  "ru": "Алтарь, содержащий силу управлять самим солнцем! Он выпадает из Духа Солнца после того, как вы его победите. Используйте его для контроля времени суток."
+ },
+ "lore.block.aether.treasure_chest": {
+  "en": "A Treasure Chest, these are found after defeating a Bronze, Silver, or Gold dungeon. They can be opened with the key from the dungeon boss.",
+  "ru": "Сундук с сокровищами. Его можно найти после прохождения Бронзового, Серебряного или Золотого подземелья. Их можно открыть ключом от босса подземелья."
+ },
+ "lore.block.aether.white_flower": {
+  "en": "These extremely good-smelling roses can make great gifts to a friend or loved one. They spawn in large groups around the Aether.",
+  "ru": "Эти чрезвычайно приятно пахнущие розы могут стать отличным подарком другу или любимому человеку. Они появляются большими группами вокруг Эфира."
+ },
+ "lore.block.aether.zanite_block": {
+  "en": "A block of compacted Zanite Gemstones. They can power Beacons and have a sleek look to them.",
+  "ru": "Блок из спрессованных занитных самоцветов. Подходит для хранения занита и украшения построек."
+ },
+ "lore.block.aether.zanite_ore": {
+  "en": "An uncommon ore that drops Zanite Gemstones when broken with stone tools.",
+  "ru": "Необычная руда Эфира. Для добычи занитных самоцветов нужна каменная кирка или кирка более высокого уровня."
+ },
+ "lore.item.aether.aechor_petal": {
+  "en": "The petal of an Aechor Plant with a sweet aroma to it. These are a Moa's favorite food and can be used to feed baby Moas.",
+  "ru": "Ароматный лепесток растения эхор. Любимое лакомство моа; им можно кормить птенцов."
+ },
+ "lore.item.aether.aether_portal_frame": {
+  "en": "A portable frame containing the power to travel to the Aether or back to the Overworld. Not something you're likely to find naturally.",
+  "ru": "Портативная рамка с силой для путешествия в Эфир и обратно. Не то, что вы, вероятно, найдёте в природе."
+ },
+ "lore.item.aether.agility_cape": {
+  "en": "An uncommon cape found in Bronze and Silver Dungeons. It makes the wearer's legs stronger, therefore they can walk up blocks instantly.",
+  "ru": "Необычный плащ из бронзовых и серебряных подземелий оригинального мода. Позволяет владельцу подниматься на блоки без прыжка."
+ },
+ "lore.item.aether.ambrosium_shard": {
+  "en": "The Aether's Coal equivalent. These have the healing property of restoring a small amount of health when eaten.",
+  "ru": "Эфирный эквивалент Угля. Они обладают целебным свойством восстанавливать небольшое количество здоровья при употреблении в пищу."
+ },
+ "lore.item.aether.black_moa_egg": {
+  "en": "An egg laid by a Black Moa. Hatching this provides a Black Moa with 8 mid-air jumps, the best and rarest one!",
+  "ru": "Яйцо чёрного моа. Из него вылупляется самый редкий моа, способный совершать восемь прыжков в воздухе."
+ },
+ "lore.item.aether.blue_berry": {
+  "en": "Harvested from Berry Bushes, this is the most common food source in the Aether. It has very weak hunger restoration. You can enchant these in an Altar for much better hunger restoration.",
+  "ru": "Собираемые с ягодных кустов, самый распространённый источник пищи в Эфире. Слабо насыщает. Можно зачаровать на Алтаре для лучшего насыщения."
+ },
+ "lore.item.aether.blue_cape": {
+  "en": "A Blue Cape that has a silky feeling to it. It's crafted using Blue Wool.",
+  "ru": "Синий шелковистый плащ. Сделан из синей шерсти."
+ },
+ "lore.item.aether.blue_gummy_swet": {
+  "en": "A sweet-smelling gummy that can be found in chests in Bronze and Silver dungeons. It fully restores the Player's hunger when eaten. Very useful for boss fights.",
+  "ru": "Сладкий мармеладный слизун из сундуков бронзовых и серебряных подземелий. Полностью восстанавливает сытость и особенно полезен перед боем."
+ },
+ "lore.item.aether.blue_moa_egg": {
+  "en": "An egg laid by a Blue Moa. Hatching this provides a Blue Moa with 3 mid-air jumps. The most common Moa.",
+  "ru": "Яйцо, снесённое Синим Моа. При его вылуплении, Синий Моа сможет совершить 3 прыжка в воздухе. Самый распространенный Моа."
+ },
+ "lore.item.aether.book_of_lore": {
+  "en": "A large book containing many lore entries. It describes every object in detail.",
+  "ru": "Объёмная книга, где собраны многие предания. Здесь подробно описывается всё."
+ },
+ "lore.item.aether.bronze_dungeon_key": {
+  "en": "A dull key that is dropped from the Slider after being defeated. You can use it to claim the treasure you earned!",
+  "ru": "Тусклый ключ, выпадающий из Слайдера. Используйте его, чтобы получить заслуженное сокровище!"
+ },
+ "lore.item.aether.candy_cane": {
+  "en": "Dropped by mobs killed with a Candy Cane Sword! They can be used to repair this weapon, and they're a very tasty treat.",
+  "ru": "Выпадает из мобов, убитых Конфетным мечом! Их можно использовать для ремонта этого оружия, и это очень вкусное лакомство."
+ },
+ "lore.item.aether.candy_cane_sword": {
+  "en": "A sword made from decorative candy. Randomly drops Candy Canes when used. These are dropped from presents that are under Holiday Trees.",
+  "ru": "Меч из праздничной карамели. При использовании иногда оставляет леденцы. В оригинальном моде встречается в подарках под праздничными деревьями."
+ },
+ "lore.item.aether.chainmail_gloves": {
+  "en": "A very rare pair of gloves needed to complete the chain armor set.",
+  "ru": "Очень редкие перчатки, дополняющие комплект кольчужной брони."
+ },
+ "lore.item.aether.cloud_staff": {
+  "en": "A staff with a light and fluffy top. It summons small Cloud Minions to fight next to the user for a short period of time by shooting large Cloud Crystals.",
+  "ru": "Посох с легким и пушистым верхом. Он призывает маленьких облачных миньонов, которые на короткое время сражаются рядом с хозяином, стреляя большими Облачными кристаллами."
+ },
+ "lore.item.aether.cold_parachute": {
+  "en": "A quickly made Parachute. It's fluffy to the touch and is made from Cold Aerclouds. It has one use.",
+  "ru": "Быстро сделанный парашют. Он пушистый на ощупь и сделан из Холодных облаков. У него одно применение."
+ },
+ "lore.item.aether.diamond_gloves": {
+  "en": "A pair of gloves needed to complete the diamond armor set.",
+  "ru": "Перчатки, дополняющие комплект алмазной брони."
+ },
+ "lore.item.aether.enchanted_berry": {
+  "en": "An excellent food source, it tastes quite good and restores a massive amount of hunger.",
+  "ru": "Отличный источник пищи. Довольно приятный на вкус, восстанавливает огромное количество насыщения."
+ },
+ "lore.item.aether.enchanted_dart": {
+  "en": "The ammo for Enchanted Dart Shooters. This is the strongest of the darts, made by enchanting Golden Darts.",
+  "ru": "Снаряды для Зачарованной Духовой трубки. Это самые сильные дротики, созданные путём зачарования Золотых Дротиков."
+ },
+ "lore.item.aether.enchanted_dart_shooter": {
+  "en": "A Dart Shooter that shoots Enchanted Darts; the strongest one!",
+  "ru": "Духовая трубка, стреляющая зачарованными дротиками; самая сильная!"
+ },
+ "lore.item.aether.flaming_sword": {
+  "en": "An ancient sword which burns its foes to a crisp. It almost hurts to touch! Using this on animals can make them drop cooked meat!",
+  "ru": "Древний меч, который поджигает врагов. Даже прикосновение к нему обжигает! Убитые им животные могут оставить приготовленное мясо."
+ },
+ "lore.item.aether.gingerbread_man": {
+  "en": "Found in presents under Holiday Trees, these are the most common holiday item. They are very abundant when dropped from Presents.",
+  "ru": "Это самый распространенный праздничный предмет, который можно найти в подарках под праздничными елками. Их очень много, когда они выпадают из подарков."
+ },
+ "lore.item.aether.gold_dungeon_key": {
+  "en": "A key that has a shiny finish. It is dropped by the Sun Spirit after you defeat him. You can use it to claim the legendary treasure in the back room!",
+  "ru": "Ключ с блестящим покрытием. Он выпадает из Духа Солнца после победы над ним. Может быть использован для получения легендарного сокровища в задней комнате!"
+ },
+ "lore.item.aether.golden_amber": {
+  "en": "These round golden orbs can be obtained by mining Golden Oak Logs with a Zanite or Gravitite Axe. Their main purpose is to craft Golden Darts and Dart Shooters.",
+  "ru": "Эти круглые золотые сферы можно получить, добывая бревна золотого дуба с помощью Занитного или Гравититового топора. Их основная цель — изготовление Золотых дротиков и Духовых трубок."
+ },
+ "lore.item.aether.golden_dart": {
+  "en": "The ammo for Golden Dart Shooters. Crafted with Skyroot Sticks and Golden Amber, enchanting these converts them to Enchanted Darts.",
+  "ru": "Снаряды для Золотой Духовой трубки. Изготавливается из Небесных палок и Золотого Янтаря. При зачаровании получаются Зачарованные Дротики."
+ },
+ "lore.item.aether.golden_dart_shooter": {
+  "en": "A Dart Shooter that shoots Golden Darts; enchanting it on an Altar improves its attack power!",
+  "ru": "Духовая трубка, стреляющая Золотыми дротиками; зачарование его на Алтаре увеличивает его силу атаки!"
+ },
+ "lore.item.aether.golden_feather": {
+  "en": "A fluffy feather found in Silver Dungeons. When worn, the wearer becomes lighter than air and can descend slowly.",
+  "ru": "Пушистое перо, найденное в Серебряном подземелье. Его носитель становится легче воздуха и медленно парит."
+ },
+ "lore.item.aether.golden_gloves": {
+  "en": "A pair of gloves, needed to complete the golden armor set.",
+  "ru": "Перчатки, дополняющие комплект золотой брони."
+ },
+ "lore.item.aether.golden_gummy_swet": {
+  "en": "A sour-tasting gummy that can be found in chests in Bronze and Silver Dungeons. It fully restores the Player's hunger when eaten. Very useful for boss fights.",
+  "ru": "Кислый мармеладный слизун из сундуков бронзовых и серебряных подземелий. Полностью восстанавливает сытость и полезен перед боем с боссом."
+ },
+ "lore.item.aether.golden_parachute": {
+  "en": "The best Parachute in the Aether. It has 20 uses and is made with Golden Aerclouds.",
+  "ru": "Лучший парашют в Эфире. Он имеет 20 применений и сделан из Золотых облаков."
+ },
+ "lore.item.aether.golden_pendant": {
+  "en": "An aesthetic accessory made of gold.",
+  "ru": "Эстетичный аксессуар, сделанный из золота."
+ },
+ "lore.item.aether.golden_ring": {
+  "en": "An aesthetic accessory made of gold.",
+  "ru": "Эстетичный аксессуар, сделанный из золота."
+ },
+ "lore.item.aether.gravitite_axe": {
+  "en": "Part of the Aether's best tool tier. This Axe not only makes wood blocks float, but it can mine Golden Oak Logs for Golden Amber!",
+  "ru": "Один из лучших инструментов Эфира. Позволяет добывать золотой янтарь из золотого дуба. При использовании на подходящих блоках заставляет их подняться в воздух."
+ },
+ "lore.item.aether.gravitite_boots": {
+  "en": "Part of the Aether's best armor set. When the full set is worn, you get an extra high jump!",
+  "ru": "Часть лучшего набора брони Эфира. Надев полный комплект, вы получите сверхвысокий прыжок!"
+ },
+ "lore.item.aether.gravitite_chestplate": {
+  "en": "Part of the Aether's best armor set. When the full set is worn, you get an extra high jump!",
+  "ru": "Часть лучшего набора брони Эфира. Надев полный комплект, вы получите сверхвысокий прыжок!"
+ },
+ "lore.item.aether.gravitite_gloves": {
+  "en": "Part of the Aether's best armor set needed to complete the Gravitite set.",
+  "ru": "Перчатки, дополняющие гравититовый комплект — один из лучших комплектов брони Эфира."
+ },
+ "lore.item.aether.gravitite_helmet": {
+  "en": "Part of the Aether's best armor set. When the full set is worn, you get an extra high jump!",
+  "ru": "Часть лучшего набора брони Эфира. Надев полный комплект, вы получите сверхвысокий прыжок!"
+ },
+ "lore.item.aether.gravitite_hoe": {
+  "en": "Part of the Aether's best tool tier. It can be used to harvest many plant-based or organic blocks and can also make them float.",
+  "ru": "Один из лучших инструментов Эфира. Подходит для обработки земли и сбора растительных блоков. Может заставлять подходящие блоки парить."
+ },
+ "lore.item.aether.gravitite_leggings": {
+  "en": "Part of the Aether's best armor set. When the full set is worn, you get an extra high jump!",
+  "ru": "Часть лучшего набора брони Эфира. Надев полный комплект, вы получите сверхвысокий прыжок!"
+ },
+ "lore.item.aether.gravitite_pickaxe": {
+  "en": "Part of the Aether's best tool tier. When mining with this powerful tool, you can right-click on any stone block, and it will levitate into the air! You can mine any ore with this pickaxe.",
+  "ru": "Мощная кирка высшего уровня Эфира. Добывает любую местную руду. Используйте её на подходящем каменном блоке, чтобы поднять его в воздух."
+ },
+ "lore.item.aether.gravitite_shovel": {
+  "en": "Part of the Aether's best tool tier. This shovel has the special ability to make dirt blocks or sand levitate! When combined with enchantments such as Efficiency, it will instantly break Aether Dirt!",
+  "ru": "Мощная лопата Эфира для земли и песка. Может заставлять подходящие блоки подниматься в воздух. Чары Эффективность дополнительно ускоряют добычу."
+ },
+ "lore.item.aether.gravitite_sword": {
+  "en": "Part of the Aether's best tool tier. When attacking with this powerful weapon, anything you hit will be flung into the air, causing lots of damage!",
+  "ru": "Часть лучшего уровня инструментов Эфира. При атаке этим мощным оружием все, что вы ударите, будет подброшено в воздух, нанося огромный урон!"
+ },
+ "lore.item.aether.hammer_of_jeb": {
+  "en": "A mysterious hammer that can shoot projectiles. At one point, it vanished from existence. It's said this was actually Jeb's hammer at one point.",
+  "ru": "Таинственный молот, способный стрелять снарядами. В какой-то момент он исчез из существования. Говорят, что когда-то это был молот Джеба."
+ },
+ "lore.item.aether.hammer_of_kingbdogz": {
+  "en": "A mighty hammer that shoots heavy projectiles at mobs. It's said that Kingbdogz actually held this hammer.",
+  "ru": "Могучий молот, стреляющий тяжелыми снарядами по мобам. Говорят, что Кингбдогз действительно держал этот молот."
+ },
+ "lore.item.aether.healing_stone": {
+  "en": "Obtained from enchanting Holystone, it can be used as a reliable healing source, providing Regeneration. It has a surprisingly juicy flavor.",
+  "ru": "Получается путём зачаровывания священного камня. Служит надёжным средством восполнения здоровья, накладывающим эффект регенерации. Имеет удивительно сочный вкус."
+ },
+ "lore.item.aether.holy_sword": {
+  "en": "An ancient sword which does heavy damage to undead foes. A perfect weapon for traversing the Overworld.",
+  "ru": "Древний меч, наносящий повышенный урон нежити. Хорошо подходит для путешествий по обычному миру."
+ },
+ "lore.item.aether.holystone_axe": {
+  "en": "One of Aether's stone tools. It mines faster than skyroot tools, as well as dropping random Ambrosium Shards.",
+  "ru": "Один из каменных инструментов Эфира. Он добывает быстрее, чем небесные инструменты, а также выбрасывает случайные Осколки Амброзиума."
+ },
+ "lore.item.aether.holystone_hoe": {
+  "en": "One of the Aether's stone tools. It can be used to harvest many plant-based or organic blocks, and till dirt blocks into farmable land. It will randomly drop Ambrosium Shards during use.",
+  "ru": "Один из каменных инструментов Эфира. С его помощью можно собирать множество растительных или органических блоков, а также делать пашню из блоков земли. При его использовании случайным образом выпадают осколки амброзия."
+ },
+ "lore.item.aether.holystone_pickaxe": {
+  "en": "One of the Aether's stone tools. It can mine Zanite Ore and will randomly drop Ambrosium Shards while mining.",
+  "ru": "Один из каменных инструментов Эфира. Он может добывать Занитную руду и во время добычи случайным образом выбрасывать Осколки Амброзиума."
+ },
+ "lore.item.aether.holystone_shovel": {
+  "en": "One of the Aether's stone tools. It can mine Quicksoil and all other blocks a Stone Shovel can mine, except it drops random Ambrosium Shards.",
+  "ru": "Один из каменных инструментов Эфира. Он может добывать Быстропесок и все другие блоки, которые может добывать Каменная Лопата, за исключением того, что из него выпадают случайные Осколки Амброзиума."
+ },
+ "lore.item.aether.holystone_sword": {
+  "en": "One of the Aether's stone tools. It can drop Ambrosium Shards at random while attacking.",
+  "ru": "Один из каменных инструментов Эфира. Во время атаки из него могут случайно выпадать Осколки Амброзиума."
+ },
+ "lore.item.aether.ice_pendant": {
+  "en": "A pendant which allows you to freeze water and lava when walked on.",
+  "ru": "Кулон, замораживающий воду и лаву под ногами владельца."
+ },
+ "lore.item.aether.ice_ring": {
+  "en": "A ring which allows you to freeze water and lava when walked on.",
+  "ru": "Кольцо, замораживающее воду и лаву под ногами владельца."
+ },
+ "lore.item.aether.invisibility_cloak": {
+  "en": "A cloak that makes the wearer completely invisible! Since mobs cannot see you, they cannot attack you. Sneak up on your enemies with it!",
+  "ru": "Плащ, делающий владельца полностью невидимым! Поскольку мобы вас не видят, они не смогут напасть. Подкрадывайтесь с ним к своим врагам!"
+ },
+ "lore.item.aether.iron_bubble": {
+  "en": "A common dungeon loot item. It allows for the wearer to breathe underwater indefinitely.",
+  "ru": "Обычный предмет добычи из подземелий. Он позволяет владельцу дышать под водой неограниченное время."
+ },
+ "lore.item.aether.iron_gloves": {
+  "en": "A pair of gloves, needed to complete the iron armor set.",
+  "ru": "Перчатки, дополняющие комплект железной брони."
+ },
+ "lore.item.aether.iron_pendant": {
+  "en": "An aesthetic accessory made of iron.",
+  "ru": "Эстетичный аксессуар, сделанный из железа."
+ },
+ "lore.item.aether.iron_ring": {
+  "en": "An aesthetic accessory made of iron.",
+  "ru": "Эстетичный аксессуар, сделанный из железа."
+ },
+ "lore.item.aether.leather_gloves": {
+  "en": "Dyeable gloves to match your Leather Tunic! This is needed to complete the leather armor set.",
+  "ru": "Кожаные перчатки, которые можно покрасить в цвет кожаной куртки. Дополняют комплект кожаной брони."
+ },
+ "lore.item.aether.life_shard": {
+  "en": "A very rare item found in Gold Dungeons. Using this will give you an extra permanent heart! The feeling of using it is very strange and hard to describe.",
+  "ru": "Очень редкий предмет, который можно найти в Золотых Подземельях. Используя это, вы получите дополнительное постоянное сердце! Ощущения от его использования очень странные и их трудно описать."
+ },
+ "lore.item.aether.lightning_knife": {
+  "en": "Small knives that, when thrown, summon lightning bolts where they land.",
+  "ru": "Маленькие ножи, которые при броске вызывают молнии там, где приземляются."
+ },
+ "lore.item.aether.lightning_sword": {
+  "en": "An ancient sword which summons lightning to its foes.",
+  "ru": "Древний меч, призывающий молнию на своих врагов."
+ },
+ "lore.item.aether.music_disc_aether_tune": {
+  "en": "A music disc that plays \"Aether Tune\" by Noisestorm.",
+  "ru": "Пластинка, играющая мелодию «Aether Tune» от Noisestorm."
+ },
+ "lore.item.aether.music_disc_ascending_dawn": {
+  "en": "A music disc that plays \"Ascending Dawn\" by Emile van Krieken.",
+  "ru": "Пластинка, играющая мелодию «Ascending Dawn» от Эмиле ван Крикена."
+ },
+ "lore.item.aether.music_disc_chinchilla": {
+  "en": "A music disc that plays \"chinchilla\" by RENREN.",
+  "ru": "Пластинка, играющая мелодию «chinchilla» от RENREN."
+ },
+ "lore.item.aether.music_disc_high": {
+  "en": "A music disc that plays \"high\" by RENREN.",
+  "ru": "Пластинка, играющая мелодию «high» от RENREN."
+ },
+ "lore.item.aether.music_disc_klepto": {
+  "en": "A music disc that plays \"klepto\" by sunsette.",
+  "ru": "Пластинка, играющая мелодию «klepto» от sunsette."
+ },
+ "lore.item.aether.music_disc_sliders_wrath": {
+  "en": "A music disc that plays \"Slider's Wrath\" by sunsette.",
+  "ru": "Пластинка, играющая мелодию «Slider's Wrath» от sunsette."
+ },
+ "lore.item.aether.nature_staff": {
+  "en": "A staff that can allow for commanding tamed Moas. It allows them to sit on the ground.",
+  "ru": "Посох для управления приручёнными моа. Позволяет приказать моа сесть на землю."
+ },
+ "lore.item.aether.neptune_boots": {
+  "en": "Found in Bronze Dungeons, this armor allows for faster swimming in water. The full set is a much better replacement for the Depth Strider enchantment.",
+  "ru": "Эта броня, найденная в бронзовых подземельях, позволяет быстрее плавать в воде. Полный комплект является гораздо лучшей заменой чар Скидщик глубины"
+ },
+ "lore.item.aether.neptune_chestplate": {
+  "en": "Found in Bronze Dungeons, this armor allows for faster swimming in water. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.",
+  "ru": "Эта броня, найденная в бронзовых подземельях, позволяет быстрее плавать в воде. В сочетании с железным пузырем этот комплект брони очень полезен для победы над подводными храмами."
+ },
+ "lore.item.aether.neptune_gloves": {
+  "en": "Found in Bronze Dungeons, these gloves are required to complete the Neptune armor set, which allows for underwater walking.",
+  "ru": "Эти перчатки можно найти в бронзовых подземельях. Они необходимы для комплекта брони Нептуна, который позволяет ходить под водой."
+ },
+ "lore.item.aether.neptune_helmet": {
+  "en": "Found in Bronze Dungeons, this armor allows faster swimming in water. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.",
+  "ru": "Эта броня, найденная в бронзовых подземельях, позволяет быстрее плавать в воде. В сочетании с железным пузырем этот комплект брони очень полезен для победы над подводными храмами."
+ },
+ "lore.item.aether.neptune_leggings": {
+  "en": "Found in Bronze Dungeons, this armor allows faster swimming in water. Combined with an Iron Bubble, this armor set is super useful for defeating underwater temples.",
+  "ru": "Эта броня, найденная в бронзовых подземельях, позволяет быстрее плавать в воде. В сочетании с железным пузырем этот комплект брони очень полезен для победы над подводными храмами."
+ },
+ "lore.item.aether.netherite_gloves": {
+  "en": "A pair of gloves needed to complete the Netherite armor set.",
+  "ru": "Перчатки, дополняющие комплект незеритовой брони."
+ },
+ "lore.item.aether.obsidian_boots": {
+  "en": "A super powerful piece of armor, more powerful than diamond. This armor is only obtainable by standing in water while wearing Phoenix armor, converting it to obsidian.",
+  "ru": "Сверхмощная броня, более мощная, чем алмаз. Эту броню можно получить, только стоя в воде в доспехах Феникса и превращая ее в обсидиан."
+ },
+ "lore.item.aether.obsidian_chestplate": {
+  "en": "A super powerful piece of armor, more powerful than diamond. This armor is only obtainable by standing in water while wearing Phoenix armor, converting it to obsidian.",
+  "ru": "Сверхмощная броня, более мощная, чем алмаз. Эту броню можно получить, только стоя в воде в доспехах Феникса и превращая ее в обсидиан."
+ },
+ "lore.item.aether.obsidian_gloves": {
+  "en": "Needed to complete the obsidian armor set, you can obtain these by standing in water while wearing Phoenix Gloves.",
+  "ru": "Необходимы для завершения комплекта обсидиановых доспехов. Вы можете получить их, стоя в воде, надев перчатки Феникса."
+ },
+ "lore.item.aether.obsidian_helmet": {
+  "en": "A super powerful piece of armor, more powerful than diamond. This armor is only obtainable by standing in water while wearing Phoenix armor, converting it to obsidian.",
+  "ru": "Сверхмощная броня, более мощная, чем алмаз. Эту броню можно получить, только стоя в воде в доспехах Феникса и превращая ее в обсидиан."
+ },
+ "lore.item.aether.obsidian_leggings": {
+  "en": "A super powerful piece of armor, more powerful than diamond. This armor is only obtainable by standing in water while wearing Phoenix armor, converting it to obsidian.",
+  "ru": "Сверхмощная броня, более мощная, чем алмаз. Эту броню можно получить, только стоя в воде в доспехах Феникса и превращая ее в обсидиан."
+ },
+ "lore.item.aether.phoenix_boots": {
+  "en": "Found in Gold Dungeons, when fully worn, this armor set grants fire resistance; you can swim in lava as well. Be careful when standing in water, as it will turn into obsidian armor.",
+  "ru": "Часть брони феникса из золотого подземелья. Полный комплект защищает от огня и позволяет плавать в лаве. При длительном контакте с водой превращается в обсидиановую броню."
+ },
+ "lore.item.aether.phoenix_bow": {
+  "en": "Found as dungeon loot, this bow is very heated and can shoot flaming Arrows! It's warm to the touch.",
+  "ru": "Этот лук, найденный в подземельях, очень нагревается и может стрелять огненными стрелами! Он теплый на ощупь."
+ },
+ "lore.item.aether.phoenix_chestplate": {
+  "en": "Found in Gold Dungeons, when fully worn, this armor set grants fire resistance; you can swim in lava as well. Be careful when standing in water, as it will turn into obsidian armor.",
+  "ru": "Часть брони феникса из золотого подземелья. Полный комплект защищает от огня и позволяет плавать в лаве. При длительном контакте с водой превращается в обсидиановую броню."
+ },
+ "lore.item.aether.phoenix_gloves": {
+  "en": "Found in Gold Dungeons, these gloves are required to finish the Phoenix armor set. If you stand in water for long enough, they will turn into Obsidian Gloves.",
+  "ru": "Перчатки феникса из золотого подземелья, необходимые для полного комплекта. При длительном контакте с водой превращаются в обсидиановые перчатки."
+ },
+ "lore.item.aether.phoenix_helmet": {
+  "en": "Found in Gold Dungeons, when fully worn, this armor set grants fire resistance; you can swim in lava as well. Be careful when standing in water, as it will turn into obsidian armor.",
+  "ru": "Часть брони феникса из золотого подземелья. Полный комплект защищает от огня и позволяет плавать в лаве. При длительном контакте с водой превращается в обсидиановую броню."
+ },
+ "lore.item.aether.phoenix_leggings": {
+  "en": "Found in Gold Dungeons, when fully worn, this armor set grants fire resistance; you can swim in lava as well. Be careful when standing in water, as it will turn into obsidian armor.",
+  "ru": "Часть брони феникса из золотого подземелья. Полный комплект защищает от огня и позволяет плавать в лаве. При длительном контакте с водой превращается в обсидиановую броню."
+ },
+ "lore.item.aether.pig_slayer": {
+  "en": "Kills any pig-type mob with nothing with a single blow, or stronger ones with a couple blows. But why would you want to do that? Great for traversing the Nether.",
+  "ru": "Оружие против свиноподобных существ. Обычную свинью убивает одним ударом, а более крепкого противника — несколькими. Пригодится в Нижнем мире."
+ },
+ "lore.item.aether.poison_dart": {
+  "en": "The ammo for Poison Dart Shooters, these are made by coating Golden Darts with poison!",
+  "ru": "Боеприпасы для Ядовитой Духовой трубки изготавливаются путем покрытия золотых дротиков ядом!"
+ },
+ "lore.item.aether.poison_dart_shooter": {
+  "en": "A Dart Shooter that shoots Poison Darts. Shooting this at something infects them with a deadly poison!",
+  "ru": "Духовая трубка, стреляющая Ядовитыми дротиками. Выстрел во что-то, заразит того смертельным ядом!"
+ },
+ "lore.item.aether.red_cape": {
+  "en": "A rough-feeling cape that is crafted using Red Wool.",
+  "ru": "Плотный плащ, который изготавливается из красной шерсти."
+ },
+ "lore.item.aether.regeneration_stone": {
+  "en": "A treasure found in Silver Dungeons. This stone makes the wearer feel healthy and heals their wounds. The effects can stack with other Regeneration Stones.",
+  "ru": "Сокровище, найденное в Серебряных Подземельях. Этот камень заставляет владельца чувствовать себя здоровым и залечивает раны. Эффекты могут суммироваться с другими камнями регенерации."
+ },
+ "lore.item.aether.sentry_boots": {
+  "en": "Found in Bronze Dungeons, these boots protect you from fall damage, allowing you to fall from great heights.",
+  "ru": "Эти ботинки, что можно найти в бронзовых сокровищницах, защищат вас от любого урона от падения, позволяя совершать падения с огромных высот."
+ },
+ "lore.item.aether.shield_of_repulsion": {
+  "en": "A shield that protects the user from most projectiles. It will reflect the projectile back at the thrower and cause damage to them. Each time a projectile is reflected, the shield will be damaged.",
+  "ru": "Щит, защищающий пользователя от большинства снарядов. Он отразит снаряд обратно в отправителя и нанесет ему урон. Каждый раз, когда снаряд отражается, щит повреждается."
+ },
+ "lore.item.aether.silver_dungeon_key": {
+  "en": "A reflective key that is given to you by the Valkyrie Queen after defeating her. Use it to claim the treasure she left behind!",
+  "ru": "Светоотражающий ключ, выдаваемый Королевой Валькирий после победы над ней. Используйте его, чтобы забрать оставленное сокровище!"
+ },
+ "lore.item.aether.skyroot_axe": {
+  "en": "One of the Aether's wooden tools. It can be used to double Skyroot Log drops. Simple but useful for beginners.",
+  "ru": "Один из деревянных инструментов Эфира. Его можно использовать для удвоения количества Небесных бревен. Простой, но полезный для новичков."
+ },
+ "lore.item.aether.skyroot_axolotl_bucket": {
+  "en": "A Skyroot Bucket with a friendly Axolotl in it. Axolotls can be incredibly helpful aquatic partners. So, it's best to keep one on hand if you're exploring wet environments.",
+  "ru": "Небесное ведро с дружелюбным аксолотлем. Аксолотли могут быть невероятно полезными водными партнерами. Поэтому лучше держать его под рукой, если вы исследуете влажную среду."
+ },
+ "lore.item.aether.skyroot_boat": {
+  "en": "While the Aether does not have many large bodies of water, a boat can occasionally be a useful tool for crossing large distances over ice!",
+  "ru": "В Эфире немного больших водоёмов, но небесная лодка пригодится для плавания и быстрых поездок по льду."
+ },
+ "lore.item.aether.skyroot_bucket": {
+  "en": "A handcrafted bucket used to contain Aechor Plant poison, a nice remedy, or even just plain water!",
+  "ru": "Ведро ручной работы, в котором можно нести яд эхора, целебное снадобье или же просто обычную воду!"
+ },
+ "lore.item.aether.skyroot_chest_boat": {
+  "en": "A Skyroot Boat with a handy Chest in the back. It is useful for transporting more items over long stretches of water, which are famously difficult to find in the Aether.",
+  "ru": "Небесная лодка с удобным сундуком сзади. Это полезно для транспортировки большего количества предметов по длинным водным участкам, которые, как известно, трудно найти в Эфире."
+ },
+ "lore.item.aether.skyroot_cod_bucket": {
+  "en": "A bucket with a Cod in it! Make sure to keep the water topped up or your new friend won't survive the journey home.",
+  "ru": "Ведро с треской! Следите чтобы воды было достаточно, иначе ваш новый друг не переживет дорогу домой."
+ },
+ "lore.item.aether.skyroot_hoe": {
+  "en": "One of the Aether's wooden tools, used to till dirt to allow for the planting of crops. It can also double the drops of many plant-based or organic blocks.",
+  "ru": "Деревянный инструмент Эфира. Превращает землю в грядки и подходит для сбора растительных блоков."
+ },
+ "lore.item.aether.skyroot_milk_bucket": {
+  "en": "A bucket full of fresh milk; drink it to heal potion effects.",
+  "ru": "Ведро, полное свежего молока; выпейте его, чтобы излечить эффекты зелья."
+ },
+ "lore.item.aether.skyroot_pickaxe": {
+  "en": "One of the Aether's wooden tools. When mining Holystone or Ambrosium Ore, the drops will be doubled. This is even better when combined with an enchantment such as Fortune when mining Ambrosium Shards!",
+  "ru": "Деревянная кирка Эфира. Подходит для добычи небесного камня и амброзиевой руды. Добыча киркой даёт обычное количество камня."
+ },
+ "lore.item.aether.skyroot_poison_bucket": {
+  "en": "A Skyroot Bucket that has been filled with a deadly poison. Better not drink it! It can be used to craft Poison Darts and Dart Shooters. Enchant it to cure the poison in it.",
+  "ru": "Небесное ведро, заполненное смертельным ядом. Лучше его не пить! Используется для создания Ядовитых Дротиков и Духовых трубок. Зачаруйте, чтобы вывести из него яд."
+ },
+ "lore.item.aether.skyroot_powder_snow_bucket": {
+  "en": "A Skyroot Bucket that has been filled with Powder Snow. With quick reactions, it can be used to break the deadliest of falls, even in the Nether!",
+  "ru": "Небесное ведро, наполненное рыхлым снегом. Благодаря быстрой реакции с его помощью можно предотвратить самое смертельное падение даже в Незере!"
+ },
+ "lore.item.aether.skyroot_pufferfish_bucket": {
+  "en": "A Skyroot Bucket with a Pufferfish inside. This item serves as a useful way to transport the defensive and poisonous Pufferfish.",
+  "ru": "Небесное ведро с Иглобрюхом. Этот предмет служит удобным способом транспортировки ядовитых иглобрюхов."
+ },
+ "lore.item.aether.skyroot_remedy_bucket": {
+  "en": "A Skyroot Bucket containing a soothing remedy. It has a strong smell. Drinking this will cure deadly poison.",
+  "ru": "Небесное ведро, содержащее успокаивающее средство. Имеет сильный запах. Выпив это, можно вылечить смертельный яд."
+ },
+ "lore.item.aether.skyroot_salmon_bucket": {
+  "en": "A Skyroot Bucket containing a Salmon. Useful for transporting live Salmon over long stretches of land.",
+  "ru": "Небесное ведро с лососем. Полезен для перевозки живого лосося на большие расстояния."
+ },
+ "lore.item.aether.skyroot_shovel": {
+  "en": "One of the Aether's wooden tools. It doubles Aether Dirt and Quicksoil drops.",
+  "ru": "Один из деревянных инструментов Эфира. Он удваивает количество выпадений Эфирной земли и Быстропеска."
+ },
+ "lore.item.aether.skyroot_stick": {
+  "en": "Crafted from Skyroot Planks. Used to create various tools and items. There's nothing else too special about it.",
+  "ru": "Изготовленная из Небесных досок. Используется для создания различных инструментов и предметов. Больше в этом нет ничего особенного."
+ },
+ "lore.item.aether.skyroot_sword": {
+  "en": "One of the Aether's wooden tools. It has a low amount of durability and doubles mob drops. It makes an excellent weapon for collecting food when combined with enchantments such as Looting and Fire Aspect.",
+  "ru": "Один из деревянных инструментов Эфира. Он имеет низкую прочность и удваивает добычу мобов. В сочетании с такими чарами, как «Добыча» и «Заговор огня», из него получается отличное оружие для сбора еды."
+ },
+ "lore.item.aether.skyroot_tadpole_bucket": {
+  "en": "A Skyroot Bucket with a Tadpole inside. Transporting a Tadpole to a new biome can change what type of Frog it grows up into!",
+  "ru": "Небесное ведро с головастиком. Переноска головастика в новый биом может изменить тип лягушки, в которую он вырастет!"
+ },
+ "lore.item.aether.skyroot_tropical_fish_bucket": {
+  "en": "A Skyroot Bucket containing a Tropical Fish. A helpful way to transport and catalog the numerous varieties of Tropical Fish.",
+  "ru": "Небесное ведро с тропической рыбкой. Полезный способ транспортировки и каталогизации многочисленных разновидностей тропических рыб."
+ },
+ "lore.item.aether.skyroot_water_bucket": {
+  "en": "A Skyroot Bucket that is filled to the brim with water.",
+  "ru": "Небесное ведро, до краев наполненное водой."
+ },
+ "lore.item.aether.swet_ball": {
+  "en": "A gooey orb that is dropped from Blue Swets. It can be used to fertilize soil. Another use is to put it alongside String to make a Lead.",
+  "ru": "Липкий сгусток, выпадающий из синего слизуна. Им можно удобрить землю. В сочетании с нитями используется для изготовления поводка."
+ },
+ "lore.item.aether.swet_banner": {
+  "en": "A decorative banner with the likeness of a Swet. By placing this down you can prevent them from appearing around your home.",
+  "ru": "Декоративный флаг с изображением сладня. Разместив его, вы можете предотвратить их появление вокруг вашего дома."
+ },
+ "lore.item.aether.swet_cape": {
+  "en": "A common cape that is found in Bronze Dungeons. It allows for the wearer to ride Swets, as they become friendly when they see someone wearing it.",
+  "ru": "Плащ из бронзового подземелья. В оригинальном моде делает слизунов дружелюбными и позволяет ездить на них верхом."
+ },
+ "lore.item.aether.valkyrie_axe": {
+  "en": "A tool unique to the Silver Dungeon. This Axe has a very far reach and very high attack power. You can use this to your advantage, but be warned, the attack cooldown is very high.",
+  "ru": "Инструмент, уникальный для Серебряного Подземелья. Этот топор имеет очень большую дальность действия и очень высокую силу атаки. Вы можете использовать это в своих интересах, но будьте осторожны: время восстановления атаки очень велико."
+ },
+ "lore.item.aether.valkyrie_boots": {
+  "en": "An armor unique to the Silver Dungeon. When fully worn, you are granted temporary flight. Quite useful for getting to high places.",
+  "ru": "Доспехи, уникальные для Серебряного Подземелья. При полном ношении вам предоставляется временный полет. Очень полезно для попадания на высокие места."
+ },
+ "lore.item.aether.valkyrie_cape": {
+  "en": "A rare cape that is found in Silver Dungeons. When worn, the wearer becomes lighter than air and can descend slowly.",
+  "ru": "Редкий плащ из серебряного подземелья. Делает владельца легче воздуха и позволяет медленно опускаться на землю."
+ },
+ "lore.item.aether.valkyrie_chestplate": {
+  "en": "An armor unique to the Silver Dungeon. When fully worn, you are granted temporary flight. Quite useful for getting to high places.",
+  "ru": "Доспехи, уникальные для Серебряного Подземелья. При полном ношении вам предоставляется временный полет. Очень полезно для попадания на высокие места."
+ },
+ "lore.item.aether.valkyrie_gloves": {
+  "en": "An armor unique to the Silver Dungeon. The gloves are needed to complete the armor set, which grants temporary flight.",
+  "ru": "Перчатки из серебряного подземелья. Дополняют комплект валькирии, дающий временную способность летать."
+ },
+ "lore.item.aether.valkyrie_helmet": {
+  "en": "An armor unique to the Silver Dungeon. When fully worn, you are granted temporary flight. Quite useful for getting to high places.",
+  "ru": "Доспехи, уникальные для Серебряного Подземелья. При полном ношении вам предоставляется временный полет. Очень полезно для попадания на высокие места."
+ },
+ "lore.item.aether.valkyrie_hoe": {
+  "en": "A tool unique to the Silver Dungeon. This hoe has an incredibly far reach, allowing you to pointlessly till dirt from a safe distance.",
+  "ru": "Инструмент из серебряного подземелья с увеличенной дальностью действия. Позволяет обрабатывать землю на расстоянии."
+ },
+ "lore.item.aether.valkyrie_lance": {
+  "en": "A tool unique to the Bronze Dungeon. This long-range weapon is very good for defeating Zephyrs and Valkyrie Queens.",
+  "ru": "Инструмент, уникальный для Бронзового Подземелья. Это дальнобойное оружие очень хорошо для победы над Зефирами и Королевами Валькирий."
+ },
+ "lore.item.aether.valkyrie_leggings": {
+  "en": "An armor unique to the Silver Dungeon. When fully worn, you are granted temporary flight. Quite useful for getting to high places.",
+  "ru": "Доспехи, уникальные для Серебряного Подземелья. При полном ношении вам предоставляется временный полет. Очень полезно для попадания на высокие места."
+ },
+ "lore.item.aether.valkyrie_pickaxe": {
+  "en": "A tool unique to the Silver Dungeon. This pickaxe is very useful when it comes to mining blocks from under islands, as it has a very far reach, almost double the normal reach! It is also quite useful for fighting the Slider.",
+  "ru": "Кирка из серебряного подземелья. Дальность действия почти вдвое больше обычной: удобно добывать блоки под островами и сражаться с Ползуном."
+ },
+ "lore.item.aether.valkyrie_shovel": {
+  "en": "A tool unique to the Silver Dungeon. This shovel can help you reach Quicksoil from a safer distance; quite useful wouldn't you say?",
+  "ru": "Лопата из серебряного подземелья с увеличенной дальностью действия. Позволяет безопаснее добывать зыбучий песок у краёв островов."
+ },
+ "lore.item.aether.vampire_blade": {
+  "en": "A mysterious sword that has life-stealing abilities. Holding it just makes you feel creepily empty...",
+  "ru": "Таинственный меч, похищающий жизненные силы врагов. Даже держать его в руках как-то неуютно…"
+ },
+ "lore.item.aether.victory_medal": {
+  "en": "Proof of defeating a lesser Valkyrie. Use these to prove to the Valkyrie Queen you are worthy enough to fight her!",
+  "ru": "Доказательство победы над меньшей Валькирией. Используйте их, чтобы доказать Королеве Валькирий, что вы достойны сразиться с ней!"
+ },
+ "lore.item.aether.white_apple": {
+  "en": "One of the only known cures for the Aether's deadly poison. You can find them on Crystal Trees.",
+  "ru": "Одно из немногих известных лекарств от смертельного яда Эфира. Вы можете найти их на Кристальных деревьях."
+ },
+ "lore.item.aether.white_cape": {
+  "en": "A light and fluffy cape that is made from White Wool.",
+  "ru": "Лёгкий и мягкий плащ, который изготавливается из белой шерсти."
+ },
+ "lore.item.aether.white_moa_egg": {
+  "en": "An egg laid by a White Moa. Hatching this provides a White Moa with 4 mid-air jumps. This Moa is decently rare.",
+  "ru": "Яйцо, снесённое Белым Моа. При его вылуплении, Белый Моа сможет совершить 4 прыжка в воздухе. Этот Моа довольно редкий."
+ },
+ "lore.item.aether.yellow_cape": {
+  "en": "A bright Yellow Cape that is crafted using Yellow Wool.",
+  "ru": "Яркий Жёлтый плащ, сделанный из жёлтой шерсти."
+ },
+ "lore.item.aether.zanite_axe": {
+  "en": "One of the Aether's mid-tier tools, you can mine wood faster than stone, and it will get even faster as the tool is worn down.",
+  "ru": "Топор среднего уровня Эфира. По базовому уровню соответствует железному топору. Подходит для рубки деревьев и добычи золотого янтаря."
+ },
+ "lore.item.aether.zanite_boots": {
+  "en": "Part of the Zanite armor set, equivalent in protection to iron.",
+  "ru": "Часть занитного комплекта брони. По уровню защиты соответствует железной броне."
+ },
+ "lore.item.aether.zanite_chestplate": {
+  "en": "Part of the Zanite armor set, equivalent in protection to iron.",
+  "ru": "Часть занитного комплекта брони. По уровню защиты соответствует железной броне."
+ },
+ "lore.item.aether.zanite_gemstone": {
+  "en": "The Aether's version of iron. These shiny purple gems can be made into tools and armor that increase in strength when used.",
+  "ru": "Эфирная версия железа. Эти блестящие фиолетовые драгоценные камни можно превратить в инструменты и доспехи, прочность которых увеличивается при использовании."
+ },
+ "lore.item.aether.zanite_gloves": {
+  "en": "A pair of gloves, needed to complete the Zanite armor set.",
+  "ru": "Перчатки, дополняющие комплект занитной брони."
+ },
+ "lore.item.aether.zanite_helmet": {
+  "en": "Part of the Zanite armor set, equivalent in protection to iron.",
+  "ru": "Часть занитного комплекта брони. По уровню защиты соответствует железной броне."
+ },
+ "lore.item.aether.zanite_hoe": {
+  "en": "One of the Aether's mid-tier tools, It can be used to harvest many plant-based or organic blocks. It will get even faster at harvesting as the tool is worn down.",
+  "ru": "Инструмент среднего уровня Эфира. Подходит для обработки земли и сбора растительных блоков."
+ },
+ "lore.item.aether.zanite_leggings": {
+  "en": "Part of the Zanite armor set, equivalent in protection to iron.",
+  "ru": "Часть занитного комплекта брони. По уровню защиты соответствует железной броне."
+ },
+ "lore.item.aether.zanite_pendant": {
+  "en": "A pendant that allows you to mine faster. It doesn't last for long, so use it wisely!",
+  "ru": "Кулон, ускоряющий добычу блоков. Быстро изнашивается, поэтому используйте его с умом!"
+ },
+ "lore.item.aether.zanite_pickaxe": {
+  "en": "One of the Aether's mid-tier tools, it mines what iron can, except as its durability decreases, it gets faster. Be careful though, as when it's repaired it will be as slow as before!",
+  "ru": "Кирка среднего уровня Эфира. По уровню добычи соответствует железной кирке. Подходит для добычи занитной и гравититовой руды."
+ },
+ "lore.item.aether.zanite_ring": {
+  "en": "A ring which allows you to mine faster. It doesn't last for long, so use it wisely!",
+  "ru": "Кольцо, ускоряющее добычу блоков. Быстро изнашивается, поэтому используйте его с умом!"
+ },
+ "lore.item.aether.zanite_shovel": {
+  "en": "One of the Aether's mid-tier tools, as you mine Aether Dirt and Quicksoil, the durability will decrease and the shovel will get faster. If you wait long enough, it will start breaking blocks instantly! Be careful repairing it, as it will be slower when there is more durability.",
+  "ru": "Лопата среднего уровня Эфира. Подходит для добычи земли Эфира и зыбучего песка."
+ },
+ "lore.item.aether.zanite_sword": {
+  "en": "One of the Aether's mid-tier tools, the attack damage on this sword starts at iron level and will increase up to twice as strong as it loses durability.",
+  "ru": "Меч среднего уровня Эфира. По базовому уровню соответствует железному мечу."
+ }
+}

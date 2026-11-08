@@ -1,0 +1,91 @@
+{
+ "credit": "Converted from The Aether (fan port, do not distribute)",
+ "texture_size": [
+  128,
+  64
+ ],
+ "aether_display_scale": 1.0031347962382446,
+ "aether_display_height": 2.0,
+ "aether_renderer_scale": 1.0,
+ "textures": {
+  "0": "aether:entity/mobs/slider/slider_asleep",
+  "particle": "aether:entity/mobs/slider/slider_asleep"
+ },
+ "elements": [
+  {
+   "from": [
+    -7.95,
+    0.0,
+    -7.95
+   ],
+   "to": [
+    23.95,
+    31.9,
+    23.95
+   ],
+   "faces": {
+    "north": {
+     "uv": [
+      4.0,
+      8.0,
+      8.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "east": {
+     "uv": [
+      8.0,
+      8.0,
+      12.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "south": {
+     "uv": [
+      12.0,
+      8.0,
+      16.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "west": {
+     "uv": [
+      0.0,
+      8.0,
+      4.0,
+      16.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "up": {
+     "uv": [
+      4.0,
+      0.0,
+      8.0,
+      8.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    },
+    "down": {
+     "uv": [
+      8.0,
+      0.0,
+      12.0,
+      8.0
+     ],
+     "texture": "#0",
+     "rotation": 0
+    }
+   }
+  }
+ ],
+ "aether_limbs": []
+}

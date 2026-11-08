@@ -1,0 +1,56 @@
+plugins {
+    id 'java'
+}
+
+group = 'com.aetherport'
+version = '1.0.0'
+description = 'Private fan port of The Aether for Paper 26.2'
+
+repositories {
+    mavenCentral()
+    maven {
+        name = 'papermc'
+        url = 'https://repo.papermc.io/repository/maven-public/'
+    }
+}
+
+dependencies {
+    compileOnly 'io.netty:netty-transport:4.2.15.Final'
+    compileOnly 'io.papermc.paper:paper-api:26.2.build.129-stable'
+}
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(25)
+    }
+}
+
+tasks.withType(JavaCompile).configureEach {
+    options.encoding = 'UTF-8'
+    options.release = 25
+}
+
+processResources {
+    filteringCharset = 'UTF-8'
+}
+
+jar {
+    archiveBaseName = 'Aether'
+    archiveClassifier = ''
+}
+
+tasks.register('copyToServer', Copy) {
+    dependsOn 'jar'
+    from tasks.jar.archiveFile
+    into "${rootDir}/../server/plugins"
+    doLast {
+        def pack = file("${rootDir}/../dist/aether-resourcepack.zip")
+        if (pack.exists()) {
+            copy {
+                from pack
+                into "${rootDir}/../server/plugins/Aether"
+                rename { 'resourcepack.zip' }
+            }
+        }
+    }
+}

@@ -1,0 +1,26 @@
+{
+ "music_disc_aether_tune": {
+  "sound": "aether:aether:item.music_disc.aether_tune",
+  "length": 149.0
+ },
+ "music_disc_ascending_dawn": {
+  "sound": "aether:aether:item.music_disc.ascending_dawn",
+  "length": 350.0
+ },
+ "music_disc_chinchilla": {
+  "sound": "aether:aether:item.music_disc.chinchilla",
+  "length": 164.0
+ },
+ "music_disc_high": {
+  "sound": "aether:aether:item.music_disc.high",
+  "length": 186.0
+ },
+ "music_disc_klepto": {
+  "sound": "aether:aether:item.music_disc.klepto",
+  "length": 192.0
+ },
+ "music_disc_sliders_wrath": {
+  "sound": "aether:aether:item.music_disc.sliders_wrath",
+  "length": 172.0
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "dimension_min_y": 0,
+ "ores": [
+  {
+   "ore": "aether_dirt",
+   "replace": [
+    "holystone"
+   ],
+   "size": 33,
+   "count": 20,
+   "minY": 0,
+   "maxY": 128,
+   "trapezoid": false
+  },
+  {
+   "ore": "ambrosium_ore",
+   "replace": [
+    "holystone"
+   ],
+   "size": 16,
+   "count": 20,
+   "minY": 0,
+   "maxY": 128,
+   "trapezoid": false
+  },
+  {
+   "ore": "gravitite_ore",
+   "replace": [
+    "holystone"
+   ],
+   "size": 4,
+   "count": 7,
+   "minY": 0,
+   "maxY": 74,
+   "trapezoid": true
+  },
+  {
+   "ore": "gravitite_ore",
+   "replace": [
+    "holystone"
+   ],
+   "size": 3,
+   "count": 5,
+   "minY": 0,
+   "maxY": 74,
+   "trapezoid": false
+  },
+  {
+   "ore": "icestone",
+   "replace": [
+    "holystone"
+   ],
+   "size": 32,
+   "count": 10,
+   "minY": 0,
+   "maxY": 128,
+   "trapezoid": false
+  },
+  {
+   "ore": "zanite_ore",
+   "replace": [
+    "holystone"
+   ],
+   "size": 5,
+   "count": 14,
+   "minY": 0,
+   "maxY": 75,
+   "trapezoid": false
+  }
+ ],
+ "springs": {
+  "rock_count": 4,
+  "valid": [
+   "holystone",
+   "aether_dirt"
+  ]
+ }
+}

@@ -1,0 +1,19 @@
+name: Aether
+version: '1.0.0'
+main: com.aetherport.aether.AetherPlugin
+api-version: '26.2'
+authors: [AetherPort]
+description: Private fan port of The Aether for Paper 26.2
+load: STARTUP
+commands:
+  aetherlore:
+    description: Open the interactive Book of Lore
+    usage: /aetherlore
+  aether:
+    description: Aether main command
+    usage: /aether <info|reload>
+    permission: aether.command
+permissions:
+  aether.command:
+    description: Access to /aether
+    default: op

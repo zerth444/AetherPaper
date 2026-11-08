@@ -1,0 +1,36 @@
+# Aether port configuration.
+resource-pack:
+  # If true, the plugin hosts the bundled resource pack over its own HTTP server.
+  self-host: true
+  # Public URL used when self-host is false. Must point at the pack zip.
+  url: ""
+  # Public hostname/ip clients should download from when self-hosting (empty = server ip).
+  public-host: ""
+  # Port for the built-in HTTP server.
+  port: 8127
+  # Kick players who decline the pack (false keeps them playing with degraded visuals).
+  force: false
+  prompt: "The Aether resource pack is required for the full experience."
+debug:
+  # Log available worlds and datapack dimensions a few seconds after startup.
+  dimension: false
+  content: false
+  portal-test: false
+  mob-test: false
+  ability-test: false
+  accessory-test: false
+  station-test: false
+  workshop-test: false
+  dungeon-test: false
+  boss-test: false
+  advancement-test: false
+  advancement-diag: false
+dungeons:
+  enabled: false
+world:
+  # Dimension key registered by the bundled datapack.
+  dimension: "aether:the_aether"
+  # Automatically copy the bundled datapack into every world's datapacks folder on startup.
+  install-datapack: true
+  # Create the dimension world automatically once the datapack is present.
+  auto-create: true

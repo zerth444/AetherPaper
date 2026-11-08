@@ -1,0 +1,1998 @@
+{
+ "backgrounds": {
+  "en_0_0": "",
+  "en_0_1": "",
+  "en_1_0": "",
+  "en_1_1": "",
+  "ru_0_0": "",
+  "ru_0_1": "",
+  "ru_1_0": "",
+  "ru_1_1": ""
+ },
+ "entries": {
+  "lore.block.aether.aether_dirt": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.aether_dirt_path": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.aether_farmland": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.aether_grass_block": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.altar": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.ambrosium_block": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.ambrosium_ore": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.ambrosium_torch": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.berry_bush": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.berry_bush_stem": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.blue_aercloud": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.cold_aercloud": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.crystal_fruit_leaves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.block.aether.crystal_leaves": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.enchanted_gravitite": {
+   "en": [
+    "",
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.freezer": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.golden_aercloud": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.golden_oak_leaves": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.golden_oak_log": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.golden_oak_sapling": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.golden_oak_wood": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.gravitite_ore": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_brick_slab": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_brick_stairs": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_brick_wall": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_bricks": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_button": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_pressure_plate": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_slab": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_stairs": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.holystone_wall": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.icestone": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.icestone_slab": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.icestone_stairs": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.icestone_wall": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.incubator": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.mossy_holystone": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.mossy_holystone_slab": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.mossy_holystone_stairs": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.mossy_holystone_wall": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.purple_flower": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.quicksoil": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.quicksoil_glass": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.quicksoil_glass_pane": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_bed": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_bookshelf": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_button": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_door": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_fence": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_fence_gate": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_leaves": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_log": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_planks": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_pressure_plate": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_sapling": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_sign": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_slab": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_stairs": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_trapdoor": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.skyroot_wood": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.stripped_skyroot_log": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.stripped_skyroot_wood": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.white_flower": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.zanite_block": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.block.aether.zanite_ore": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.aechor_petal": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.ambrosium_shard": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.black_moa_egg": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.blue_berry": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.blue_cape": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.blue_moa_egg": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.book_of_lore": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.cold_parachute": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.diamond_gloves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.enchanted_berry": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.enchanted_dart": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.enchanted_dart_shooter": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.golden_amber": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.golden_dart": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.golden_dart_shooter": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.golden_gloves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.golden_parachute": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.golden_pendant": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.golden_ring": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_axe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_boots": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_chestplate": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_gloves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_helmet": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_hoe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_leggings": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_pickaxe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_shovel": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.gravitite_sword": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.healing_stone": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.holystone_axe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.holystone_hoe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.holystone_pickaxe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.holystone_shovel": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.holystone_sword": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.ice_pendant": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.ice_ring": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.iron_gloves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.iron_pendant": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.iron_ring": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.leather_gloves": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.music_disc_aether_tune": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.music_disc_chinchilla": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.music_disc_high": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.music_disc_klepto": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.nature_staff": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.netherite_gloves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.poison_dart_shooter": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.red_cape": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_axe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_boat": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_bucket": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_chest_boat": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_hoe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_milk_bucket": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_pickaxe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_shovel": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_stick": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_sword": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.skyroot_water_bucket": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.swet_ball": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.white_apple": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.white_cape": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.white_moa_egg": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.yellow_cape": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_axe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_boots": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_chestplate": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_gemstone": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_gloves": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_helmet": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_hoe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_leggings": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_pendant": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_pickaxe": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_ring": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_shovel": {
+   "en": [
+    "",
+    "",
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "lore.item.aether.zanite_sword": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    ""
+   ]
+  },
+  "__empty": {
+   "en": [
+    "",
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  },
+  "__unknown": {
+   "en": [
+    ""
+   ],
+   "ru": [
+    "",
+    ""
+   ]
+  }
+ },
+ "titles": {
+  "lore.block.aether.aether_dirt": {
+   "en": "Aether Dirt",
+   "ru": "Земля Эфира"
+  },
+  "lore.block.aether.aether_dirt_path": {
+   "en": "Aether Dirt Path",
+   "ru": "Тропинка Эфира"
+  },
+  "lore.block.aether.aether_farmland": {
+   "en": "Aether Farmland",
+   "ru": "Пашня Эфира"
+  },
+  "lore.block.aether.aether_grass_block": {
+   "en": "Aether Grass Block",
+   "ru": "Дёрн Эфира"
+  },
+  "lore.block.aether.altar": {
+   "en": "Altar",
+   "ru": "Алтарь"
+  },
+  "lore.block.aether.ambrosium_block": {
+   "en": "Block of Ambrosium",
+   "ru": "Амброзиевый блок"
+  },
+  "lore.block.aether.ambrosium_ore": {
+   "en": "Ambrosium Ore",
+   "ru": "Амброзиевая руда"
+  },
+  "lore.block.aether.ambrosium_torch": {
+   "en": "Ambrosium Torch",
+   "ru": "Амброзиевый факел"
+  },
+  "lore.block.aether.berry_bush": {
+   "en": "Berry Bush",
+   "ru": "Ягодный куст"
+  },
+  "lore.block.aether.berry_bush_stem": {
+   "en": "Bush Stem",
+   "ru": "Голый Куст"
+  },
+  "lore.block.aether.blue_aercloud": {
+   "en": "Blue Aercloud",
+   "ru": "Голубое Облако"
+  },
+  "lore.block.aether.cold_aercloud": {
+   "en": "Cold Aercloud",
+   "ru": "Холодное Облако"
+  },
+  "lore.block.aether.crystal_fruit_leaves": {
+   "en": "Crystal Fruit Leaves",
+   "ru": "Кристальная листва с плодами"
+  },
+  "lore.block.aether.crystal_leaves": {
+   "en": "Crystal Leaves",
+   "ru": "Кристальная листва"
+  },
+  "lore.block.aether.enchanted_gravitite": {
+   "en": "Enchanted Gravitite",
+   "ru": "Зачарованный гравитит"
+  },
+  "lore.block.aether.freezer": {
+   "en": "Freezer",
+   "ru": "Морозильник"
+  },
+  "lore.block.aether.golden_aercloud": {
+   "en": "Golden Aercloud",
+   "ru": "Золотое Облако"
+  },
+  "lore.block.aether.golden_oak_leaves": {
+   "en": "Golden Oak Leaves",
+   "ru": "Золотые Дубовые листья"
+  },
+  "lore.block.aether.golden_oak_log": {
+   "en": "Golden Oak Log",
+   "ru": "Золотой Дуб"
+  },
+  "lore.block.aether.golden_oak_sapling": {
+   "en": "Golden Oak Sapling",
+   "ru": "Саженец Золотого Дуба"
+  },
+  "lore.block.aether.golden_oak_wood": {
+   "en": "Golden Oak Wood",
+   "ru": "Бревно золотого дуба"
+  },
+  "lore.block.aether.gravitite_ore": {
+   "en": "Gravitite Ore",
+   "ru": "Гравититовая Руда"
+  },
+  "lore.block.aether.holystone": {
+   "en": "Holystone",
+   "ru": "Священный камень"
+  },
+  "lore.block.aether.holystone_brick_slab": {
+   "en": "Holystone Brick Slab",
+   "ru": "Плита из священнокаменного кирпича"
+  },
+  "lore.block.aether.holystone_brick_stairs": {
+   "en": "Holystone Brick Stairs",
+   "ru": "Ступеньки из священнокаменного кирпича"
+  },
+  "lore.block.aether.holystone_brick_wall": {
+   "en": "Holystone Brick Wall",
+   "ru": "Ограда из священнокаменного кирпича"
+  },
+  "lore.block.aether.holystone_bricks": {
+   "en": "Holystone Bricks",
+   "ru": "Священнокаменные кирпичи"
+  },
+  "lore.block.aether.holystone_button": {
+   "en": "Holystone Button",
+   "ru": "Священнокаменная кнопка"
+  },
+  "lore.block.aether.holystone_pressure_plate": {
+   "en": "Holystone Pressure Plate",
+   "ru": "Священнокаменная нажимная плита"
+  },
+  "lore.block.aether.holystone_slab": {
+   "en": "Holystone Slab",
+   "ru": "Священнокаменная плита"
+  },
+  "lore.block.aether.holystone_stairs": {
+   "en": "Holystone Stairs",
+   "ru": "Священнокаменные ступеньки"
+  },
+  "lore.block.aether.holystone_wall": {
+   "en": "Holystone Wall",
+   "ru": "Священнокаменная ограда"
+  },
+  "lore.block.aether.icestone": {
+   "en": "Icestone",
+   "ru": "Ледокамень"
+  },
+  "lore.block.aether.icestone_slab": {
+   "en": "Icestone Slab",
+   "ru": "Ледокаменная плита"
+  },
+  "lore.block.aether.icestone_stairs": {
+   "en": "Icestone Stairs",
+   "ru": "Ледокаменные ступеньки"
+  },
+  "lore.block.aether.icestone_wall": {
+   "en": "Icestone Wall",
+   "ru": "Ледокаменный забор"
+  },
+  "lore.block.aether.incubator": {
+   "en": "Incubator",
+   "ru": "Инкубатор"
+  },
+  "lore.block.aether.mossy_holystone": {
+   "en": "Mossy Holystone",
+   "ru": "Замшелый священный камень"
+  },
+  "lore.block.aether.mossy_holystone_slab": {
+   "en": "Mossy Holystone Slab",
+   "ru": "Замшелая священнокаменная плита"
+  },
+  "lore.block.aether.mossy_holystone_stairs": {
+   "en": "Mossy Holystone Stairs",
+   "ru": "Замшелые священнокаменные ступеньки"
+  },
+  "lore.block.aether.mossy_holystone_wall": {
+   "en": "Mossy Holystone Wall",
+   "ru": "Замшелая священнокаменная ограда"
+  },
+  "lore.block.aether.purple_flower": {
+   "en": "Purple Flower",
+   "ru": "Фиолетовый Цветок"
+  },
+  "lore.block.aether.quicksoil": {
+   "en": "Quicksoil",
+   "ru": "Быстропесок"
+  },
+  "lore.block.aether.quicksoil_glass": {
+   "en": "Quicksoil Glass",
+   "ru": "Быстростекло"
+  },
+  "lore.block.aether.quicksoil_glass_pane": {
+   "en": "Quicksoil Glass Pane",
+   "ru": "Быстростеклянная панель"
+  },
+  "lore.block.aether.skyroot_bed": {
+   "en": "Skyroot Bed",
+   "ru": "Небесная кровать"
+  },
+  "lore.block.aether.skyroot_bookshelf": {
+   "en": "Skyroot Bookshelf",
+   "ru": "Небесная книжная полка"
+  },
+  "lore.block.aether.skyroot_button": {
+   "en": "Skyroot Button",
+   "ru": "Небесная кнопка"
+  },
+  "lore.block.aether.skyroot_door": {
+   "en": "Skyroot Door",
+   "ru": "Небесная дверь"
+  },
+  "lore.block.aether.skyroot_fence": {
+   "en": "Skyroot Fence",
+   "ru": "Небесный забор"
+  },
+  "lore.block.aether.skyroot_fence_gate": {
+   "en": "Skyroot Fence Gate",
+   "ru": "Небесная Калитка"
+  },
+  "lore.block.aether.skyroot_leaves": {
+   "en": "Skyroot Leaves",
+   "ru": "Небесные листья"
+  },
+  "lore.block.aether.skyroot_log": {
+   "en": "Skyroot Log",
+   "ru": "Небесное бревно"
+  },
+  "lore.block.aether.skyroot_planks": {
+   "en": "Skyroot Planks",
+   "ru": "Небесные доски"
+  },
+  "lore.block.aether.skyroot_pressure_plate": {
+   "en": "Skyroot Pressure Plate",
+   "ru": "Небесная нажимная плита"
+  },
+  "lore.block.aether.skyroot_sapling": {
+   "en": "Skyroot Sapling",
+   "ru": "Саженец Небесного Дуба"
+  },
+  "lore.block.aether.skyroot_sign": {
+   "en": "Skyroot Sign",
+   "ru": "Небесная табличка"
+  },
+  "lore.block.aether.skyroot_slab": {
+   "en": "Skyroot Slab",
+   "ru": "Небесная плита"
+  },
+  "lore.block.aether.skyroot_stairs": {
+   "en": "Skyroot Stairs",
+   "ru": "Небесные Ступеньки"
+  },
+  "lore.block.aether.skyroot_trapdoor": {
+   "en": "Skyroot Trapdoor",
+   "ru": "Небесный Люк"
+  },
+  "lore.block.aether.skyroot_wood": {
+   "en": "Skyroot Wood",
+   "ru": "Небесное Бревно"
+  },
+  "lore.block.aether.stripped_skyroot_log": {
+   "en": "Stripped Skyroot Log",
+   "ru": "Обтёсанное Небесное бревно"
+  },
+  "lore.block.aether.stripped_skyroot_wood": {
+   "en": "Stripped Skyroot Wood",
+   "ru": "Обтёсанная Небесная древесина"
+  },
+  "lore.block.aether.white_flower": {
+   "en": "White Flower",
+   "ru": "Белый Цветок"
+  },
+  "lore.block.aether.zanite_block": {
+   "en": "Block of Zanite",
+   "ru": "Занитный блок"
+  },
+  "lore.block.aether.zanite_ore": {
+   "en": "Zanite Ore",
+   "ru": "Занитная руда"
+  },
+  "lore.item.aether.aechor_petal": {
+   "en": "Aechor Petal",
+   "ru": "Лепесток эхора"
+  },
+  "lore.item.aether.ambrosium_shard": {
+   "en": "Ambrosium Shard",
+   "ru": "Осколок Амброзиума"
+  },
+  "lore.item.aether.black_moa_egg": {
+   "en": "Black Moa Egg",
+   "ru": "Яйцо Чёрного Моа"
+  },
+  "lore.item.aether.blue_berry": {
+   "en": "Blue Berry",
+   "ru": "Синяя Ягода"
+  },
+  "lore.item.aether.blue_cape": {
+   "en": "Blue Cape",
+   "ru": "Синий Плащ"
+  },
+  "lore.item.aether.blue_moa_egg": {
+   "en": "Blue Moa Egg",
+   "ru": "Яйцо Синего Моа"
+  },
+  "lore.item.aether.book_of_lore": {
+   "en": "Book of Lore",
+   "ru": "Книга преданий"
+  },
+  "lore.item.aether.cold_parachute": {
+   "en": "Cold Parachute",
+   "ru": "Холодный Парашют"
+  },
+  "lore.item.aether.diamond_gloves": {
+   "en": "Diamond Gloves",
+   "ru": "Алмазные Перчатки"
+  },
+  "lore.item.aether.enchanted_berry": {
+   "en": "Enchanted Berry",
+   "ru": "Зачарованная Ягода"
+  },
+  "lore.item.aether.enchanted_dart": {
+   "en": "Enchanted Dart",
+   "ru": "Зачарованный Дротик"
+  },
+  "lore.item.aether.enchanted_dart_shooter": {
+   "en": "Enchanted Dart Shooter",
+   "ru": "Зачарованная Духовая Трубка"
+  },
+  "lore.item.aether.golden_amber": {
+   "en": "Golden Amber",
+   "ru": "Золотой янтарь"
+  },
+  "lore.item.aether.golden_dart": {
+   "en": "Golden Dart",
+   "ru": "Золотой Дротик"
+  },
+  "lore.item.aether.golden_dart_shooter": {
+   "en": "Golden Dart Shooter",
+   "ru": "Золотая Духовая Трубка"
+  },
+  "lore.item.aether.golden_gloves": {
+   "en": "Golden Gloves",
+   "ru": "Золотые Перчатки"
+  },
+  "lore.item.aether.golden_parachute": {
+   "en": "Golden Parachute",
+   "ru": "Золотой Парашют"
+  },
+  "lore.item.aether.golden_pendant": {
+   "en": "Golden Pendant",
+   "ru": "Золотой Кулон"
+  },
+  "lore.item.aether.golden_ring": {
+   "en": "Golden Ring",
+   "ru": "Золотое Кольцо"
+  },
+  "lore.item.aether.gravitite_axe": {
+   "en": "Gravitite Axe",
+   "ru": "Гравититовый Топор"
+  },
+  "lore.item.aether.gravitite_boots": {
+   "en": "Gravitite Boots",
+   "ru": "Гравититовые Ботинки"
+  },
+  "lore.item.aether.gravitite_chestplate": {
+   "en": "Gravitite Chestplate",
+   "ru": "Граветитовый Нагрудник"
+  },
+  "lore.item.aether.gravitite_gloves": {
+   "en": "Gravitite Gloves",
+   "ru": "Гравититовые Перчатки"
+  },
+  "lore.item.aether.gravitite_helmet": {
+   "en": "Gravitite Helmet",
+   "ru": "Гравититовый Шлем"
+  },
+  "lore.item.aether.gravitite_hoe": {
+   "en": "Gravitite Hoe",
+   "ru": "Гравититовая мотыга"
+  },
+  "lore.item.aether.gravitite_leggings": {
+   "en": "Gravitite Leggings",
+   "ru": "Гравититовые Штаны"
+  },
+  "lore.item.aether.gravitite_pickaxe": {
+   "en": "Gravitite Pickaxe",
+   "ru": "Гравититовая Кирка"
+  },
+  "lore.item.aether.gravitite_shovel": {
+   "en": "Gravitite Shovel",
+   "ru": "Гравититовая Лопата"
+  },
+  "lore.item.aether.gravitite_sword": {
+   "en": "Gravitite Sword",
+   "ru": "Гравититовый Меч"
+  },
+  "lore.item.aether.healing_stone": {
+   "en": "Healing Stone",
+   "ru": "Камень исцеления"
+  },
+  "lore.item.aether.holystone_axe": {
+   "en": "Holystone Axe",
+   "ru": "Священнокаменный топор"
+  },
+  "lore.item.aether.holystone_hoe": {
+   "en": "Holystone Hoe",
+   "ru": "Священнокаменная мотыга"
+  },
+  "lore.item.aether.holystone_pickaxe": {
+   "en": "Holystone Pickaxe",
+   "ru": "Священнокаменная кирка"
+  },
+  "lore.item.aether.holystone_shovel": {
+   "en": "Holystone Shovel",
+   "ru": "Священнокаменная лопата"
+  },
+  "lore.item.aether.holystone_sword": {
+   "en": "Holystone Sword",
+   "ru": "Священнокаменный меч"
+  },
+  "lore.item.aether.ice_pendant": {
+   "en": "Ice Pendant",
+   "ru": "Ледяной Кулон"
+  },
+  "lore.item.aether.ice_ring": {
+   "en": "Ice Ring",
+   "ru": "Ледяное Кольцо"
+  },
+  "lore.item.aether.iron_gloves": {
+   "en": "Iron Gloves",
+   "ru": "Железные Перчатки"
+  },
+  "lore.item.aether.iron_pendant": {
+   "en": "Iron Pendant",
+   "ru": "Железный Кулон"
+  },
+  "lore.item.aether.iron_ring": {
+   "en": "Iron Ring",
+   "ru": "Железное Кольцо"
+  },
+  "lore.item.aether.leather_gloves": {
+   "en": "Leather Gloves",
+   "ru": "Кожаные Перчатки"
+  },
+  "lore.item.aether.music_disc_aether_tune": {
+   "en": "Blue Music Disc",
+   "ru": "Голубая пластинка"
+  },
+  "lore.item.aether.music_disc_chinchilla": {
+   "en": "Sepia Music Disc",
+   "ru": "Пластинка цвета сепии"
+  },
+  "lore.item.aether.music_disc_high": {
+   "en": "Super Music Disc",
+   "ru": "Особая пластинка"
+  },
+  "lore.item.aether.music_disc_klepto": {
+   "en": "Blackened Music Disc",
+   "ru": "Почерневшая пластинка"
+  },
+  "lore.item.aether.nature_staff": {
+   "en": "Nature Staff",
+   "ru": "Посох Природы"
+  },
+  "lore.item.aether.netherite_gloves": {
+   "en": "Netherite Gloves",
+   "ru": "Незеритовые Перчатки"
+  },
+  "lore.item.aether.poison_dart_shooter": {
+   "en": "Poison Dart Shooter",
+   "ru": "Ядовитая Духовая Трубка"
+  },
+  "lore.item.aether.red_cape": {
+   "en": "Red Cape",
+   "ru": "Красный Плащ"
+  },
+  "lore.item.aether.skyroot_axe": {
+   "en": "Skyroot Axe",
+   "ru": "Небесный топор"
+  },
+  "lore.item.aether.skyroot_boat": {
+   "en": "Skyroot Boat",
+   "ru": "Небесная лодка"
+  },
+  "lore.item.aether.skyroot_bucket": {
+   "en": "Skyroot Bucket",
+   "ru": "Небесное ведро"
+  },
+  "lore.item.aether.skyroot_chest_boat": {
+   "en": "Skyroot Boat with Chest",
+   "ru": "Небесная лодка с сундуком"
+  },
+  "lore.item.aether.skyroot_hoe": {
+   "en": "Skyroot Hoe",
+   "ru": "Небесная мотыга"
+  },
+  "lore.item.aether.skyroot_milk_bucket": {
+   "en": "Skyroot Milk Bucket",
+   "ru": "Небесное ведро с молоком"
+  },
+  "lore.item.aether.skyroot_pickaxe": {
+   "en": "Skyroot Pickaxe",
+   "ru": "Небесная кирка"
+  },
+  "lore.item.aether.skyroot_shovel": {
+   "en": "Skyroot Shovel",
+   "ru": "Небесная лопата"
+  },
+  "lore.item.aether.skyroot_stick": {
+   "en": "Skyroot Stick",
+   "ru": "Небесная палка"
+  },
+  "lore.item.aether.skyroot_sword": {
+   "en": "Skyroot Sword",
+   "ru": "Небесный меч"
+  },
+  "lore.item.aether.skyroot_water_bucket": {
+   "en": "Skyroot Water Bucket",
+   "ru": "Небесное ведро с водой"
+  },
+  "lore.item.aether.swet_ball": {
+   "en": "Swet Ball",
+   "ru": "Сгусток Слизуна"
+  },
+  "lore.item.aether.white_apple": {
+   "en": "White Apple",
+   "ru": "Белое Яблоко"
+  },
+  "lore.item.aether.white_cape": {
+   "en": "White Cape",
+   "ru": "Белый Плащ"
+  },
+  "lore.item.aether.white_moa_egg": {
+   "en": "White Moa Egg",
+   "ru": "Яйцо Белого Моа"
+  },
+  "lore.item.aether.yellow_cape": {
+   "en": "Yellow Cape",
+   "ru": "Желтый Плащ"
+  },
+  "lore.item.aether.zanite_axe": {
+   "en": "Zanite Axe",
+   "ru": "Занитный топор"
+  },
+  "lore.item.aether.zanite_boots": {
+   "en": "Zanite Boots",
+   "ru": "Занитные ботинки"
+  },
+  "lore.item.aether.zanite_chestplate": {
+   "en": "Zanite Chestplate",
+   "ru": "Занитный нагрудник"
+  },
+  "lore.item.aether.zanite_gemstone": {
+   "en": "Zanite Gemstone",
+   "ru": "Занитный Самоцвет"
+  },
+  "lore.item.aether.zanite_gloves": {
+   "en": "Zanite Gloves",
+   "ru": "Занитные перчатки"
+  },
+  "lore.item.aether.zanite_helmet": {
+   "en": "Zanite Helmet",
+   "ru": "Занитный шлем"
+  },
+  "lore.item.aether.zanite_hoe": {
+   "en": "Zanite Hoe",
+   "ru": "Занитная мотыга"
+  },
+  "lore.item.aether.zanite_leggings": {
+   "en": "Zanite Leggings",
+   "ru": "Занитные поножи"
+  },
+  "lore.item.aether.zanite_pendant": {
+   "en": "Zanite Pendant",
+   "ru": "Занитный кулон"
+  },
+  "lore.item.aether.zanite_pickaxe": {
+   "en": "Zanite Pickaxe",
+   "ru": "Занитная кирка"
+  },
+  "lore.item.aether.zanite_ring": {
+   "en": "Zanite Ring",
+   "ru": "Занитное кольцо"
+  },
+  "lore.item.aether.zanite_shovel": {
+   "en": "Zanite Shovel",
+   "ru": "Занитная лопата"
+  },
+  "lore.item.aether.zanite_sword": {
+   "en": "Zanite Sword",
+   "ru": "Занитный меч"
+  },
+  "__empty": {
+   "en": "Book of Lore",
+   "ru": "Книга Эфира"
+  },
+  "__unknown": {
+   "en": "Book of Lore",
+   "ru": "Книга Эфира"
+  }
+ },
+ "input_slot": 29,
+ "previous_slot": 45,
+ "catalog_slot": 49,
+ "next_slot": 53
+}

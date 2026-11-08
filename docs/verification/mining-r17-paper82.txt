@@ -1,0 +1,20 @@
+PASS real START generated exactly one damage event
+PASS continuous hold has no native abort
+PASS continuous native packet mining completed
+PASS steady mining does not resend attributes each tick: 0
+PASS continuous hold clears cracks only at completion: [Crack[tick=60, stage=0], Crack[tick=74, stage=1], Crack[tick=89, stage=2], Crack[tick=104, stage=3], Crack[tick=119, stage=4], Crack[tick=134, stage=5], Crack[tick=149, stage=6], Crack[tick=164, stage=7], Crack[tick=179, stage=8], Crack[tick=194, stage=9], Crack[tick=209, stage=-1]]
+PASS native abort/start pair received for same block
+PASS same-target restart completes mining
+PASS same-tick abort/start does not flash crack clear: [Crack[tick=261, stage=0], Crack[tick=275, stage=1], Crack[tick=290, stage=2], Crack[tick=305, stage=3], Crack[tick=320, stage=4], Crack[tick=335, stage=5], Crack[tick=350, stage=6], Crack[tick=365, stage=7], Crack[tick=380, stage=8], Crack[tick=395, stage=9], Crack[tick=410, stage=-1]]
+PASS same-target restart preserves crack stages
+PASS real release reached server
+PASS release stops mining without destroying block
+PASS real release clears animation once
+PASS initial cached rate: 0.06666667014360428 expected=0.06666667014360428
+PASS haste invalidates cached rate: 0.09333333373069763 expected=0.09333333373069763
+PASS haste expiry invalidates cached rate: 0.06666667014360428 expected=0.06666667014360428
+PASS fatigue invalidates cached rate: 1.8000000272877514E-4 expected=1.8000000272877514E-4
+PASS external mining attribute invalidates cached rate: 0.13333334028720856 expected=0.13333334028720856
+PASS ground penalty invalidates cached rate: 0.013333333656191826 expected=0.013333333656191826
+PASS native eye fluid state is underwater
+PASS water penalty invalidates cached rate: 0.013333333656191826 expected=0.013333333656191826
